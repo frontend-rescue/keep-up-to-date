@@ -10,8 +10,11 @@ body {
 .main-header {
     background-color: #E85D10;
     background-image: linear-gradient(90deg, transparent 50%, #EB7106 50%);
-    background-size: 80px 80px;
+    background-size: 68px 100%;
     text-align: center;
+    border:0;
+    border-bottom: 18px solid transparent;
+    border-image: url(../assets/border-wave.png) 25 0 repeat;
 }
 
 .main-header h1 {
