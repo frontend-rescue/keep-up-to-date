@@ -213,6 +213,11 @@ p {
     background: url(../assets/own-sources.svg) top right no-repeat;
 }
 
-#your-own-sources h3 {
-    width: 5em; /* 200px */
+.featured-items li {
+    background-color: #eb7108;
+    border: solid .25em #1a171b;
+    border-radius: .5em 0 .5em 0;
+    display: block;
+    margin: 1em;
+    width: ;
 }
