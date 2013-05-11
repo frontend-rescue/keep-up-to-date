@@ -2,6 +2,22 @@ body {
     padding: 0;
 }
 
+a {
+    color: #009798;
+    padding: 5px 10px;
+}
+
+a:hover {
+    color: #FAB800;
+    background-color: #1A171B;
+    text-decoration: none;
+}
+
+p {
+    padding: 0 7%;
+    font-size: 1.5em;
+}
+
 .layout {
     width: 90%;
     max-width: 960px;
@@ -13,8 +29,7 @@ body {
     background-image: linear-gradient(90deg, #E85D10 50%, #EB7106 50%);
     background-size: 68px 100%;
     text-align: center;
-    position: relative;
-    padding-bottom: 2em;
+    padding-bottom: 3em;
 }
 
 .logo {
@@ -61,23 +76,31 @@ body {
     line-height: 1.2em;
 }
 
+.summary,
+#follow-cool-people,
+#find-the-best-sources,
+#attend-to-conferences,
+#your-own-sources {
+    position: relative;
+    top: -15px;
+    border: 0;
+    border-top: 22px solid transparent;
+    border-image: url(../assets/border-wave.png) 25 0 repeat;
+}
+
+.summary {
+    margin-bottom: 4em;
+}
+
 .summary:before {
     content: ' ';
     position: absolute;
     top: -85px;
-    left: 0;
-    right: 0;
-    width: 100%;
+    left: 50%;
+    margin-left: -220px;
+    width: 455px;
     height: 455px;
     background: url(../assets/chef.svg) top center no-repeat;
-}
-
-.summary {
-    border: 0;
-    border-top: 22px solid transparent;
-    border-image: url(../assets/border-wave-white.png) 25 0 repeat;
-    position: relative;
-    top: -22px;
 }
 
 .summary h2 {
@@ -88,30 +111,59 @@ body {
     height: 3em;
     border-radius: 100%;
     margin: 0 auto;
-    position: relative;
     background: #1A171B url(../assets/the-recipe-text.svg) center center no-repeat;
     text-indent: -10000px;
+    position: relative;
+    top: -60px;
 }
-
-/*.summary h2:after {
-    content: ' ';
-    position: absolute;
-    bottom: -1.15em;
-    left: 0;
-    border: solid #1A171B;
-    border-width: .6em 2em;
-    border-bottom-color: transparent;
-}*/
 
 .summary .layout {
     margin-top: 18em;
 }
 
+.navigation {
+    background-image: linear-gradient(#FAB800 3.8em, #009798 0);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 5em;
+}
+
+.navigation h2 {
+    line-height: 1.8em;
+    margin: 0;
+    font-weight: 200;
+}
+
+.navigation .layout {
+    position: relative;
+}
+
+.navigation .layout:before {
+    content: ' ';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 355px;
+    height: 314px;
+    background: url(../assets/kitchen.svg) right center no-repeat;
+}
+
+.navigation ol {
+    height: 7em;
+    margin: 1em 0 0 2em;
+    font-size: 1.5em;
+}
+
+.navigation ol li {
+    margin: 0 0;
+}
+
+
 #follow-cool-people {
     background: url(../assets/follow.svg) top right no-repeat;
 }
 
-#follow-cool-people h3{
+#follow-cool-people h3 {
     width: 6.8em; /* 190px */
 }
 
@@ -119,7 +171,7 @@ body {
     background: url(../assets/find-sources.svg) top right no-repeat;
 }
 
-#find-the-best-sources h3{
+#find-the-best-sources h3 {
     width: 7em; /* 204px */
 }
 
@@ -127,7 +179,7 @@ body {
     background: url(../assets/attend.svg) -57px 0 no-repeat;
 }
 
-#attend-to-conferences h3{
+#attend-to-conferences h3 {
     width: 7.3em; /* 320px */
 }
 
@@ -135,7 +187,7 @@ body {
     background: url(../assets/own-sources.svg) top right no-repeat;
 }
 
-#your-own-sources h3{
+#your-own-sources h3 {
     width: 5em; /* 200px */
 }
 
