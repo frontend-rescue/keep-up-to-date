@@ -218,13 +218,13 @@ p {
     border: solid .25em #1A171B;
     border-radius: .5em .2em .5em .2em;
     display: inline-block;
-    margin: 1%;
-    width: 46%;
+    margin: 2em 1% 1em 1%;
+    width: 31%;
     box-sizing: border-box;
     text-align: left;
-    min-height: 6em;
+    min-height: 8em;
     position: relative;
-    padding-left: 14%;
+    padding-left: 12%;
     color: #ffffff;
     outline: solid 2px #ffffff;
     outline-offset: -6px;
@@ -233,13 +233,25 @@ p {
 .follow-to-avatar {
     display: block;
     position: absolute;
-    top:-40%;
-    left: 5%;
-    width: 20%;
+    top:-20%;
+    left: 2%;
+    width: 30%;
     border: solid .25em #1A171B;
-    padding: 2%;
+    padding: .7%;
     background-color: white;
     border-radius: 1em;
+}
+
+.follow-to-expert-in {
+    background-color: #1A171B;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.skill {
+    font-weight: 200;
 }
 
 #find-the-best-sources {
