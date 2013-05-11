@@ -3,23 +3,27 @@ body {
 }
 
 .layout {
-    width: 960px;
+    width: 90%;
+    max-width: 960px;
     margin: 0 auto;
 }
 
 .main-header {
     background-color: #E85D10;
     background-image: linear-gradient(90deg, transparent 50%, #EB7106 50%);
-    background-size: 80px 80px;
+    background-size: 68px 100%;
     text-align: center;
+    border: 0;
+    border-bottom: 22px solid transparent;
+    border-image: url(../assets/border-wave.png) 25 0 repeat;
     position: relative;
+    padding-bottom: 2em;
 }
 
 .logo {
     text-transform: uppercase;
     color: #FFF;
     font-weight: 200;
-    margin: 0;
     padding: .5em 0;
 }
 
@@ -55,10 +59,25 @@ body {
 .logo strong {
     font-size: 1.6em;
     display: block;
-    font-weight: 200;
+    font-weight: 400;
     margin: 0 auto;
-    width: 10em;
     line-height: 1.2em;
+}
+
+/*.summary:before {
+    content: ' ';
+    position: absolute;
+    top: -85px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 455px;
+    background: url(../assets/chef.svg) top center no-repeat;
+}*/
+
+.summary {
+    background: url(../assets/chef.svg) top center no-repeat;
+    min-height: 4em;
 }
 
 .summary h2 {
@@ -66,10 +85,12 @@ body {
     background: #1A171B;
     color: #FFF;
     width: 4em;
-    padding-top: .5em;
     font-size: 1.5em;
+    line-height: 3.3em;
     margin: 0 auto;
     position: relative;
+    background: #1A171B url(../assets/the-recipe-text.svg) center 1em no-repeat;
+    text-indent: -10000px;
 }
 
 .summary h2:after {
@@ -80,4 +101,40 @@ body {
     border: solid #1A171B;
     border-width: .6em 2em;
     border-bottom-color: transparent;
+}
+
+#follow-cool-people {
+    background: url(../assets/follow.svg) top right no-repeat;
+}
+
+#follow-cool-people h3{
+    width: 6.8em; /* 190px */
+}
+
+#find-the-best-sources {
+    background: url(../assets/find-sources.svg) top right no-repeat;
+}
+
+#find-the-best-sources h3{
+    width: 7em; /* 204px */
+}
+
+#attend-to-conferences {
+    background: url(../assets/attend.svg) -57px 0 no-repeat;
+}
+
+#attend-to-conferences h3{
+    width: 7.3em; /* 320px */
+}
+
+#your-own-sources {
+    background: url(../assets/own-sources.svg) top right no-repeat;
+}
+
+#your-own-sources h3{
+    width: 5em; /* 200px */
+}
+
+.section-overview {
+    width: 20em; /* 320px */
 }
