@@ -13,8 +13,9 @@ body {
     background-size: 68px 100%;
     text-align: center;
     border:0;
-    border-bottom: 18px solid transparent;
+    border-bottom: 22px solid transparent;
     border-image: url(../assets/border-wave.png) 25 0 repeat;
+    position: relative;
 }
 
 .main-header h1 {
@@ -27,17 +28,88 @@ body {
 
 .main-header span {
     font-size: .5em;
+    line-height: 1.5em;
     display: inline-block;
     margin: 1em 0;
     padding: 0 1.5em;
     background-color: #1A171B;
+    position: relative;
+    color: #fab800;
+}
+
+.main-header span:before,
+.main-header span:after {
+    content: ' ';
+    position: absolute;
+    top: .2em;
+    border: .74em solid #1A171B;
+}
+
+.main-header span:before {
+    left: -1em;
+    border-left-color: transparent;
+}
+
+.main-header span:after {
+    right: -1em;
+    border-right-color: transparent;
 }
 
 .main-header strong {
     font-size: 1.6em;
     display: block;
-    font-weight: 200;
+    font-weight: 900;
     margin: 0 auto;
     width: 10em;
     line-height: 1.2em;
 }
+
+.main-header h2 {
+    background: #1A171B url(../assets/the-recipe-text.svg) center 1em no-repeat;
+    color: #FFF;
+    width: 4em;
+    height: 3em;
+    position: absolute;
+    bottom: -2.8em;
+    left: 50%;
+    margin-left: -2.9em;
+    padding-top: .5em;
+    font-size: 1.5em;
+    text-indent: -10000px;
+
+}
+
+.main-header h2:after {
+    content: ' ';
+    position: absolute;
+    bottom: -1.18em;
+    left: 0;
+    border: solid #1A171B;
+    border-width: .6em 2em;
+    border-bottom-color: transparent;
+}
+
+.index {
+    padding-top: 400px;
+    position: relative;
+}
+
+.index:before {
+    content: ' ';
+    position: absolute;
+    top: -85px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 455px;
+    background: url(../assets/chef.svg) top center no-repeat;
+}
+
+
+
+
+
+
+
+
+
