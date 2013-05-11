@@ -194,3 +194,19 @@ p {
 .section-overview {
     width: 20em; /* 320px */
 }
+
+.featured-items li {
+    background-color: #eb7108;
+    border: solid .25em #1a171b;
+    border-radius: .5em 0 .5em 0;
+    display: block;
+    margin: 1em;
+    width: ;
+}
+
+
+
+
+
+
+
