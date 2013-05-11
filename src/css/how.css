@@ -8,12 +8,14 @@ a {
 }
 
 a:hover {
+    color: #FAB800;
     background-color: #1A171B;
     text-decoration: none;
 }
 
 p {
     padding: 0 7%;
+    font-size: 1.5em;
 }
 
 .layout {
@@ -74,20 +76,29 @@ p {
     line-height: 1.2em;
 }
 
-.summary {
+.summary,
+#follow-cool-people,
+#find-the-best-sources,
+#attend-to-conferences,
+#your-own-sources {
+    position: relative;
+    top: -15px;
     border: 0;
     border-top: 22px solid transparent;
     border-image: url(../assets/border-wave.png) 25 0 repeat;
-    position: relative;
-    top: -15px;
+}
+
+.summary {
+    margin-bottom: 4em;
 }
 
 .summary:before {
     content: ' ';
     position: absolute;
     top: -85px;
-    left: 30px;
-    width: 100%;
+    left: 50%;
+    margin-left: -220px;
+    width: 455px;
     height: 455px;
     background: url(../assets/chef.svg) top center no-repeat;
 }
@@ -106,25 +117,53 @@ p {
     top: -60px;
 }
 
-/*.summary h2:after {
-    content: ' ';
-    position: absolute;
-    bottom: -1.15em;
-    left: 0;
-    border: solid #1A171B;
-    border-width: .6em 2em;
-    border-bottom-color: transparent;
-}*/
-
 .summary .layout {
     margin-top: 18em;
 }
+
+.navigation {
+    background-image: linear-gradient(#FAB800 3.8em, #009798 0);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 5em;
+}
+
+.navigation h2 {
+    line-height: 1.8em;
+    margin: 0;
+    font-weight: 200;
+}
+
+.navigation .layout {
+    position: relative;
+}
+
+.navigation .layout:before {
+    content: ' ';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 355px;
+    height: 314px;
+    background: url(../assets/kitchen.svg) right center no-repeat;
+}
+
+.navigation ol {
+    height: 7em;
+    margin: 1em 0 0 2em;
+    font-size: 1.5em;
+}
+
+.navigation ol li {
+    margin: 0 0;
+}
+
 
 #follow-cool-people {
     background: url(../assets/follow.svg) top right no-repeat;
 }
 
-#follow-cool-people h3{
+#follow-cool-people h3 {
     width: 6.8em; /* 190px */
 }
 
@@ -132,7 +171,7 @@ p {
     background: url(../assets/find-sources.svg) top right no-repeat;
 }
 
-#find-the-best-sources h3{
+#find-the-best-sources h3 {
     width: 7em; /* 204px */
 }
 
@@ -140,7 +179,7 @@ p {
     background: url(../assets/attend.svg) -57px 0 no-repeat;
 }
 
-#attend-to-conferences h3{
+#attend-to-conferences h3 {
     width: 7.3em; /* 320px */
 }
 
@@ -148,7 +187,7 @@ p {
     background: url(../assets/own-sources.svg) top right no-repeat;
 }
 
-#your-own-sources h3{
+#your-own-sources h3 {
     width: 5em; /* 200px */
 }
 
