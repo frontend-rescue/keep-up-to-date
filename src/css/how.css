@@ -2,7 +2,8 @@ body {
     padding: 0;
 }
 
-.layout {
+.layout,
+section {
     width: 960px;
     margin: 0 auto;
 }
