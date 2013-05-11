@@ -107,8 +107,21 @@ section {
 }
 
 
+#follow-cool-people {
+    background: url(../assets/follow.svg) top right no-repeat;
+}
 
+#find-the-best-sources {
+    background: url(../assets/find-sources.svg) top right no-repeat;
+}
 
+#attend-to-conferences {
+    background: url(../assets/attend.svg) top left no-repeat;
+}
+
+#your-own-sources {
+    background: url(../assets/own-sources.svg) top right no-repeat;
+}
 
 
 
