@@ -30,24 +30,6 @@ body {
     background-color: #1A171B;
 }
 
-.main-header span:before,
-.main-header span:after {
-    content: ' ';
-    line-height: 1em;
-    width: 1em;
-    height: 1em;
-    padding: 0.5em;
-    background-color: red;
-}
-
-.main-header span:before {
-
-}
-
-.main-header span:after {
-
-}
-
 .main-header strong {
     font-size: 1.6em;
     display: block;

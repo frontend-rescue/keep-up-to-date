@@ -1,0 +1,66 @@
+/*
+ * Anchors
+ */
+a {
+	color: #0637B3;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #005580;
+}
+
+a:hover,
+a:focus {
+	text-decoration: underline;
+}
+
+a img {
+	border: none;
+}
+
+/*
+ * Paragraphs
+ */
+p {
+	line-height: 1.5em;
+}
+
+/*
+ * Headings
+ */
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+	margin: 0.313em 0; /* 10px */
+	line-height: 1em;
+}
+
+.box h1, .box h2, .box h3,
+.box h4, .box h5, .box h6 {
+	margin-top: 0;
+}
+
+h1 {
+	font-size: 2.875em; /* 46px */
+}
+
+h2 {
+	font-size: 2.188em; /* 35px */
+}
+
+h3 {
+	font-size: 1.750em; /* 28px */
+}
+
+h4 {
+	font-size: 1.313em; /* 21px */
+}
+
+h5 {
+	font-size: 1.125em; /* 18px */
+}
+
+h6 {
+	font-size: 1em; /* 16px */
+}
