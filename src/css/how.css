@@ -10,12 +10,9 @@ body {
 
 .main-header {
     background-color: #E85D10;
-    background-image: linear-gradient(90deg, transparent 50%, #EB7106 50%);
+    background-image: linear-gradient(90deg, #E85D10 50%, #EB7106 50%);
     background-size: 68px 100%;
     text-align: center;
-    border: 0;
-    border-bottom: 22px solid transparent;
-    border-image: url(../assets/border-wave.png) 25 0 repeat;
     position: relative;
     padding-bottom: 2em;
 }
@@ -64,7 +61,7 @@ body {
     line-height: 1.2em;
 }
 
-/*.summary:before {
+.summary:before {
     content: ' ';
     position: absolute;
     top: -85px;
@@ -73,27 +70,30 @@ body {
     width: 100%;
     height: 455px;
     background: url(../assets/chef.svg) top center no-repeat;
-}*/
+}
 
 .summary {
-    background: url(../assets/chef.svg) top center no-repeat;
-    min-height: 4em;
+    border: 0;
+    border-top: 22px solid transparent;
+    border-image: url(../assets/border-wave-white.png) 25 0 repeat;
+    position: relative;
+    top: -22px;
 }
 
 .summary h2 {
     text-align: center;
     background: #1A171B;
     color: #FFF;
-    width: 4em;
-    font-size: 1.5em;
-    line-height: 3.3em;
+    width: 3em;
+    height: 3em;
+    border-radius: 100%;
     margin: 0 auto;
     position: relative;
-    background: #1A171B url(../assets/the-recipe-text.svg) center 1em no-repeat;
+    background: #1A171B url(../assets/the-recipe-text.svg) center center no-repeat;
     text-indent: -10000px;
 }
 
-.summary h2:after {
+/*.summary h2:after {
     content: ' ';
     position: absolute;
     bottom: -1.15em;
@@ -101,6 +101,10 @@ body {
     border: solid #1A171B;
     border-width: .6em 2em;
     border-bottom-color: transparent;
+}*/
+
+.summary .layout {
+    margin-top: 18em;
 }
 
 #follow-cool-people {
