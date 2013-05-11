@@ -24,10 +24,30 @@ body {
 
 .main-header span {
     font-size: .5em;
+    line-height: 1.5em;
     display: inline-block;
     margin: 1em 0;
     padding: 0 1.5em;
     background-color: #1A171B;
+    position: relative;
+}
+
+.main-header span:before,
+.main-header span:after {
+    content: ' ';
+    position: absolute;
+    top: .2em;
+    border: .74em solid #1A171B;
+}
+
+.main-header span:before {
+    left: -1em;
+    border-left-color: transparent;
+}
+
+.main-header span:after {
+    right: -1em;
+    border-right-color: transparent;
 }
 
 .main-header strong {
