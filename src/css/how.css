@@ -12,6 +12,7 @@ body {
     background-image: linear-gradient(90deg, transparent 50%, #EB7106 50%);
     background-size: 80px 80px;
     text-align: center;
+    position: relative;
 }
 
 .main-header h1 {
@@ -57,4 +58,26 @@ body {
     margin: 0 auto;
     width: 10em;
     line-height: 1.2em;
+}
+
+.main-header h2 {
+    background: #1A171B;
+    color: #FFF;
+    width: 4em;
+    position: absolute;
+    bottom: -2.8em;
+    left: 50%;
+    margin-left: -2em;
+    padding-top: .5em;
+    font-size: 1.5em;
+}
+
+.main-header h2:after {
+    content: ' ';
+    position: absolute;
+    bottom: -1.2em;
+    left: 0;
+    border: solid #1A171B;
+    border-width: .6em 2em;
+    border-bottom-color: transparent;
 }
