@@ -161,10 +161,38 @@ p {
 
 #follow-cool-people {
     background: url(../assets/follow.svg) top right no-repeat;
+    text-align: center;
 }
 
 #follow-cool-people h3 {
     width: 6.8em; /* 190px */
+}
+
+#follow-cool-people article {
+    background-color: #eb7108;
+    border: solid .25em #1A171B;
+    border-radius: .5em .2em .5em .2em;
+    display: inline-block;
+    margin: 1%;
+    width: 46%;
+    box-sizing: border-box;
+    text-align: left;
+    min-height: 6em;
+    position: relative;
+    padding-left: 14%;
+    color: #ffffff;
+}
+
+#follow-cool-people article img {
+    display: block;
+    position: absolute;
+    top:-40%;
+    left: 5%;
+    width: 20%;
+    border: solid .25em #1A171B;
+    padding: 2%;
+    background-color: white;
+    border-radius: 1em;
 }
 
 #find-the-best-sources {
@@ -193,16 +221,10 @@ p {
 
 .section-overview {
     width: 20em; /* 320px */
+    text-align: left;
 }
 
-.featured-items li {
-    background-color: #eb7108;
-    border: solid .25em #1a171b;
-    border-radius: .5em 0 .5em 0;
-    display: block;
-    margin: 1em;
-    width: ;
-}
+
 
 
 
