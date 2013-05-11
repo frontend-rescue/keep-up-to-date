@@ -15,15 +15,15 @@ body {
     position: relative;
 }
 
-.main-header h1 {
+.logo {
     text-transform: uppercase;
     color: #FFF;
     font-weight: 200;
-    margin-top: 0;
+    margin: 0;
     padding: .5em 0;
 }
 
-.main-header span {
+.logo span {
     font-size: .5em;
     line-height: 1.5em;
     display: inline-block;
@@ -31,27 +31,28 @@ body {
     padding: 0 1.5em;
     background-color: #1A171B;
     position: relative;
+    color: #FAB800;
 }
 
-.main-header span:before,
-.main-header span:after {
+.logo span:before,
+.logo span:after {
     content: ' ';
     position: absolute;
     top: .2em;
     border: .74em solid #1A171B;
 }
 
-.main-header span:before {
+.logo span:before {
     left: -1em;
     border-left-color: transparent;
 }
 
-.main-header span:after {
+.logo span:after {
     right: -1em;
     border-right-color: transparent;
 }
 
-.main-header strong {
+.logo strong {
     font-size: 1.6em;
     display: block;
     font-weight: 200;
@@ -60,22 +61,21 @@ body {
     line-height: 1.2em;
 }
 
-.main-header h2 {
+.summary h2 {
+    text-align: center;
     background: #1A171B;
     color: #FFF;
     width: 4em;
-    position: absolute;
-    bottom: -2.8em;
-    left: 50%;
-    margin-left: -2em;
     padding-top: .5em;
     font-size: 1.5em;
+    margin: 0 auto;
+    position: relative;
 }
 
-.main-header h2:after {
+.summary h2:after {
     content: ' ';
     position: absolute;
-    bottom: -1.2em;
+    bottom: -1.15em;
     left: 0;
     border: solid #1A171B;
     border-width: .6em 2em;
