@@ -2,10 +2,14 @@ body {
     padding: 0;
 }
 
-.layout,
-section {
+.layout {
     width: 960px;
     margin: 0 auto;
+}
+
+section {
+    width: 960px;
+    margin: 6em auto;
 }
 
 .main-header {
@@ -111,16 +115,36 @@ section {
     background: url(../assets/follow.svg) top right no-repeat;
 }
 
+#follow-cool-people h3{
+    width: 6.8em; /* 190px */
+}
+
 #find-the-best-sources {
     background: url(../assets/find-sources.svg) top right no-repeat;
 }
 
+#find-the-best-sources h3{
+    width: 7em; /* 204px */
+}
+
 #attend-to-conferences {
-    background: url(../assets/attend.svg) top left no-repeat;
+    background: url(../assets/attend.svg) -57px 0 no-repeat;
+}
+
+#attend-to-conferences h3{
+    width: 7.3em; /* 320px */
 }
 
 #your-own-sources {
     background: url(../assets/own-sources.svg) top right no-repeat;
+}
+
+#your-own-sources h3{
+    width: 5em; /* 200px */
+}
+
+.section-overview {
+    width: 20em; /* 320px */
 }
 
 
