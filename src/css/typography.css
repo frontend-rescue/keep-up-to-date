@@ -20,10 +20,11 @@ a img {
 }
 
 /*
- * Paragraphs
+ * Paragraphs & Lists
  */
-p {
-	line-height: 1.5em;
+p, ol, ul {
+	line-height: 1.75em;
+	font-weight: 200;
 }
 
 /*
@@ -50,7 +51,12 @@ h2 {
 }
 
 h3 {
-	font-size: 1.750em; /* 28px */
+	font-size: 2.750em; /* 44px */
+	text-transform: uppercase;
+}
+
+h3 span{
+	font-weight: 200;
 }
 
 h4 {
