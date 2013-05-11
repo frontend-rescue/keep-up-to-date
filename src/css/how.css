@@ -208,7 +208,12 @@ p {
     margin-left: 7em;
 }
 
-#follow-cool-people article {
+.who-to-follow {
+    text-align: center;
+    background-color: #fab800;
+}
+
+.follow-to {
     background-color: #eb7108;
     border: solid .25em #1A171B;
     border-radius: .5em .2em .5em .2em;
@@ -221,9 +226,11 @@ p {
     position: relative;
     padding-left: 14%;
     color: #ffffff;
+    outline: solid 2px #ffffff;
+    outline-offset: -6px;
 }
 
-#follow-cool-people article img {
+.follow-to-avatar {
     display: block;
     position: absolute;
     top:-40%;
