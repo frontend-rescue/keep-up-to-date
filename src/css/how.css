@@ -15,7 +15,6 @@ a:hover {
 }
 
 p {
-    padding: 0 7%;
     font-size: 1.5em;
 }
 
@@ -84,7 +83,8 @@ p {
 #attend-to-conferences,
 #your-own-sources {
     position: relative;
-    top: -15px;
+    margin-top: -15px;
+    padding-top: 3em;
     border: 0;
     border-top: 22px solid transparent;
     border-image: url(../assets/border-wave.png) 25 0 repeat;
@@ -114,11 +114,11 @@ p {
     background: #1A171B url(../assets/the-recipe-text.svg) center center no-repeat;
     text-indent: -10000px;
     position: relative;
-    top: -60px;
+    top: -3.2em;
 }
 
 .summary .layout {
-    margin-top: 18em;
+    margin-top: 15em;
 }
 
 .navigation {
@@ -158,11 +158,6 @@ p {
 .navigation ol,
 .navigation a {
     color: #FFF;
-}
-
-#follow-cool-people {
-    padding-top: 4em;
-    overflow-x: hidden;
 }
 
 #follow-cool-people .layout {
@@ -211,6 +206,7 @@ p {
 .who-to-follow {
     text-align: center;
     background-color: #fab800;
+    padding-bottom: 12em;
 }
 
 .follow-to {
@@ -242,12 +238,39 @@ p {
     border-radius: 1em;
 }
 
-#find-the-best-sources {
+#find-the-best-sources .layout:before {
+    content: ' ';
+    position: absolute;
+    top: 0;
+    right: -5em;
+    width: 388px;
+    height: 333px;
     background: url(../assets/find-sources.svg) top right no-repeat;
+    text-align: center;
 }
 
 #find-the-best-sources h3 {
-    width: 7em; /* 204px */
+    width: 6em;
+}
+
+#find-the-best-sources h3:before {
+    content: '2';
+    position: absolute;
+    top: .1em;
+    right: 1.5em;
+    background-color: #1A171B;
+    color: #FFF;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: 200;
+    line-height: 1em;
+    border-radius: 100%;
+}
+
+#find-the-best-sources p {
+    width: 65%;
 }
 
 #attend-to-conferences {
@@ -255,18 +278,13 @@ p {
 }
 
 #attend-to-conferences h3 {
-    width: 7.3em; /* 320px */
+    width: 7.3em;
 }
 
 #your-own-sources {
-    background: url(../assets/own-sources.svg) top right no-repeat;
+    background: url(../assets/own-sources.svg) right top no-repeat;
 }
 
 #your-own-sources h3 {
-    width: 5em; /* 200px */
-}
-
-.section-overview {
-    width: 20em; /* 320px */
-    text-align: left;
+    width: 5em;
 }
