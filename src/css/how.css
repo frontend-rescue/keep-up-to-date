@@ -2,13 +2,14 @@ body {
     padding: 0;
 }
 
-a {
-    color: #009798;
+a,
+a:visited {
+    color: #FAB800;
     padding: 5px 10px;
 }
 
 a:hover {
-    color: #FAB800;
+    color: #FAB800 !important;
     background-color: #1A171B;
     text-decoration: none;
 }
@@ -22,6 +23,7 @@ p {
     width: 90%;
     max-width: 960px;
     margin: 0 auto;
+    position: relative;
 }
 
 .main-header {
@@ -132,10 +134,7 @@ p {
     line-height: 1.8em;
     margin: 0;
     font-weight: 200;
-}
-
-.navigation .layout {
-    position: relative;
+    text-transform: uppercase;
 }
 
 .navigation .layout:before {
@@ -150,22 +149,49 @@ p {
 
 .navigation ol {
     height: 7em;
-    margin: 1em 0 0 2em;
+    margin: 1em 0 0 3em;
     font-size: 1.5em;
 }
 
-.navigation ol li {
-    margin: 0 0;
+.navigation li {
+    margin: .5em 0;
 }
 
+.navigation ol,
+.navigation a {
+    color: #FFF;
+}
 
 #follow-cool-people {
+    padding-top: 4em;
+}
+
+#follow-cool-people .layout {
+    padding-left: 12em;
+}
+
+#follow-cool-people .layout:before {
+    content: ' ';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 431px;
+    height: 303px;
+    z-index: 0;
     background: url(../assets/follow.svg) top right no-repeat;
 }
 
 #follow-cool-people h3 {
-    width: 6.8em; /* 190px */
+    width: 5em;
 }
+
+#follow-cool-people p {
+    width: 20em;
+    padding: 0;
+}
+
+
+
 
 #find-the-best-sources {
     background: url(../assets/find-sources.svg) top right no-repeat;
@@ -189,8 +215,4 @@ p {
 
 #your-own-sources h3 {
     width: 5em; /* 200px */
-}
-
-.section-overview {
-    width: 20em; /* 320px */
 }
