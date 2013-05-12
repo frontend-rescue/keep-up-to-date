@@ -220,7 +220,7 @@ p {
 .who-to-follow,
 .best-sources-found {
     text-align: center;
-    padding: 0 8% 12em;
+    padding: 0 8% 5em;
 }
 
 .who-to-follow {
@@ -247,7 +247,7 @@ p {
     color: #ffffff;
     box-shadow: 3px 3px 0px #fab800 inset, 3px 3px 0px #E85D10;
     min-height: 7em;
-    width: 17em;   
+    width: 17em;
 }
 
 .follow-to a {
