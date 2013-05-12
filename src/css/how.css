@@ -163,11 +163,6 @@ p {
     padding: 5px 10px;
 }
 
-#follow-cool-people {
-    padding-top: 4em;
-    overflow-x: hidden;
-}
-
 #follow-cool-people .layout {
     background: url(../assets/follow-arrow.svg) top left no-repeat;
 }
