@@ -339,12 +339,42 @@ p {
     width: 65%;
 }
 
-#attend-to-conferences {
+#attend-to-conferences .layout:before {
+    content: ' ';
+    position: absolute;
+    top: -3em;
+    left: -10em;
+    width: 823px;
+    height: 478px;
     background: url(../assets/attend.svg) -57px 0 no-repeat;
+    text-align: center;
 }
 
 #attend-to-conferences h3 {
     width: 7.3em;
+    margin-left: 5.3em;
+    padding-top: 1.6em;
+    position: relative;
+}
+
+#attend-to-conferences h3:before {
+    content: '3';
+    position: absolute;
+    top: 1.47em;
+    left: -1.45em;
+    background-color: #1A171B;
+    color: #FFF;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: 200;
+    line-height: 1em;
+    border-radius: 100%;
+}
+
+#attend-to-conferences p {
+    margin-left: 9.5em;
 }
 
 #get-your-own-sources {
