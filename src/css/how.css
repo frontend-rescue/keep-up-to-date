@@ -80,7 +80,7 @@ p {
 #follow-cool-people,
 #find-the-best-sources,
 #attend-to-conferences,
-#your-own-sources {
+#get-your-own-sources {
     position: relative;
     margin-top: -15px;
     padding-top: 3em;
@@ -352,10 +352,10 @@ p {
     width: 7.3em;
 }
 
-#your-own-sources {
+#get-your-own-sources {
     background: url(../assets/own-sources.svg) right top no-repeat;
 }
 
-#your-own-sources h3 {
+#get-your-own-sources h3 {
     width: 5em;
 }
