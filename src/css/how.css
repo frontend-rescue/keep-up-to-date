@@ -217,27 +217,37 @@ p {
     margin-left: 7em;
 }
 
-.who-to-follow {
+.who-to-follow,
+.best-sources-found {
     text-align: center;
-    background-color: #fab800;
     padding: 0 8% 12em;
+}
+
+.who-to-follow {
+    background-color: #fab800;
+}
+
+.follow-to,
+.best-source-found {
+    border-radius: .5em .2em .5em .2em;
+    display: inline-block;
+    margin: 2em 2.5% 1em 2.5%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: left;
+    position: relative;
+    color: #ffffff;
+    vertical-align: top;
 }
 
 .follow-to {
     background-color: #E85D10;
     border: solid 3px #1A171B;
-    border-radius: .5em .2em .5em .2em;
-    display: inline-block;
-    margin: 2em 2.5% 1em 2.5%;
-    width: 17em;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    text-align: left;
-    min-height: 7em;
-    position: relative;
     padding-left: 6.5em;
     color: #ffffff;
     box-shadow: 3px 3px 0px #fab800 inset, 3px 3px 0px #E85D10;
+    min-height: 7em;
+    width: 17em;   
 }
 
 .follow-to a {
@@ -448,6 +458,22 @@ p {
     border-right-color: transparent;
 }
 
+.best-source-found {
+    background-color: #E85D10;
+    border: solid 3px #1A171B;
+    color: #ffffff;
+    box-shadow: 0px 3px 0px #fff inset, 3px 3px 0px #E85D10;
+    padding: .5em 1em;
+    width: 25em;
+    min-height: 9em;
+    border-left-width: 2.5em;
+}
+
+#find-the-best-sources .best-source-found p{
+    font-size: 1em;
+    line-height: 1.3em;
+    width: 100%;
+}
 
 /*
  * Attend to conferences
