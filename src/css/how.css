@@ -254,14 +254,20 @@ p {
     padding-left: 0;
 }
 
-.follow-to-expert {
+
+.follow-to-expert,
+.best-source-found-title {
     font-size: 1em;
+    line-height: 1.3em;
     font-weight: 400;
     letter-spacing: .08em;
-    margin: .5em 0 0 0;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+}
+
+.follow-to-expert {
+    margin: .5em 0 0 0;
 }
 
 .follow-to-avatar {
@@ -365,6 +371,7 @@ p {
     font-size: 1.5em;
     text-transform: uppercase;
     line-height: 40px;
+    min-width: 300px;
 }
 
 .source-type:nth-child(2) .source-type-title {
@@ -462,11 +469,48 @@ p {
     background-color: #E85D10;
     border: solid 3px #1A171B;
     color: #ffffff;
-    box-shadow: 0px 3px 0px #fff inset, 3px 3px 0px #E85D10;
+    box-shadow: 0px 1px 0px #fff inset, 2px 2px 0px #E85D10;
     padding: .5em 1em;
     width: 25em;
     min-height: 9em;
     border-left-width: 2.5em;
+}
+
+.source-type:nth-child(2) .best-source-found {
+    background-color: #009798;
+    box-shadow: 0px 1px 0px #ffffff inset, 2px 2px 0px #009798;
+    min-height: 5em;
+}
+
+.source-type:nth-child(3) .best-source-found {
+    background-color: #eb7108;
+    box-shadow: 0px 1px 0px #ffffff inset, 2px 2px 0px #eb7108;
+    min-height: 17.5em;
+    width: 14em;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-left-width: 0;
+    border-bottom-width: 3em;
+}
+
+.source-type:nth-child(4) .best-source-found {
+    background-color: #fab800;
+    box-shadow: 0px 1px 0px #ffffff inset, 2px 2px 0px #fab800;
+    min-height: 5em;
+    width: 27.5em;
+    border-left-width: 2px;
+
+}
+
+.source-type:nth-child(5) .best-source-found {
+    width: 89%;
+    min-height: auto;
+    border-left-width: 1px;
+    border-right-width: 2.5em;
+}
+
+.source-type:nth-child(4) .best-source-found a {
+    color: #1A171B;
 }
 
 #find-the-best-sources .best-source-found p{
@@ -526,3 +570,7 @@ p {
 #get-your-own-sources p {
      width: 65%;
 }
+
+
+
+
