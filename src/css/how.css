@@ -336,6 +336,121 @@ p {
     width: 60%;
 }
 
+.source-type {
+    position: relative;
+    background: url(../assets/find-sources-misc.svg) center top no-repeat;
+    padding-top: 60px;
+}
+
+.source-type-title {
+    width: 22%;
+    height: 40px;
+    background-color: #1A171B;
+    margin: 0 auto;
+    position: relative;
+    top: -38px;
+    color: white;
+    text-align: center;
+    letter-spacing: .2em;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    line-height: 40px;
+    text-indent: 0;
+    min-width: 280px;
+    max-width: 520px;
+}
+
+.source-type:nth-child(2) .source-type-title {
+    background-color: #009798;
+}
+
+.source-type:nth-child(2) .source-type-title:after,
+.source-type:nth-child(2) .source-type-title:before {
+    border-top-color: #009798;
+    border-bottom-color: #009798;
+}
+
+.source-type:nth-child(2) .source-type-title:before {
+    border-right-color: #009798;
+}
+
+.source-type:nth-child(2) .source-type-title:after {
+    border-left-color: #009798;
+}
+
+.source-type:nth-child(3) .source-type-title {
+    background-color: #eb7108;
+}
+
+.source-type:nth-child(3) .source-type-title:after,
+.source-type:nth-child(3) .source-type-title:before {
+    border-top-color: #eb7108;
+    border-bottom-color: #eb7108;
+}
+
+.source-type:nth-child(3) .source-type-title:before {
+    border-right-color: #eb7108;
+}
+
+.source-type:nth-child(3) .source-type-title:after {
+    border-left-color: #eb7108;
+}
+
+.source-type:nth-child(4) .source-type-title {
+    background-color: #fab800;
+}
+
+.source-type:nth-child(4) .source-type-title:after,
+.source-type:nth-child(4) .source-type-title:before {
+    border-top-color: #fab800;
+    border-bottom-color: #fab800;
+}
+
+.source-type:nth-child(4) .source-type-title:before {
+    border-right-color: #fab800;
+}
+
+.source-type:nth-child(4) .source-type-title:after {
+    border-left-color: #fab800;
+}
+
+.source-type:nth-child(5) .source-type-title {
+    background-color: #e85d10;
+}
+
+.source-type:nth-child(5) .source-type-title:after,
+.source-type:nth-child(5) .source-type-title:before {
+    border-top-color: #e85d10;
+    border-bottom-color: #e85d10;
+}
+
+.source-type:nth-child(5) .source-type-title:before {
+    border-right-color: #e85d10;
+}
+
+.source-type:nth-child(5) .source-type-title:after {
+    border-left-color: #e85d10;
+}
+
+
+.source-type .source-type-title:before,
+.source-type .source-type-title:after {
+    content: ' ';
+    position: absolute;
+    top: 0;
+    border: 20px solid #1A171B;
+}
+
+.source-type .source-type-title:before {
+    left: -20px;
+    border-left-color: transparent;
+}
+
+.source-type .source-type-title:after {
+    right: -20px;
+    border-right-color: transparent;
+}
+
 
 /*
  * Attend to conferences
