@@ -1,58 +1,58 @@
 # How to keep up to date on Front-end Technologies?
 
-
 ## The recipe [work-in-progress]
 
-The web is an universe evolving extremely fast. An important part of our job as front-end developers is keeping up to date and stay close from new tools, trends and workflows.
-Hundreds of blog posts and articles are published every day, but there is no way you can read all. We think you should have a strategy to keep up to date, so we have created this recipe.
+The web is a universe evolving extremely fast. An important part of our job as front-end developers is keeping up to date and stay close to new tools, trends and workflows.
+Hundreds of blog posts and articles are published every day, but there is no way you can read all of them. We think you should have a strategy to keep up to date, so we have created this project.
 
-**For this recipe you have to**
+## Made by devs, for devs
 
-1. [Follow cool people](#follow-cool-people)
-2. [Find the best sources](#find-the-best-sources)
-3. [Attend to conferences](#attend-to-conferences)
-4. [Your own sources](#your-own-sources)
+### Guille Paz
+Front-end developer - JavaScript developer | Web standards lover
+- E-mail: [guille87paz@gmail.com](mailto:guille87paz@gmail.com)
+- Twitter: [@pazguille](http://twitter.com/pazguille)
+- Web: [http://pazguille.me](http://pazguille.me)
 
-<a name="wiki-follow-cool-people"></a>
-### Follow cool people
+### Hernan Mammana
+Front-end developer
+- E-mail: [hernanmammana‎@gmail.com](mailto:hernan.mammana‎@gmail.com)
+- Twitter: [@pazguille](http://twitter.com/hmammana‎)
+- Web: [http://pazguille.me](http://pazguille.me)
 
-The front-end leaders helps you to stay on top of relevant news and trends. Because they are in-the-know and they are working on a specific topic.
+## Designer Star
+### Fer Adorneti
+- E-mail: [ferador@gmail.com](mailto:ferador@gmail.com)
+- Twitter: [@cavemandg](https://twitter.com/cavemandg)
+- Web: [cavemandg](http://www.flickr.com/photos/cavemandg/)
 
-Twitter can be a great place to find people who are in-the-know. 
+## Thank you
 
-#### JavaScript
+### Lea Verou
+- Twitter: [@LeaVerou](https://twitter.com/LeaVerou)
+- Web: [http://lea.verou.me/](http://lea.verou.me/)
 
-#### CSS
+### Paul Irish
+- Twitter: [@paul_irish](https://twitter.com/paul_irish)
+- Web: [http://paulirish.com](http://paulirish.com)
 
-#### Mobile
+## License
+### The MIT License
+Copyright (c) 2013 [@pazguille](http://twitter.com/pazguille)
 
-#### Performance
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-<a name="wiki-find-the-best-sources"></a>
-### Find the best sources
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
 
-Around the web there are many useful information about front-end news and trends. But, sometimes is so hard to find out and read all. It's a mess and you will go crazy!
-
-Therefore, we have put together the best sources about news and trends in the front-end world. 
-
-#### Twitter
-
-#### Blogs   
-
-#### Weekly News
-
-#### Podcasts
-
-<a name="wiki-attend-to-conferences"></a>
-### Attend to conferences
-
-Thousands of developers attend to conferences to promote the latest technologies, share ideas, thoughts or experiences and learn from others. They discuss about best practices, standards, and trends. You should participate and meet awesome people or organizations and other folks who do what you do. 
-
-#### Frontend
-
-#### JS
-
-#### CSS
-
-<a name="wiki-your-own-sources"></a>
-### Your Own Sources
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
