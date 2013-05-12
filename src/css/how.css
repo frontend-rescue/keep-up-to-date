@@ -493,6 +493,21 @@ p {
     border-bottom-width: 3em;
 }
 
+.source-type:nth-child(3) .best-source-found {
+    background-color: transparent;
+    box-shadow: 2px 0px 0px #fab800 inset, -3px 0 0px #eb7108;
+    min-height: auto;
+    width: 14em;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-left-width: 2px;
+    border-bottom-width: 0;
+    color: #000;
+    border-right-width: 0;
+    border-top-width: 0;
+
+}
+
 .source-type:nth-child(4) .best-source-found {
     background-color: #fab800;
     box-shadow: 0px 1px 0px #ffffff inset, 2px 2px 0px #fab800;
