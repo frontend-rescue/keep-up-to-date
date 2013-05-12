@@ -18,8 +18,8 @@ Buenos Aires, Argentina
 Front-end developer
 Buenos Aires, Argentina
 - E-mail: [hernanmammana‎@gmail.com](mailto:hernan.mammana‎@gmail.com)
-- Twitter: [@pazguille](http://twitter.com/hmammana‎)
-- Web: [http://pazguille.me](http://pazguille.me)
+- Twitter: [@hmammana‎](http://twitter.com/hmammana‎)
+- Web: [http://mammana.me/](http://mammana.me)
 
 ### Lean Linares
 Front-end developer
@@ -33,7 +33,7 @@ Buenos Aires, Argentina
 Buenos Aires, Argentina
 - E-mail: [ferador@gmail.com](mailto:ferador@gmail.com)
 - Twitter: [@cavemandg](https://twitter.com/cavemandg)
-- Web: [cavemandg](http://www.flickr.com/photos/cavemandg/)
+- Web: [Cavemandg's flickr](http://www.flickr.com/photos/cavemandg)
 
 ## Thank you
 
