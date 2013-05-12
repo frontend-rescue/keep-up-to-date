@@ -17,13 +17,9 @@ p {
     font-size: 1.5em;
 }
 
-.layout {
-    width: 90%;
-    max-width: 960px;
-    margin: 0 auto;
-    position: relative;
-}
-
+/*
+ * Header
+ */
 .main-header {
     background-color: #E85D10;
     background-image: linear-gradient(90deg, #E85D10 50%, #EB7106 50%);
@@ -32,6 +28,9 @@ p {
     padding-bottom: 3em;
 }
 
+/*
+ * Logo
+ */
 .logo {
     text-transform: uppercase;
     color: #FFF;
@@ -76,6 +75,16 @@ p {
     line-height: 1.2em;
 }
 
+/*
+ * Shared
+ */
+.layout {
+    width: 90%;
+    max-width: 960px;
+    margin: 0 auto;
+    position: relative;
+}
+
 .summary,
 #follow-cool-people,
 #find-the-best-sources,
@@ -89,6 +98,26 @@ p {
     border-image: url(../assets/border-wave.png) 25 0 repeat;
 }
 
+#follow-cool-people h3:before,
+#find-the-best-sources h3:before,
+#attend-to-conferences h3:before,
+#get-your-own-sources h3:before {
+    position: absolute;
+    background-color: #1A171B;
+    color: #FFF;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: 200;
+    line-height: 1.05em;
+    border-radius: 100%;
+}
+
+
+/*
+ * Summary
+ */
 .summary {
     margin-bottom: 4em;
 }
@@ -120,11 +149,14 @@ p {
     margin-top: 15em;
 }
 
+/*
+ * Navigation
+ */
 .navigation {
     background-image: linear-gradient(#FAB800 3.8em, #009798 0);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    padding-bottom: 5em;
+    padding-bottom: 2em;
 }
 
 .navigation h2 {
@@ -134,14 +166,9 @@ p {
     text-transform: uppercase;
 }
 
-.navigation .layout:before {
-    content: ' ';
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 355px;
-    height: 314px;
+.navigation .layout {
     background: url(../assets/kitchen.svg) right center no-repeat;
+    min-height: 20em;
 }
 
 .navigation ol {
@@ -163,19 +190,13 @@ p {
     padding: 5px 10px;
 }
 
+/*
+ * Follow cool people
+ */
 #follow-cool-people .layout {
-    background: url(../assets/follow-arrow.svg) top left no-repeat;
-}
-
-#follow-cool-people .layout:before {
-    content: ' ';
-    position: absolute;
-    top: 0;
-    right: -5em;
-    width: 431px;
-    height: 303px;
-    background: url(../assets/follow.svg) top right no-repeat;
-    text-align: center;
+    background-image: url(../assets/follow-arrow.svg),  url(../assets/follow.svg);;
+    background-position: top left, top right;
+    background-repeat: no-repeat;
 }
 
 #follow-cool-people h3 {
@@ -185,19 +206,9 @@ p {
 
 #follow-cool-people h3:before {
     content: '1';
-    position: absolute;
     top: 50%;
     margin-top: -60px;
     left: 18px;
-    background-color: #1A171B;
-    color: #FFF;
-    width: 120px;
-    height: 120px;
-    text-align: center;
-    font-size: 2.5em;
-    font-weight: 200;
-    line-height: 1.1em;
-    border-radius: 100%;
 }
 
 #follow-cool-people p {
@@ -304,15 +315,11 @@ p {
     color: #aaa;
 }
 
-#find-the-best-sources .layout:before {
-    content: ' ';
-    position: absolute;
-    top: 0;
-    right: -5em;
-    width: 388px;
-    height: 333px;
+/*
+ * Find the best sources
+ */
+#find-the-best-sources .layout {
     background: url(../assets/find-sources.svg) top right no-repeat;
-    text-align: center;
 }
 
 #find-the-best-sources h3 {
@@ -321,62 +328,43 @@ p {
 
 #find-the-best-sources h3:before {
     content: '2';
-    position: absolute;
     top: .1em;
-    right: 1.5em;
-    background-color: #1A171B;
-    color: #FFF;
-    width: 120px;
-    height: 120px;
-    text-align: center;
-    font-size: 2.5em;
-    font-weight: 200;
-    line-height: 1em;
-    border-radius: 100%;
+    right: 2.3em;
 }
 
 #find-the-best-sources p {
-    width: 65%;
+    width: 60%;
 }
 
-#attend-to-conferences .layout:before {
-    content: ' ';
-    position: absolute;
-    top: -3em;
-    left: -10em;
-    width: 823px;
-    height: 478px;
-    background: url(../assets/attend.svg) -57px 0 no-repeat;
-    text-align: center;
+
+/*
+ * Attend to conferences
+ */
+#attend-to-conferences .layout {
+    background: url(../assets/attend.svg) left -5em no-repeat;
 }
 
 #attend-to-conferences h3 {
     width: 7.3em;
-    margin-left: 5.3em;
-    padding-top: 1.6em;
+    margin-left: 10em;
+    padding-top: 1em;
     position: relative;
 }
 
 #attend-to-conferences h3:before {
     content: '3';
-    position: absolute;
     top: 1.47em;
-    left: -1.45em;
-    background-color: #1A171B;
-    color: #FFF;
-    width: 120px;
-    height: 120px;
-    text-align: center;
-    font-size: 2.5em;
-    font-weight: 200;
-    line-height: 1em;
-    border-radius: 100%;
+    left: -1.35em;
 }
 
 #attend-to-conferences p {
-    margin-left: 9.5em;
+    margin-left: 18.5em;
 }
 
+
+/*
+ * Get your own sources
+ */
 #get-your-own-sources {
     padding-top: 3em;
 }
@@ -392,19 +380,9 @@ p {
 
 #get-your-own-sources h3:before {
     content: '4';
-    position: absolute;
     top: 0;
     left: 50%;
     margin-left: -60px;
-    background-color: #1A171B;
-    color: #FFF;
-    width: 120px;
-    height: 120px;
-    text-align: center;
-    font-size: 2.5em;
-    font-weight: 200;
-    line-height: 1em;
-    border-radius: 100%;
 }
 
 #get-your-own-sources p {
