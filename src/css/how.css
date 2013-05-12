@@ -355,9 +355,6 @@ p {
     font-size: 1.5em;
     text-transform: uppercase;
     line-height: 40px;
-    text-indent: 0;
-    min-width: 280px;
-    max-width: 520px;
 }
 
 .source-type:nth-child(2) .source-type-title {
