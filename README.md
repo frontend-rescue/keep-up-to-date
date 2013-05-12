@@ -12,8 +12,8 @@ Hundreds of blog posts and articles are published every day, but there is no way
 
 ### Hernan Mammana
 - E-mail: [hernanmammana‎@gmail.com](mailto:hernan.mammana‎@gmail.com)
-- Twitter: [@hmammana‎](http://twitter.com/hmammana‎)
-- Web: [http://mammana.me/](http://mammana.me)
+- Twitter: [@hmammana](http://twitter.com/hmammana‎)
+- Web: [http://mammana.me](http://mammana.me)
 
 ### Lean Linares
 - E-mail: [lean8086@gmail.com](mailto:lean8086@gmail.com)
@@ -30,7 +30,7 @@ Hundreds of blog posts and articles are published every day, but there is no way
 
 ### Lea Verou
 - Twitter: [@LeaVerou](https://twitter.com/LeaVerou)
-- Web: [http://lea.verou.me/](http://lea.verou.me/)
+- Web: [http://lea.verou.me](http://lea.verou.me/)
 
 ### Paul Irish
 - Twitter: [@paul_irish](https://twitter.com/paul_irish)
