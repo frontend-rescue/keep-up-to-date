@@ -28,6 +28,10 @@ Hundreds of blog posts and articles are published every day, but there is no way
 
 ## Thank you
 
+### Alex Sexton
+- Twitter: [@SlexAxton](https://twitter.com/SlexAxton)
+- Web: [http://alexsexton.com](http://alexsexton.com/)
+
 ### Lea Verou
 - Twitter: [@LeaVerou](https://twitter.com/LeaVerou)
 - Web: [http://lea.verou.me](http://lea.verou.me/)
