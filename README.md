@@ -1,7 +1,5 @@
 # How to keep up to date on Front-end Technologies?
 
-## The recipe [work-in-progress]
-
 The web is a universe evolving extremely fast. An important part of our job as front-end developers is keeping up to date and stay close to new tools, trends and workflows.
 Hundreds of blog posts and articles are published every day, but there is no way you can read all of them. We think you should have a strategy to keep up to date, so we have created this project.
 
