@@ -231,8 +231,6 @@ p {
     position: relative;
     padding-left: 6.5em;
     color: #ffffff;
-    /*outline: solid 2px #ffffff;
-    outline-offset: -6px;*/
     box-shadow: 3px 3px 0px #fab800 inset, 3px 3px 0px #E85D10;
 }
 
