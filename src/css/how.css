@@ -214,24 +214,26 @@ p {
 .who-to-follow {
     text-align: center;
     background-color: #fab800;
-    padding: 0 10em 12em;
+    padding: 0 8% 12em;
 }
 
 .follow-to {
-    background-color: #eb7108;
-    border: solid .25em #1A171B;
+    background-color: #E85D10;
+    border: solid 3px #1A171B;
     border-radius: .5em .2em .5em .2em;
     display: inline-block;
-    margin: 2em 1% 1em 1%;
-    width: 20em;
+    margin: 2em 2.5% 1em 2.5%;
+    width: 17em;
+    -moz-box-sizing: border-box;
     box-sizing: border-box;
     text-align: left;
-    min-height: 8em;
+    min-height: 7em;
     position: relative;
-    padding-left: 7.2em;
+    padding-left: 6.5em;
     color: #ffffff;
-    outline: solid 2px #ffffff;
-    outline-offset: -6px;
+    /*outline: solid 2px #ffffff;
+    outline-offset: -6px;*/
+    box-shadow: 3px 3px 0px #fab800 inset, 3px 3px 0px #E85D10;
 }
 
 .follow-to a {
@@ -239,36 +241,74 @@ p {
 }
 
 .follow-to-expert {
+    font-size: 1em;
+    font-weight: 400;
+    letter-spacing: .08em;
+    margin: .5em 0 0 0;
+    overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-    overflow: hidden;
-    font-size: 1.2em;
-    font-weight: 200;
-    letter-spacing: .055em;
 }
 
 .follow-to-avatar {
     display: block;
     position: absolute;
     top:-20%;
-    left: 2%;
+    left: 3%;
     width: 30%;
-    border: solid .25em #1A171B;
-    padding: .7%;
-    background-color: white;
-    border-radius: 1em;
+    border: solid 3px #1A171B;
+    background-color: transparent;
+    border-radius: .2em .7em .2em .5em;
+    box-shadow: 3px 2px 0px #fff;
+    padding: 3px 0 0 3px;
 }
 
 .follow-to-expert-in {
     position: absolute;
     background-color: #1A171B;
-    bottom: 0;
-    right: 0;
-    left: 0;
+    bottom: -6px;
+    right: -6px;
+    left: 3px;
+    padding: 0 .5em 0 8%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 0 0 .5em .2em;
 }
 
 .skill {
     font-weight: 200;
+    font-size: .8em;
+    letter-spacing: 1px;
+}
+
+.skill:before {
+    content: ' / ';
+    font-weight: 200;
+    color: #fff;
+}
+
+.skill:first-child:before {
+    content: '';
+}
+
+.skill-css {
+    color: #eb7106;
+}
+
+.skill-wpo {
+    color: #fff;
+}
+
+.skill-mobile {
+    color: #009797;
+}
+
+.skill-js {
+    color: #f9b800;
+}
+
+.skill-html {
+    color: #aaa;
 }
 
 #find-the-best-sources .layout:before {
