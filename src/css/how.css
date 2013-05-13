@@ -4,11 +4,11 @@ body {
 
 a,
 a:visited {
-    color: #FAB800;
+    color: #EB7106;
 }
 
 a:hover {
-    color: #FAB800 !important;
+    color: #EB7106 !important;
     background-color: #1A171B;
     text-decoration: none;
 }
@@ -125,10 +125,9 @@ p {
     text-align: center;
     font-size: 2.5em;
     font-weight: 200;
-    line-height: 1.05em;
+    line-height: .92em;
     border-radius: 100%;
 }
-
 
 /*
  * Summary
@@ -241,28 +240,22 @@ p {
     box-sizing: border-box;
     text-align: left;
     position: relative;
-    color: #ffffff;
     vertical-align: top;
-}
-
-.follow-to {
-    background-color: #E85D10;
-    border: solid 3px #1A171B;
-    padding-left: 6.5em;
-    color: #ffffff;
-    box-shadow: 3px 3px 0px #fab800 inset, 3px 3px 0px #E85D10;
     min-height: 7em;
-    width: 17em;
+    width: 25%;
+    padding-left: 6.5em;
+    border: solid 3px #1A171B;
+    background-color: #fff;
+    box-shadow: 3px 3px 0px #fab800 inset, 3px 3px 0px #fff;
 }
 
 .follow-to a {
     padding-left: 0;
 }
 
-
 .follow-to-expert,
 .best-source-found-title {
-    font-size: 1em;
+    font-size: 1.2em;
     line-height: 1.3em;
     font-weight: 400;
     letter-spacing: .08em;
@@ -280,7 +273,6 @@ p {
     position: absolute;
     top:-20%;
     left: 3%;
-    width: 30%;
     border: solid 3px #1A171B;
     background-color: transparent;
     border-radius: .2em .7em .2em .5em;
@@ -298,12 +290,12 @@ p {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     border-radius: 0 0 .5em .2em;
+    color: #fff;
 }
 
 .skill {
-    font-weight: 200;
-    font-size: .8em;
-    letter-spacing: 1px;
+    font-weight: normal;
+    font-size: .9em;
 }
 
 .skill:before {
@@ -350,17 +342,28 @@ p {
 #find-the-best-sources h3:before {
     content: '2';
     top: .1em;
-    right: 2.3em;
+    right: 2em;
 }
 
 #find-the-best-sources p {
     width: 60%;
 }
 
+.best-source-found {
+    box-shadow: 3px 3px 0px #fff inset, 3px 3px 0px #fff;
+}
+
+#find-the-best-sources .best-source-found p {
+    width: auto;
+    font-size: 1.1em;
+    line-height: 1.5em;
+}
+
 .source-type {
     position: relative;
-    background: url('../assets/find-sources-misc.svg') center top no-repeat;
+    background: url('../assets/find-sources-misc2.svg') center top no-repeat;
     padding-top: 60px;
+    border-top: 3px solid #1A171B;
 }
 
 .source-type-title {
@@ -377,80 +380,24 @@ p {
     text-transform: uppercase;
     line-height: 40px;
     min-width: 300px;
+    margin-bottom: 1em;
 }
 
-.source-type:nth-child(2) .source-type-title {
+.source-type:nth-child(2) {
     background-color: #009798;
 }
 
-.source-type:nth-child(2) .source-type-title:after,
-.source-type:nth-child(2) .source-type-title:before {
-    border-top-color: #009798;
-    border-bottom-color: #009798;
-}
-
-.source-type:nth-child(2) .source-type-title:before {
-    border-right-color: #009798;
-}
-
-.source-type:nth-child(2) .source-type-title:after {
-    border-left-color: #009798;
-}
-
-.source-type:nth-child(3) .source-type-title {
+.source-type:nth-child(3) {
     background-color: #eb7108;
 }
 
-.source-type:nth-child(3) .source-type-title:after,
-.source-type:nth-child(3) .source-type-title:before {
-    border-top-color: #eb7108;
-    border-bottom-color: #eb7108;
-}
-
-.source-type:nth-child(3) .source-type-title:before {
-    border-right-color: #eb7108;
-}
-
-.source-type:nth-child(3) .source-type-title:after {
-    border-left-color: #eb7108;
-}
-
-.source-type:nth-child(4) .source-type-title {
+.source-type:nth-child(4) {
     background-color: #fab800;
 }
 
-.source-type:nth-child(4) .source-type-title:after,
-.source-type:nth-child(4) .source-type-title:before {
-    border-top-color: #fab800;
-    border-bottom-color: #fab800;
+.source-type:nth-child(5) {
+    background-color: #009798;
 }
-
-.source-type:nth-child(4) .source-type-title:before {
-    border-right-color: #fab800;
-}
-
-.source-type:nth-child(4) .source-type-title:after {
-    border-left-color: #fab800;
-}
-
-.source-type:nth-child(5) .source-type-title {
-    background-color: #e85d10;
-}
-
-.source-type:nth-child(5) .source-type-title:after,
-.source-type:nth-child(5) .source-type-title:before {
-    border-top-color: #e85d10;
-    border-bottom-color: #e85d10;
-}
-
-.source-type:nth-child(5) .source-type-title:before {
-    border-right-color: #e85d10;
-}
-
-.source-type:nth-child(5) .source-type-title:after {
-    border-left-color: #e85d10;
-}
-
 
 .source-type .source-type-title:before,
 .source-type .source-type-title:after {
@@ -470,23 +417,14 @@ p {
     border-right-color: transparent;
 }
 
-.best-source-found {
-    background-color: #E85D10;
-    border: solid 3px #1A171B;
-    color: #ffffff;
-    box-shadow: 0px 1px 0px #fff inset, 2px 2px 0px #E85D10;
-    padding: .5em 1em;
-    width: 25em;
-    min-height: 9em;
-    border-left-width: 2.5em;
+.source-type:nth-child(3) .best-source-found,
+.source-type:nth-child(4) .best-source-found,
+.source-type:nth-child(5) .best-source-found {
+    width: 40%;
 }
 
-.source-type:nth-child(2) .best-source-found {
-    background-color: #009798;
-    box-shadow: 0px 1px 0px #ffffff inset, 2px 2px 0px #009798;
-    min-height: 5em;
-}
 
+/*
 .source-type:nth-child(3) .best-source-found {
     background-color: #eb7108;
     box-shadow: 0px 1px 0px #ffffff inset, 2px 2px 0px #eb7108;
@@ -510,7 +448,6 @@ p {
     color: #000;
     border-right-width: 0;
     border-top-width: 0;
-
 }
 
 .source-type:nth-child(4) .best-source-found {
@@ -519,7 +456,6 @@ p {
     min-height: 5em;
     width: 27.5em;
     border-left-width: 2px;
-
 }
 
 .source-type:nth-child(5) .best-source-found {
@@ -537,7 +473,7 @@ p {
     font-size: 1em;
     line-height: 1.3em;
     width: 100%;
-}
+}*/
 
 /*
  * Attend to conferences
@@ -547,20 +483,20 @@ p {
 }
 
 #attend-to-conferences h3 {
-    width: 7.3em;
-    margin-left: 10em;
-    padding-top: 1em;
+    width: 8em;
+    margin-left: 9.2em;
+    padding-top: .6em;
     position: relative;
 }
 
 #attend-to-conferences h3:before {
     content: '3';
-    top: 1.47em;
-    left: -1.35em;
+    top: 1.2em;
+    left: -1.3em;
 }
 
 #attend-to-conferences p {
-    margin-left: 18.5em;
+    margin-left: 17em;
 }
 
 
@@ -592,7 +528,7 @@ p {
 }
 
 .main-footer {
-    background: #009798 url('../assets/footer-triangle.png') center -1px no-repeat;
+    background: #009798 url('../assets/footer-triangle.png') center -2px no-repeat;
     padding-bottom: 5em;
     margin: 5em 0;
     border: 0;
