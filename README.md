@@ -30,11 +30,15 @@ Hundreds of blog posts and articles are published every day, but there is no way
 
 ### Alex Sexton
 - Twitter: [@SlexAxton](https://twitter.com/SlexAxton)
-- Web: [http://alexsexton.com](http://alexsexton.com/)
+- Web: [http://alexsexton.com](http://alexsexton.com)
+
+### Cody Lindley
+- Twitter: [@codylindley](https://twitter.com/codylindley)
+- Web: [http://codylindley.com](http://codylindley.com)
 
 ### Lea Verou
 - Twitter: [@LeaVerou](https://twitter.com/LeaVerou)
-- Web: [http://lea.verou.me](http://lea.verou.me/)
+- Web: [http://lea.verou.me](http://lea.verou.me)
 
 ### Paul Irish
 - Twitter: [@paul_irish](https://twitter.com/paul_irish)
