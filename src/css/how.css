@@ -129,6 +129,36 @@ p {
     border-radius: 100%;
 }
 
+.box-follow {
+    border-radius: .5em .2em .5em .2em;
+    display: inline-block;
+    margin: 2em 2.5% 1em 2.5%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: left;
+    position: relative;
+    vertical-align: top;
+    min-height: 7em;
+    padding: 0 1em 0 6.5em;
+    border: solid 3px #1A171B;
+    background-color: #fff;
+    box-shadow: 3px 3px 0px #fab800 inset, 3px 3px 0px #fff;
+}
+
+.box-follow-small {
+    width: 25%;
+}
+
+.box-follow-medium {
+    width: 40%;
+}
+
+.box-follow-medium p {
+    width: auto;
+    font-size: 1.1em;
+    line-height: 1.5em;
+}
+
 /*
  * Summary
  */
@@ -231,24 +261,6 @@ p {
     background-color: #fab800;
 }
 
-.follow-to,
-.best-source-found {
-    border-radius: .5em .2em .5em .2em;
-    display: inline-block;
-    margin: 2em 2.5% 1em 2.5%;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    text-align: left;
-    position: relative;
-    vertical-align: top;
-    min-height: 7em;
-    width: 25%;
-    padding-left: 6.5em;
-    border: solid 3px #1A171B;
-    background-color: #fff;
-    box-shadow: 3px 3px 0px #fab800 inset, 3px 3px 0px #fff;
-}
-
 .follow-to a {
     padding-left: 0;
 }
@@ -345,25 +357,14 @@ p {
     right: 2em;
 }
 
-#find-the-best-sources p {
+#find-the-best-sources .layout > p {
     width: 60%;
-}
-
-.best-source-found {
-    box-shadow: 3px 3px 0px #fff inset, 3px 3px 0px #fff;
-}
-
-#find-the-best-sources .best-source-found p {
-    width: auto;
-    font-size: 1.1em;
-    line-height: 1.5em;
 }
 
 .source-type {
     position: relative;
-    background: url('../assets/find-sources-misc2.svg') center top no-repeat;
+    background: url('../assets/find-sources-misc.svg') center top no-repeat;
     padding-top: 60px;
-    border-top: 3px solid #1A171B;
 }
 
 .source-type-title {
