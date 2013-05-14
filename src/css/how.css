@@ -491,7 +491,7 @@ p {
     left: -1.3em;
 }
 
-#attend-to-conferences p {
+#attend-to-conferences .layout > p {
     margin-left: 17em;
 }
 
