@@ -358,7 +358,7 @@ p {
 
 .source-type {
     position: relative;
-    background: url('../assets/find-sources-misc.svg') center top no-repeat;
+    background: url('../assets/find-sources-misc.svg') center top no-repeat, url(../assets/generic-triangle.png) center top no-repeat;
     padding-top: 60px;
 }
 
