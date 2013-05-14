@@ -159,6 +159,41 @@ p {
     line-height: 1.5em;
 }
 
+.box-follow-title {
+    font-size: 1.2em;
+    line-height: 1.3em;
+    font-weight: 400;
+    letter-spacing: .08em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.box-follow-avatar {
+    display: block;
+    position: absolute;
+    top:-20%;
+    left: 3%;
+    border: solid 3px #1A171B;
+    background-color: transparent;
+    border-radius: .2em .7em .2em .5em;
+    box-shadow: 3px 2px 0px #fff;
+    padding: 3px 0 0 3px;
+}
+
+.box-follow-footer {
+    position: absolute;
+    background-color: #1A171B;
+    bottom: -6px;
+    right: -6px;
+    left: 3px;
+    padding: 0 .5em 0 8%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 0 0 .5em .2em;
+    color: #fff;
+}
+
 /*
  * Summary
  */
@@ -263,46 +298,6 @@ p {
 
 .follow-to a {
     padding-left: 0;
-}
-
-.follow-to-expert,
-.best-source-found-title {
-    font-size: 1.2em;
-    line-height: 1.3em;
-    font-weight: 400;
-    letter-spacing: .08em;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-}
-
-.follow-to-expert {
-    margin: .5em 0 0 0;
-}
-
-.follow-to-avatar {
-    display: block;
-    position: absolute;
-    top:-20%;
-    left: 3%;
-    border: solid 3px #1A171B;
-    background-color: transparent;
-    border-radius: .2em .7em .2em .5em;
-    box-shadow: 3px 2px 0px #fff;
-    padding: 3px 0 0 3px;
-}
-
-.follow-to-expert-in {
-    position: absolute;
-    background-color: #1A171B;
-    bottom: -6px;
-    right: -6px;
-    left: 3px;
-    padding: 0 .5em 0 8%;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    border-radius: 0 0 .5em .2em;
-    color: #fff;
 }
 
 .skill {
