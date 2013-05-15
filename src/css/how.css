@@ -495,6 +495,51 @@ p {
     margin-left: 17em;
 }
 
+.conferences {
+    text-align: center;
+}
+
+.box-conf {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    width: 31%;
+    box-shadow: 3px 3px 0px #1A171B inset,  3px 3px 0px #1A171B;
+    border: solid 3px #EB7106;
+    border-radius: .5em .2em .5em .2em;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 1%;
+    padding: 0 1em 1.5em 1em;
+    background-color: #fff;
+    position: relative;
+}
+
+.box-conf-footer {
+    position: absolute;
+    background-color: #1A171B;
+    bottom: -6px;
+    right: -6px;
+    left: 0;
+    padding: 0 .5em 0 8%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 0 0 .5em .2em;
+    color: #fff;
+    border-bottom: solid 3px #EB7106;
+}
+
+.box-conf h4 {
+    font-weight: 200;
+}
+
+.box-conf p {
+    font-size: 1.1em;
+    line-height: 1.2em;
+}
+
+
+
 
 /*
  * Get your own sources
