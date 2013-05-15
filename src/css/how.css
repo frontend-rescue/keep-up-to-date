@@ -551,7 +551,7 @@ p {
 
 #get-your-own-sources .layout:first-child {
     background: url('../assets/own-sources.svg') right top no-repeat;
-    min-height: 33em;
+    min-height: 30em;
 }
 
 #get-your-own-sources h3 {
@@ -573,15 +573,22 @@ p {
     padding-left: 4em;
     width: 100%;
     margin: 2em 0;
+    box-shadow: 3px 3px 0px #FFF inset, 3px 3px 0px #FFF;
 }
 
 .box-mention blockquote {
-    margin: 15px 0 15px 20px;
+    margin: 15px 0 40px 20px;
+    width: 80%;
+}
+
+#get-your-own-sources blockquote p {
+    font-size: 1em;
+    width: auto;
 }
 
 .box-mention blockquote:before {
     content: '“';
-    color: #009798;
+    color: #FAB800;
     font-family: Georgia;
     font-size: 10em;
     position: absolute;
