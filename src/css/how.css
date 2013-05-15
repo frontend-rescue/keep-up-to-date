@@ -172,8 +172,8 @@ p {
 .box-follow-avatar {
     display: block;
     position: absolute;
-    top:-20%;
-    left: 3%;
+    top: -25px;
+    left: 15px;
     border: solid 3px #1A171B;
     background: transparent url('../assets/no-image.png') center center no-repeat;
     border-radius: .2em .7em .2em .5em;
@@ -549,7 +549,7 @@ p {
     padding-top: 3em;
 }
 
-#get-your-own-sources .layout {
+#get-your-own-sources .layout:first-child {
     background: url('../assets/own-sources.svg') right top no-repeat;
     min-height: 33em;
 }
@@ -567,6 +567,38 @@ p {
 
 #get-your-own-sources p {
      width: 65%;
+}
+
+.box-mention {
+    padding-left: 4em;
+    width: 100%;
+    margin: 2em 0;
+}
+
+.box-mention blockquote {
+    margin: 15px 0 15px 20px;
+}
+
+.box-mention blockquote:before {
+    content: '“';
+    color: #009798;
+    font-family: Georgia;
+    font-size: 10em;
+    position: absolute;
+    left: 10px;
+    top: 75px;
+}
+
+.box-mention .box-follow-title {
+    text-align: right;
+    margin-right: 100px;
+}
+
+.box-mention .box-follow-avatar {
+    top: auto;
+    left: auto;
+    bottom: -25px;
+    right: 15px;
 }
 
 .main-footer {
