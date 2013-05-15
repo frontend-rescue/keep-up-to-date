@@ -103,7 +103,7 @@ p {
 .summary,
 #follow-cool-people,
 #find-the-best-sources,
-#attend-to-conferences,
+#attend-conferences,
 #get-your-own-sources {
     position: relative;
     margin-top: -15px;
@@ -115,7 +115,7 @@ p {
 
 #follow-cool-people h3:before,
 #find-the-best-sources h3:before,
-#attend-to-conferences h3:before,
+#attend-conferences h3:before,
 #get-your-own-sources h3:before {
     position: absolute;
     background-color: #1A171B;
@@ -472,26 +472,26 @@ p {
 }*/
 
 /*
- * Attend to conferences
+ * Attend conferences
  */
-#attend-to-conferences .layout {
+#attend-conferences .layout {
     background: url('../assets/attend.svg') left -5em no-repeat;
 }
 
-#attend-to-conferences h3 {
+#attend-conferences h3 {
     width: 8em;
     margin-left: 9.2em;
     padding-top: .6em;
     position: relative;
 }
 
-#attend-to-conferences h3:before {
+#attend-conferences h3:before {
     content: '3';
     top: 1.2em;
     left: -1.3em;
 }
 
-#attend-to-conferences .layout > p {
+#attend-conferences .layout > p {
     margin-left: 17em;
 }
 
