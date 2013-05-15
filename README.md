@@ -32,6 +32,10 @@ Hundreds of blog posts and articles are published every day, but there is no way
 - Twitter: [@SlexAxton](https://twitter.com/SlexAxton)
 - Web: [http://alexsexton.com](http://alexsexton.com)
 
+### Axel Rauschmayer
+- Twitter: [@rauschma](https://twitter.com/rauschma)
+- Web: [http://rauschma.de](http://rauschma.de)
+
 ### Cody Lindley
 - Twitter: [@codylindley](https://twitter.com/codylindley)
 - Web: [http://codylindley.com](http://codylindley.com)
