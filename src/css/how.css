@@ -125,7 +125,7 @@ p {
     text-align: center;
     font-size: 2.5em;
     font-weight: 200;
-    line-height: .92em;
+    line-height: 1em;
     border-radius: 100%;
 }
 
@@ -139,7 +139,7 @@ p {
     position: relative;
     vertical-align: top;
     min-height: 7em;
-    padding: 0 1em 0 6.5em;
+    padding: 0 0 0 115px;
     border: solid 3px #1A171B;
     background-color: #fff;
     box-shadow: 3px 3px 0px #fab800 inset, 3px 3px 0px #fff;
@@ -349,7 +349,7 @@ p {
 #find-the-best-sources h3:before {
     content: '2';
     top: .1em;
-    right: 2em;
+    right: 250px;
 }
 
 #find-the-best-sources .layout > p {
@@ -480,19 +480,19 @@ p {
 
 #attend-conferences h3 {
     width: 8em;
-    margin-left: 9.2em;
-    padding-top: .6em;
+    margin-left: 450px;
+    padding-top: 42px;
     position: relative;
 }
 
 #attend-conferences h3:before {
     content: '3';
     top: 1.2em;
-    left: -1.3em;
+    left: -160px;
 }
 
 #attend-conferences .layout > p {
-    margin-left: 17em;
+    margin-left: 450px;
 }
 
 .conferences {
@@ -551,7 +551,7 @@ p {
 
 #get-your-own-sources .layout:first-child {
     background: url('../assets/own-sources.svg') right top no-repeat;
-    min-height: 30em;
+    min-height: 34em;
 }
 
 #get-your-own-sources h3 {
@@ -598,7 +598,7 @@ p {
 
 .box-mention .box-follow-title {
     text-align: right;
-    margin-right: 100px;
+    margin-right: 120px;
 }
 
 .box-mention .box-follow-avatar {
