@@ -522,7 +522,7 @@ p {
     bottom: -6px;
     right: -6px;
     left: 0;
-    padding: 0 .5em 0 8%;
+    padding: 0 .5em 0 1em;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     border-radius: 0 0 .5em .2em;
