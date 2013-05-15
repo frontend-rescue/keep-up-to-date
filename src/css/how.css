@@ -175,7 +175,7 @@ p {
     top:-20%;
     left: 3%;
     border: solid 3px #1A171B;
-    background-color: transparent;
+    background: transparent url('../assets/no-image.png') center center no-repeat;
     border-radius: .2em .7em .2em .5em;
     box-shadow: 3px 2px 0px #fff;
     padding: 3px 0 0 3px;
