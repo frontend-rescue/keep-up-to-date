@@ -497,19 +497,20 @@ p {
 
 .conferences {
     text-align: center;
+    padding: 0 8% 5em;
 }
 
 .box-conf {
     display: inline-block;
     vertical-align: top;
     text-align: left;
-    width: 31%;
+    width: 40%;
     box-shadow: 3px 3px 0px #1A171B inset,  3px 3px 0px #1A171B;
     border: solid 3px #EB7106;
     border-radius: .5em .2em .5em .2em;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin: 1%;
+    margin: 2em 2.5% 1em 2.5%;
     padding: 0 1em 1.5em 1em;
     background-color: #fff;
     position: relative;
