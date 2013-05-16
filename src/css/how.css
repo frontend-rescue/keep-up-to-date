@@ -107,7 +107,7 @@ p {
 #get-your-own-sources {
     position: relative;
     margin-top: -15px;
-    padding-top: 3em;
+    padding-top: 0em;
     border: 0;
     border-top: 22px solid transparent;
     border-image: url('../assets/border-wave.png') 25 0 repeat;
@@ -119,13 +119,13 @@ p {
 #get-your-own-sources h3:before {
     position: absolute;
     background-color: #1A171B;
-    color: #FFF;
+    color: #fab800;
     width: 120px;
     height: 120px;
     text-align: center;
-    font-size: 2.5em;
-    font-weight: 200;
-    line-height: 1em;
+    font-size: 2.2em;
+    font-weight: 900;
+    line-height: 115px;
     border-radius: 100%;
 }
 
@@ -475,68 +475,50 @@ p {
  * Attend conferences
  */
 #attend-conferences .layout {
-    background: url('../assets/attend.svg') left -5em no-repeat;
+    background: url('../assets/attend.svg') center 0 no-repeat;
 }
 
 #attend-conferences h3 {
-    width: 8em;
-    margin-left: 450px;
-    padding-top: 42px;
+    width: auto;
+    margin: 0 0 .5em auto;
+    padding-top: 122px;
     position: relative;
+    width: 52.083%;
 }
 
 #attend-conferences h3:before {
     content: '3';
-    top: 1.2em;
-    left: -160px;
+    top: 204px;
+    left: -170px;
 }
 
 #attend-conferences .layout > p {
-    margin-left: 450px;
+    margin: 0 2.083% 0 auto;
+    line-height: 1.5em;
+    width: 50%;
 }
 
 .conferences {
-    text-align: center;
-    padding: 0 8% 5em;
+
+    margin: 0 20px 3em 460px;
 }
 
-.box-conf {
-    display: inline-block;
-    vertical-align: top;
-    text-align: left;
-    width: 40%;
-    box-shadow: 3px 3px 0px #1A171B inset,  3px 3px 0px #1A171B;
-    border: solid 3px #EB7106;
-    border-radius: .5em .2em .5em .2em;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    margin: 2em 2.5% 1em 2.5%;
-    padding: 0 1em 1.5em 1em;
-    background-color: #fff;
+.conferences li {
+    display: block;
     position: relative;
+    margin-bottom: 1em;
 }
 
-.box-conf-footer {
-    position: absolute;
-    background-color: #1A171B;
-    bottom: -6px;
-    right: -6px;
-    left: 0;
-    padding: 0 .5em 0 1em;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    border-radius: 0 0 .5em .2em;
-    color: #fff;
-    border-bottom: solid 3px #EB7106;
-}
 
-.box-conf h4 {
+.conferences li h4 {
+    font-size: 1.1em;
     font-weight: 200;
 }
 
-.box-conf p {
-    font-size: 1.1em;
+.conferences li p {
+    font-size: 1em;
     line-height: 1.2em;
+    margin: 0;
 }
 
 
