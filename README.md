@@ -32,6 +32,10 @@ Hundreds of blog posts and articles are published every day, but there is no way
 - Twitter: [@SlexAxton](https://twitter.com/SlexAxton)
 - Web: [http://alexsexton.com](http://alexsexton.com)
 
+### Angelina Fabbro
+- Twitter: [@angelinamagnum](https://twitter.com/angelinamagnum)
+- Web: [http://realityhacking.net](http://realityhacking.net)
+
 ### Axel Rauschmayer
 - Twitter: [@rauschma](https://twitter.com/rauschma)
 - Web: [http://rauschma.de](http://rauschma.de)
