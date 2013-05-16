@@ -499,14 +499,16 @@ p {
 }
 
 .conferences {
-
-    margin: 0 20px 3em 460px;
+    margin: 30px 20px 5em 0;
 }
 
 .conferences li {
-    display: block;
+    display: inline-block;
     position: relative;
     margin-bottom: 1em;
+    width: 45%;
+    vertical-align: top;
+    margin: 10px 2%;
 }
 
 
