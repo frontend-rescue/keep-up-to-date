@@ -107,7 +107,7 @@ p {
 #get-your-own-sources {
     position: relative;
     margin-top: -15px;
-    padding-top: 0em;
+    padding-top: 3em;
     border: 0;
     border-top: 22px solid transparent;
     border-image: url('../assets/border-wave.png') 25 0 repeat;
