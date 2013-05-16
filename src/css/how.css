@@ -122,12 +122,12 @@ p {
     position: absolute;
     background-color: #1A171B;
     color: #fab800;
-    width: 120px;
-    height: 120px;
+    width: 1.32em;
+    height: 1.32em;
     text-align: center;
-    font-size: 2.2em;
+    font-size: 1.6em;
     font-weight: 900;
-    line-height: 115px;
+    line-height: 1.25em;
     border-radius: 100%;
 }
 
@@ -287,20 +287,21 @@ p {
  */
 #follow-cool-people .layout {
     background-image: url('../assets/follow-arrow.svg'),  url('../assets/follow.svg');
-    background-position: top left, top right;
+    background-position: left top, right 40px;
     background-repeat: no-repeat;
 }
 
 #follow-cool-people h3 {
     width: 5em;
-    margin-left: 4em;
+    margin-left: 170px;
+    padding-top: 60px;
 }
 
 #follow-cool-people h3:before {
     content: '1';
-    top: 50%;
-    margin-top: -60px;
+    top: 130px;
     left: 18px;
+    color: #fff;
 }
 
 #follow-cool-people p {
@@ -376,7 +377,7 @@ p {
 }
 
 #find-the-best-sources .layout > p {
-    width: 60%;
+    width: 50%;
 }
 
 .source-type {
@@ -504,7 +505,7 @@ p {
 #attend-conferences h3 {
     width: auto;
     margin: 0 0 .5em auto;
-    padding-top: 122px;
+    padding-top: 107px;
     position: relative;
     width: 52.083%;
 }
@@ -559,6 +560,7 @@ p {
 #get-your-own-sources .layout:first-child {
     background: url('../assets/own-sources.svg') right top no-repeat;
     min-height: 30em;
+    padding-top: 60px;
 }
 
 #get-your-own-sources h3 {
@@ -567,9 +569,8 @@ p {
 
 #get-your-own-sources h3:before {
     content: '4';
-    top: 0;
-    left: 50%;
-    margin-left: -60px;
+    top: 1.4em;
+    left: 3.8em;
 }
 
 #get-your-own-sources p {
