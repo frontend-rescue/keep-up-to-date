@@ -539,7 +539,7 @@ p {
 
 #get-your-own-sources .layout:first-child {
     background: url('../assets/own-sources.svg') right top no-repeat;
-    min-height: 34em;
+    min-height: 30em;
 }
 
 #get-your-own-sources h3 {
