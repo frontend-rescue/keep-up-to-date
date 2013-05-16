@@ -233,6 +233,7 @@ p {
     background-repeat: no-repeat;
     font-size: 1.9em;
     position: relative;
+    min-height: 11em;
 }
 
 .navigation h2 {
@@ -253,7 +254,6 @@ p {
     font-size: 16px;
     width: auto;
     box-sizing: border-box;
-    margin-left: 25%;
     margin: 0 320px 0 auto;
     counter-reset:section;
 }
@@ -300,7 +300,7 @@ p {
 #follow-cool-people h3:before {
     content: '1';
     top: 130px;
-    left: 18px;
+    left: 13px;
     color: #fff;
 }
 
@@ -513,7 +513,7 @@ p {
 #attend-conferences h3:before {
     content: '3';
     top: 204px;
-    left: -170px;
+    left: -175px;
 }
 
 #attend-conferences .layout > p {
