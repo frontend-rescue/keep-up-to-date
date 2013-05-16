@@ -122,12 +122,12 @@ p {
     position: absolute;
     background-color: #1A171B;
     color: #fab800;
-    width: 1.32em;
-    height: 1.32em;
+    width: 127px;
+    height: 127px;
     text-align: center;
     font-size: 1.6em;
     font-weight: 900;
-    line-height: 1.25em;
+    line-height: 120px;
     border-radius: 100%;
 }
 
@@ -292,7 +292,7 @@ p {
 }
 
 #follow-cool-people h3 {
-    width: 5em;
+    width: 320px;
     margin-left: 170px;
     padding-top: 60px;
 }
