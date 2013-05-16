@@ -566,26 +566,21 @@ p {
 }
 
 #get-your-own-sources p {
-     width: 65%;
+     width: 40%;
 }
 
 .box-mention {
     padding-left: 4em;
     width: 100%;
-    margin: 2em 0;
+    margin: 1em 0;
     box-shadow: 3px 3px 0px #FFF inset, 3px 3px 0px #FFF;
-    background: linear-gradient(90deg, transparent 85%, #EB7106 15%);
     padding-bottom: 1em;
+    background-color: transparent;
 }
 
 .box-mention blockquote {
-    margin: 15px 0 0 20px;
-    width: 80%;
-}
-
-#get-your-own-sources blockquote p {
-    font-size: 1em;
-    width: auto;
+    margin: 15px 0 50px 30px;
+    width: 62%;
 }
 
 .box-mention blockquote:before {
@@ -594,20 +589,39 @@ p {
     font-family: Georgia;
     font-size: 10em;
     position: absolute;
-    left: 10px;
+    left: 15px;
     top: 75px;
 }
 
+#get-your-own-sources blockquote p {
+    font-size: 1em;
+    width: auto;
+}
+
+.box-mention .box-mention-author {
+    position: absolute;
+    top: 2px;
+    right: 0;
+    bottom: 0;
+    width: 135px;
+    background-color: #EB7106;
+}
+
+.box-mention:nth-child(even) .box-mention-author {
+    background-color: #009798;
+}
+
 .box-mention .box-follow-title {
-    text-align: right;
-    margin-right: 160px;
+    position: absolute;
+    bottom: 15px;
+    right: 150px;
 }
 
 .box-mention .box-follow-avatar {
     top: auto;
     left: auto;
-    right: 30px;
-    bottom: 30px;
+    right: 25px;
+    bottom: 20px;
 }
 
 .main-footer {
