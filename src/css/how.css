@@ -34,8 +34,7 @@ p {
 .logo {
     text-transform: uppercase;
     color: #FFF;
-    font-weight: 200;
-    padding: .5em 0;
+    padding: 0 0 1em 0;
 }
 
 .logo span {
@@ -43,10 +42,12 @@ p {
     line-height: 1.5em;
     display: inline-block;
     margin: 1em 0;
-    padding: 0 1.5em;
+    padding: 0 .75em;
     background-color: #1A171B;
     position: relative;
     color: #FAB800;
+    letter-spacing: .05em;
+    font-weight: 100;
 }
 
 .logo span:before,
@@ -70,9 +71,10 @@ p {
 .logo strong {
     font-size: 1.6em;
     display: block;
-    font-weight: 400;
+    font-weight: bold;
     margin: 0 auto;
-    line-height: 1.2em;
+    line-height: 1.1em;
+    letter-spacing: -.04em;
 }
 
 /*
@@ -212,7 +214,7 @@ p {
 .summary:before {
     content: ' ';
     position: absolute;
-    top: -70px;
+    top: -80px;
     width: 100%;
     height: 455px;
     background: url('../assets/chef.svg') center top no-repeat;
@@ -226,32 +228,49 @@ p {
  * Navigation
  */
 .navigation {
-    background-image: linear-gradient(#FAB800 3.8em, #009798 0);
+    background-image: linear-gradient(#FFF 1em, #FAB800 1em, #FAB800 3em, #009798 0);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    padding-bottom: 2em;
+    font-size: 1.9em;
+    position: relative;
 }
 
 .navigation h2 {
-    line-height: 1.8em;
+    line-height: 2em;
     margin: 0;
-    font-weight: 200;
     text-transform: uppercase;
+    font-size: 1em;
+    position: relative;
+    padding-top: 1em;
 }
 
 .navigation .layout {
-    background: url('../assets/kitchen.svg') right center no-repeat;
-    min-height: 20em;
+    background: url('../assets/kitchen.svg') right top no-repeat;
+    height: 330px;
 }
 
 .navigation ol {
-    height: 7em;
-    margin: 1em 0 0 3em;
-    font-size: 1.5em;
+    font-size: 16px;
+    width: auto;
+    box-sizing: border-box;
+    margin-left: 25%;
+    margin: 0 320px 0 auto;
+    counter-reset:section;
 }
 
 .navigation li {
     margin: .5em 0;
+    font-size: 1.5em;
+    width: 320px;
+    margin: 1em 0 0 auto;
+    list-style: none;
+    letter-spacing: .06em;
+    font-weight: 100;
+}
+
+.navigation li a:before {
+    counter-increment:section;
+    content: counter(section) ' ';
 }
 
 .navigation ol,
