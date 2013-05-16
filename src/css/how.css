@@ -574,10 +574,12 @@ p {
     width: 100%;
     margin: 2em 0;
     box-shadow: 3px 3px 0px #FFF inset, 3px 3px 0px #FFF;
+    background: linear-gradient(90deg, transparent 85%, #EB7106 15%);
+    padding-bottom: 1em;
 }
 
 .box-mention blockquote {
-    margin: 15px 0 40px 20px;
+    margin: 15px 0 0 20px;
     width: 80%;
 }
 
@@ -598,14 +600,14 @@ p {
 
 .box-mention .box-follow-title {
     text-align: right;
-    margin-right: 120px;
+    margin-right: 160px;
 }
 
 .box-mention .box-follow-avatar {
     top: auto;
     left: auto;
-    bottom: -25px;
-    right: 15px;
+    right: 30px;
+    bottom: 30px;
 }
 
 .main-footer {
