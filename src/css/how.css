@@ -585,12 +585,12 @@ p {
 
 .box-mention blockquote:before {
     content: '“';
-    color: #FAB800;
     font-family: Georgia;
     font-size: 10em;
     position: absolute;
     left: 15px;
     top: 75px;
+    color: #FAB800;
 }
 
 #get-your-own-sources blockquote p {
@@ -605,6 +605,10 @@ p {
     bottom: 0;
     width: 135px;
     background-color: #EB7106;
+}
+
+.box-mention:nth-child(even) blockquote:before {
+    color: #009798;
 }
 
 .box-mention:nth-child(even) .box-mention-author {
