@@ -22,6 +22,7 @@ p {
  */
 .main-header {
     background-color: #E85D10;
+    background-image: -webkit-linear-gradient(left, #E85D10 50%, #EB7106 50%);
     background-image: linear-gradient(90deg, #E85D10 50%, #EB7106 50%);
     background-size: 68px 100%;
     text-align: center;
@@ -41,7 +42,7 @@ p {
     font-size: .5em;
     line-height: 1.5em;
     display: inline-block;
-    margin: 1em 0;
+    margin: 1em 0 2em;
     padding: 0 .75em;
     background-color: #1A171B;
     position: relative;
@@ -74,7 +75,6 @@ p {
     font-weight: 400;
     margin: 0 auto;
     line-height: 1.1em;
-    letter-spacing: -.04em;
 }
 
 /*
@@ -85,6 +85,7 @@ p {
     max-width: 960px;
     margin: 0 auto;
     position: relative;
+    padding-bottom: 50px;
 }
 
 .recipe-ribbon {
@@ -99,7 +100,7 @@ p {
     text-indent: -10000px;
     position: relative;
     left: 50%;
-    margin: 0 0 0 -1.5em;
+    margin: 0 0 0 -65px;
 }
 
 .summary,
@@ -112,6 +113,7 @@ p {
     padding-top: 3em;
     border: 0;
     border-top: 22px solid transparent;
+    -o-border-image: url('../assets/border-wave.png') 25 0 repeat;
     border-image: url('../assets/border-wave.png') 25 0 repeat;
 }
 
@@ -148,7 +150,7 @@ p {
 }
 
 .box-follow-small {
-    width: 25%;
+    width: 28%;
 }
 
 .box-follow-medium {
@@ -203,10 +205,6 @@ p {
 /*
  * Summary
  */
-.summary {
-    margin-bottom: 4em;
-}
-
 .summary .recipe-ribbon {
     top: -3.2em;
 }
@@ -215,20 +213,22 @@ p {
     content: ' ';
     position: absolute;
     top: -55px;
-    left: 10px;
-    width: 100%;
+    width: 600px;
     height: 548px;
     background: url('../assets/chef.png') center top no-repeat;
+    left: 50%;
+    margin-left: -280px;
 }
 
 .summary .layout {
-    margin-top: 20em;
+    margin-top: 350px;
 }
 
 /*
  * Navigation
  */
 .navigation {
+    background-image: -webkit-linear-gradient(#FFF 1em, #FAB800 1em, #FAB800 3em, #009798 0);
     background-image: linear-gradient(#FFF 1em, #FAB800 1em, #FAB800 3em, #009798 0);
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -248,7 +248,7 @@ p {
 
 .navigation .layout {
     background: url('../assets/kitchen.png') right top no-repeat;
-    height: 420px;
+    height: 400px;
 }
 
 .navigation ol {
@@ -260,7 +260,7 @@ p {
 .navigation li {
     margin: .5em 0;
     font-size: 1.5em;
-    margin: 1.3em 0 0 70px;
+    margin: 1.3em 0 0 50px;
     list-style: none;
     letter-spacing: .06em;
     font-weight: 100;
@@ -285,7 +285,7 @@ p {
  */
 #follow-cool-people .layout {
     background-image: url('../assets/follow-arrow.png'),  url('../assets/follow.png');
-    background-position: left top, right 40px;
+    background-position: left top, right 80px;
     background-repeat: no-repeat;
 }
 
@@ -496,7 +496,7 @@ p {
 /*
  * Attend conferences
  */
-#attend-conferences .layout {
+#attend-conferences > .layout {
     background: url('../assets/attend.png') center 0 no-repeat;
 }
 
@@ -521,28 +521,28 @@ p {
 }
 
 .conferences {
-    margin: 30px 20px 5em 0;
+    background: #FAB800;
+    margin-top: 20px;
 }
 
-.conferences li {
-    display: inline-block;
-    position: relative;
-    margin-bottom: 1em;
+.conferences-list {
+    padding: 20px 0 60px;
+}
+
+.box-follow-conf {
     width: 45%;
-    vertical-align: top;
-    margin: 10px 2%;
+    margin: 15px 2%;
+    padding: 10px;
 }
 
-
-.conferences li h4 {
+.conferences-list h4 {
     font-size: 1.1em;
     font-weight: 200;
 }
 
-.conferences li p {
+.conferences-list p {
     font-size: 1em;
     line-height: 1.2em;
-    margin: 0;
 }
 
 
@@ -562,13 +562,14 @@ p {
 }
 
 #get-your-own-sources h3 {
-    width: 5em;
+    width: 325px;
 }
 
 #get-your-own-sources h3:before {
     content: '4';
-    top: 1.4em;
-    left: 3.8em;
+    top: 110px;
+    left: 50%;
+    margin-left: -60px;
 }
 
 #get-your-own-sources p {
@@ -596,7 +597,7 @@ p {
     position: absolute;
     left: 15px;
     top: 75px;
-    color: #FAB800;
+    color: #EB7106;
 }
 
 #get-your-own-sources blockquote p {
@@ -613,11 +614,11 @@ p {
     background-color: #EB7106;
 }
 
-.box-mention:nth-child(even) blockquote:before {
+.box-mention:nth-child(odd) blockquote:before {
     color: #009798;
 }
 
-.box-mention:nth-child(even) .box-mention-author {
+.box-mention:nth-child(odd) .box-mention-author {
     background-color: #009798;
 }
 
@@ -640,9 +641,26 @@ p {
     margin: 5em 0;
     border: 0;
     border-bottom: 22px solid #009798;
+    -o-border-image: url('../assets/border-wave-footer.png') 25 0 repeat;
     border-image: url('../assets/border-wave-footer.png') 25 0 repeat;
 }
 
 .main-footer .recipe-ribbon {
-    top: -.5em;
+    top: -30px;
 }
+
+/*body {
+    background: green;
+}
+
+@media all and (min-width: 34em) {
+    body {
+        background: red;
+    }
+}
+
+@media all and (min-width: 54em) {
+    body {
+        background: blue;
+    }
+}*/
