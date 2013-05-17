@@ -586,7 +586,7 @@ p {
 }
 
 .box-mention blockquote {
-    margin: 15px 0 50px 30px;
+    margin: 15px 0 50px 20px;
     width: 62%;
 }
 
@@ -596,7 +596,7 @@ p {
     font-size: 10em;
     position: absolute;
     left: 15px;
-    top: 75px;
+    top: 35px;
     color: #EB7106;
 }
 
