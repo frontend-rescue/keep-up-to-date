@@ -309,7 +309,8 @@ p {
 }
 
 .who-to-follow,
-.best-sources-found {
+.best-sources-found,
+.conferences {
     text-align: center;
     padding: 0 8% 5em;
 }
@@ -441,58 +442,6 @@ p {
     width: 40%;
 }
 
-
-/*
-.source-type:nth-child(3) .best-source-found {
-    background-color: #eb7108;
-    box-shadow: 0px 1px 0px #ffffff inset, 2px 2px 0px #eb7108;
-    min-height: 17.5em;
-    width: 14em;
-    margin-left: 1%;
-    margin-right: 1%;
-    border-left-width: 0;
-    border-bottom-width: 3em;
-}
-
-.source-type:nth-child(3) .best-source-found {
-    background-color: transparent;
-    box-shadow: 2px 0px 0px #fab800 inset, -3px 0 0px #eb7108;
-    min-height: auto;
-    width: 14em;
-    margin-left: 1%;
-    margin-right: 1%;
-    border-left-width: 2px;
-    border-bottom-width: 0;
-    color: #000;
-    border-right-width: 0;
-    border-top-width: 0;
-}
-
-.source-type:nth-child(4) .best-source-found {
-    background-color: #fab800;
-    box-shadow: 0px 1px 0px #ffffff inset, 2px 2px 0px #fab800;
-    min-height: 5em;
-    width: 27.5em;
-    border-left-width: 2px;
-}
-
-.source-type:nth-child(5) .best-source-found {
-    width: 89%;
-    min-height: auto;
-    border-left-width: 1px;
-    border-right-width: 2.5em;
-}
-
-.source-type:nth-child(4) .best-source-found a {
-    color: #1A171B;
-}
-
-#find-the-best-sources .best-source-found p{
-    font-size: 1em;
-    line-height: 1.3em;
-    width: 100%;
-}*/
-
 /*
  * Attend conferences
  */
@@ -524,28 +473,6 @@ p {
     background: #FAB800;
     margin-top: 20px;
 }
-
-.conferences-list {
-    padding: 20px 0 60px;
-}
-
-.box-follow-conf {
-    width: 45%;
-    margin: 15px 2%;
-    padding: 10px;
-}
-
-.conferences-list h4 {
-    font-size: 1.1em;
-    font-weight: 200;
-}
-
-.conferences-list p {
-    font-size: 1em;
-    line-height: 1.2em;
-}
-
-
 
 
 /*
