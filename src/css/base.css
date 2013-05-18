@@ -3,9 +3,9 @@
  */
 
 body {
-	font: 16px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 100%/1.4em "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	margin: 0 auto;
-	padding: 0 0.625em;
+	padding: 0;
 	color: #333333;
 	-webkit-text-size-adjust: none;
 }

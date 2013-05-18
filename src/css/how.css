@@ -1,7 +1,3 @@
-body {
-    padding: 0;
-}
-
 a,
 a:visited {
     color: #EB7106;
@@ -214,8 +210,6 @@ p {
     margin-left: -280px;
 }
 
-
-
 .summary .layout {
     margin-top: 350px;
 }
@@ -249,14 +243,14 @@ p {
 
 .navigation ol {
     font-size: 16px;
+    margin: 1.3em 0 0 50px;
     box-sizing: border-box;
     counter-reset: section;
 }
 
 .navigation li {
-    margin: .5em 0;
+    margin: 1.3em 0;
     font-size: 1.5em;
-    margin: 1.3em 0 0 50px;
     list-style: none;
     letter-spacing: .06em;
     font-weight: 100;
@@ -445,11 +439,10 @@ p {
 }
 
 #attend-conferences h3 {
-    width: auto;
     margin: 0 0 .5em auto;
     padding-top: 107px;
-    position: relative;
     width: 52.083%;
+    position: relative;
 }
 
 #attend-conferences h3:before {
@@ -460,7 +453,6 @@ p {
 
 #attend-conferences .layout > p {
     margin: 0 2.083% 0 auto;
-    line-height: 1.5em;
     width: 50%;
 }
 
@@ -569,18 +561,111 @@ p {
     top: -30px;
 }
 
-/*body {
-    background: green;
-}
+/* Medium Screens*/
+@media all and (max-width: 35em) {
+    h3 {
+        font-size: 2.3em;
+    }
 
-@media all and (min-width: 34em) {
-    body {
-        background: red;
+    .layout {
+        background-image: none !important;
+        padding-bottom: 1em;
+    }
+
+    .logo span {
+        font-size: .4em;
+    }
+
+    .logo strong {
+        font-size: 1em;
+    }
+
+    .navigation .layout {
+        height: auto;
+    }
+
+    .navigation ol {
+        margin: 0;
+    }
+
+    .navigation h2 {
+        font-size: .7em;
+        line-height: 3.5em;
+    }
+
+    .summary:before {
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+    }
+
+    #follow-cool-people h3,
+    #find-the-best-sources h3,
+    #attend-conferences h3,
+    #get-your-own-sources h3 {
+        margin: 0 0 0 85px;
+        padding: 0;
+        width: auto;
+    }
+
+    #follow-cool-people h3:before,
+    #find-the-best-sources h3:before,
+    #attend-conferences h3:before,
+    #get-your-own-sources h3:before {
+        width: 70px;
+        height: 70px;
+        font-size: 1.5em;
+        line-height: 1.2em;
+        top: 50%;
+        left: -90px;
+        right: auto;
+        margin: 0;
+        margin-top: -35px;
+    }
+
+    #follow-cool-people p,
+    #find-the-best-sources .layout > p,
+    #attend-conferences .layout > p,
+    #get-your-own-sources p {
+        width: auto;
+        margin: 1em 0;
+    }
+
+    .who-to-follow,
+    .best-sources-found,
+    .conferences {
+        padding: 0 0 3em 0;
+    }
+
+    .box-follow {
+        width: 90% !important;
+        margin: 1.5em 0;
+    }
+
+    #get-your-own-sources .layout:first-child {
+        min-height: 0;
+        padding-top: 0;
+    }
+
+    .box-mention {
+        width: auto;
+        padding-left: 15px;
+        width: 100% !important;
+    }
+
+    .box-mention blockquote {
+        margin: 35px 0;
+        width: auto;
+        padding-bottom: 4em;
+    }
+
+    .box-mention .box-mention-author {
+        width: auto;
+        bottom: 0;
+    }
+
+    .box-mention .box-follow-title {
+        bottom: 85px;
+        right: 125px;
     }
 }
-
-@media all and (min-width: 54em) {
-    body {
-        background: blue;
-    }
-}*/

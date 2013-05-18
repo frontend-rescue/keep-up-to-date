@@ -1,30 +1,28 @@
 /*
  * Anchors
  */
-a {
-	color: #0637B3;
-	text-decoration: none;
-}
-
+a,
 a:visited {
-	color: #005580;
+    color: #EB7106;
+    text-decoration: none;
 }
 
-a:hover,
-a:focus {
-	text-decoration: underline;
+a:hover {
+    color: #EB7106 !important;
+    background-color: #1A171B;
+    text-decoration: none;
 }
 
 a img {
-	border: none;
+    border: none;
 }
 
 /*
  * Paragraphs & Lists
  */
 p, ol, ul {
-	line-height: 1.5em;
-	font-weight: 200;
+    line-height: 1.5em;
+    font-weight: 200;
 }
 
 /*
@@ -32,41 +30,36 @@ p, ol, ul {
  */
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: bold;
-	margin: 0.313em 0; /* 10px */
-	line-height: 1em;
-}
-
-.box h1, .box h2, .box h3,
-.box h4, .box h5, .box h6 {
-	margin-top: 0;
+    font-weight: bold;
+    margin: 0.313em 0; /* 10px */
+    line-height: 1em;
 }
 
 h1 {
-	font-size: 2.875em; /* 46px */
+    font-size: 2.875em; /* 46px */
 }
 
 h2 {
-	font-size: 2.188em; /* 35px */
+    font-size: 2.188em; /* 35px */
 }
 
 h3 {
-	font-size: 3.750em; /* 60px */
-	text-transform: uppercase;
+    font-size: 3.750em; /* 60px */
+    text-transform: uppercase;
 }
 
 h3 span{
-	font-weight: 200;
+    font-weight: 200;
 }
 
 h4 {
-	font-size: 1.313em; /* 21px */
+    font-size: 1.313em; /* 21px */
 }
 
 h5 {
-	font-size: 1.125em; /* 18px */
+    font-size: 1.125em; /* 18px */
 }
 
 h6 {
-	font-size: 1em; /* 16px */
+    font-size: 1em; /* 16px */
 }
