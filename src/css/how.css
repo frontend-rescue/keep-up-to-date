@@ -606,6 +606,7 @@ p {
         margin: 0 0 0 85px;
         padding: 0;
         width: auto;
+        position: relative;
     }
 
     #follow-cool-people h3:before,
