@@ -1,0 +1,70 @@
+/**
+ * Global
+ */
+
+body {
+	font: 16px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin: 0 auto;
+	padding: 0 0.625em;
+	color: #333333;
+	-webkit-text-size-adjust: none;
+}
+
+textarea[contenteditable] {
+	-webkit-appearance: none;
+}
+
+ul,
+ol {
+	list-style-position: inside;
+	margin: 0;
+	padding: 0;
+}
+
+img,
+object,
+video {
+	max-width: 100%;
+    vertical-align: middle;
+}
+
+hr {
+	border: none;
+	border-bottom: 1px solid #CCC;
+}
+
+/**
+ * Helpers
+ */
+.user-no-select {
+	-o-user-select: none;
+	-ms-user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	user-select: none;
+}
+
+.ellipsis {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.hide {
+	display: none;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
+.invisible {
+	border: 0;
+	clip: rect(0 0 0 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+}
