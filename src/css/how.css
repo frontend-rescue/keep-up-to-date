@@ -457,13 +457,24 @@ a:hover {
     position: relative;
     background: #009798 center -2px no-repeat;
     padding-bottom: 200px;
-    margin: 5em 0;
+    margin: 5em 0 2em;
     border: 0;
     border-bottom: 22px solid #009798;
 }
 
 .main-footer .recipe-ribbon {
     top: -30px;
+}
+
+.social-plugins {
+    text-align: center;
+    margin: 1em 0;
+}
+
+#pin {
+    position: relative;
+    top: -2px;
+    margin-right: 20px;
 }
 
 /* Medium Screens*/
