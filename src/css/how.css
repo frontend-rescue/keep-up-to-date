@@ -468,6 +468,7 @@ a:hover {
 
     .logo {
         padding-bottom: 2em;
+        white-space: pre-line;
     }
 
     .logo span {
