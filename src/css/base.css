@@ -4,8 +4,6 @@
 
 body {
 	font: 100%/1.4em "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-	margin: 0 auto;
-	padding: 0;
 	color: #333333;
 	-webkit-text-size-adjust: none;
 }
@@ -67,4 +65,64 @@ hr {
 	padding: 0;
 	position: absolute;
 	width: 1px;
+}
+/*
+ * Anchors
+ */
+a,
+a:visited {
+    color: #EB7106;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EB7106 !important;
+    background-color: #1A171B;
+    text-decoration: none;
+}
+
+a img {
+    border: none;
+}
+
+/*
+ * Paragraphs & Lists
+ */
+p, ol, ul {
+    line-height: 1.5em;
+    font-weight: 200;
+}
+
+/*
+ * Headings
+ */
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    margin: 0.313em 0;
+    line-height: 1em;
+}
+
+h1 {
+    font-size: 3em; /* 48px */
+}
+
+h2 {
+    font-size: 2.188em; /* 35px */
+}
+
+h3 {
+	font-size: 1.750em; /* 28px */
+}
+
+h4 {
+    font-size: 1.313em; /* 21px */
+}
+
+h5 {
+    font-size: 1.125em; /* 18px */
+}
+
+h6 {
+    font-size: 1em; /* 16px */
 }
