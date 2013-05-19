@@ -366,6 +366,12 @@ a:hover {
     background-color: #009798;
 }
 
+.source-type:nth-child(2) .best-sources-found,
+.source-type:nth-child(3) .best-sources-found,
+.source-type:nth-child(4) .best-sources-found {
+    padding-bottom: 2em;
+}
+
 .source-type-title {
     width: 70%;
     background-color: #1A171B;
