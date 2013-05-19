@@ -257,19 +257,42 @@ a:hover {
     margin-right: 5px;
 }
 
+.who-to-follow,
+.best-sources-found,
+.conferences {
+    text-align: center;
+    padding: 1em 0 6em;
+}
+
+.pro-tip {
+    background: #1A171B;
+    line-height: 2em;
+    position: absolute;
+    width: 130px;
+    bottom: 50px;
+    right: 0;
+}
+
+.pro-tip:before {
+    content: ' ';
+    position: absolute;
+    top: 0;
+    border: 1em solid #1A171B;
+    left: -18px;
+    border-left-color: rgba(0, 0, 0, 0);
+}
+
+.pro-tip a {
+    padding-left: 20px;
+    display: block;
+}
+
 /*
  * Follow cool people
  */
 
 #follow-cool-people .section-title:before {
     content: '1';
-}
-
-.who-to-follow,
-.best-sources-found,
-.conferences {
-    text-align: center;
-    padding: 1em 0;
 }
 
 .who-to-follow {
@@ -387,16 +410,11 @@ a:hover {
     margin-top: 30px;
 }
 
-
 /*
  * Get your own sources
  */
 #get-your-own-sources .section-title:before {
     content: '4';
-}
-
-#get-your-own-sources ul.layout {
-    margin-top: 3em;
 }
 
 .box-mention {
@@ -561,7 +579,7 @@ a:hover {
     .best-sources-found,
     .conferences {
         text-align: center;
-        padding: 0 8% 5em;
+        padding: 0 8% 6em;
     }
 
     #find-the-best-sources .section-title {
