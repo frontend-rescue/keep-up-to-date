@@ -126,6 +126,19 @@ a:hover {
     list-style: none;
 }
 
+.best-tweets .box-follow,
+.best-podcasts .box-follow {
+    box-shadow: 3px 3px 0px #009798 inset, 3px 3px 0px #fff;
+}
+
+.best-blogs .box-follow {
+    box-shadow: 3px 3px 0px #eb7108 inset, 3px 3px 0px #fff;
+}
+
+.best-blogs .box-follow {
+    box-shadow: 3px 3px 0px #eb7108 inset, 3px 3px 0px #fff;
+}
+
 .box-follow-medium p {
     font-size: 1.1em;
     line-height: 1.5em;
