@@ -5,50 +5,58 @@ Hundreds of blog posts and articles are published every day, but there is no way
 
 ## Made by devs, for devs
 
-### Guille Paz
+#### Guille Paz
 - E-mail: [guille87paz@gmail.com](mailto:guille87paz@gmail.com)
 - Twitter: [@pazguille](http://twitter.com/pazguille)
 - Web: [http://pazguille.me](http://pazguille.me)
 
-### Hernan Mammana
+#### Hernan Mammana
 - E-mail: [hernanmammana‎@gmail.com](mailto:hernan.mammana‎@gmail.com)
 - Twitter: [@hmammana](http://twitter.com/hmammana‎)
 - Web: [http://mammana.me](http://mammana.me)
 
-### Lean Linares
+#### Lean Linares
 - E-mail: [lean8086@gmail.com](mailto:lean8086@gmail.com)
 - Twitter: [@lean8086](http://twitter.com/lean8086)
 - Web: [http://leanlinares.me](http://leanlinares.me)
 
 ## Designer Star
-### Fer Adorneti
+#### Fer Adorneti
 - E-mail: [ferador@gmail.com](mailto:ferador@gmail.com)
 - Twitter: [@cavemandg](https://twitter.com/cavemandg)
 - Web: [Cavemandg's flickr](http://www.flickr.com/photos/cavemandg)
 
 ## Thank you
 
-### Alex Sexton
+#### Alex Sexton
 - Twitter: [@SlexAxton](https://twitter.com/SlexAxton)
 - Web: [http://alexsexton.com](http://alexsexton.com)
 
-### Angelina Fabbro
+#### Angelina Fabbro
 - Twitter: [@angelinamagnum](https://twitter.com/angelinamagnum)
 - Web: [http://realityhacking.net](http://realityhacking.net)
 
-### Axel Rauschmayer
+#### Axel Rauschmayer
 - Twitter: [@rauschma](https://twitter.com/rauschma)
 - Web: [http://rauschma.de](http://rauschma.de)
 
-### Cody Lindley
+#### Brad Frost
+- Twitter: [@brad_frost](https://twitter.com/brad_frost)
+- Web: [http://bradfrostweb.com](http://bradfrostweb.com)
+
+#### Cody Lindley
 - Twitter: [@codylindley](https://twitter.com/codylindley)
 - Web: [http://codylindley.com](http://codylindley.com)
 
-### Lea Verou
+#### Lea Verou
 - Twitter: [@LeaVerou](https://twitter.com/LeaVerou)
 - Web: [http://lea.verou.me](http://lea.verou.me)
 
-### Paul Irish
+#### Nati Devalle
+- Twitter: [@Taly](https://twitter.com/Taly)
+- Web: [http://taly.me](http://taly.me)
+
+#### Paul Irish
 - Twitter: [@paul_irish](https://twitter.com/paul_irish)
 - Web: [http://paulirish.com](http://paulirish.com)
 
