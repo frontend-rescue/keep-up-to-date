@@ -126,17 +126,16 @@ a:hover {
     list-style: none;
 }
 
-.best-tweets .box-follow,
-.best-podcasts .box-follow {
+.best-blogs .box-follow {
     box-shadow: 3px 3px 0px #009798 inset, 3px 3px 0px #fff;
 }
 
-.best-blogs .box-follow {
+.best-weekly .box-follow {
     box-shadow: 3px 3px 0px #eb7108 inset, 3px 3px 0px #fff;
 }
 
-.best-blogs .box-follow {
-    box-shadow: 3px 3px 0px #eb7108 inset, 3px 3px 0px #fff;
+.best-podcasts .box-follow {
+    box-shadow: 3px 3px 0px #FAB800 inset, 3px 3px 0px #fff;
 }
 
 .box-follow-medium p {
@@ -264,7 +263,7 @@ a:hover {
     padding: 1em 0 6em;
 }
 
-.pro-tip {
+.full-list {
     background: #1A171B;
     line-height: 2em;
     position: absolute;
@@ -273,7 +272,7 @@ a:hover {
     right: 0;
 }
 
-.pro-tip:before {
+.full-list:before {
     content: ' ';
     position: absolute;
     top: 0;
@@ -282,7 +281,7 @@ a:hover {
     border-left-color: rgba(0, 0, 0, 0);
 }
 
-.pro-tip a {
+.full-list a {
     padding-left: 20px;
     display: block;
 }
@@ -360,16 +359,6 @@ a:hover {
 
 .source-type:nth-child(4) {
     background-color: #fab800;
-}
-
-.source-type:nth-child(5) {
-    background-color: #009798;
-}
-
-.source-type:nth-child(2) .best-sources-found,
-.source-type:nth-child(3) .best-sources-found,
-.source-type:nth-child(4) .best-sources-found {
-    padding-bottom: 2em;
 }
 
 .source-type-title {
@@ -457,7 +446,7 @@ a:hover {
     position: relative;
     background: #009798 center -2px no-repeat;
     padding-bottom: 200px;
-    margin: 5em 0 3em;
+    margin: 60px 0 0;
     border: 0;
     border-bottom: 22px solid #009798;
 }
@@ -483,7 +472,7 @@ a:hover {
         font-size: 1.3em;
     }
 
-    .logo {
+    .logo.layout {
         padding-bottom: 2em;
         white-space: pre-line;
     }
@@ -551,6 +540,10 @@ a:hover {
 
 /* Large Screens */
 @media all and (min-width: 54em) {
+    .layout {
+        padding-bottom: 40px;
+    }
+
     .box-follow-small {
         width: 28%;
     }
@@ -580,7 +573,7 @@ a:hover {
     #follow-cool-people .section-title {
         width: 320px;
         margin-left: 170px;
-        padding-top: 60px;
+        padding-top: 30px;
     }
 
     #follow-cool-people .section-title:before {
@@ -616,11 +609,11 @@ a:hover {
     #attend-conferences .section-title {
         width: 465px;
         margin: 0 auto 0 46%;
-        padding-top: 135px;
+        padding-top: 155px;
     }
 
     #attend-conferences .section-title:before {
-        top: 240px;
+        top: 275px;
         left: 30%;
     }
 
