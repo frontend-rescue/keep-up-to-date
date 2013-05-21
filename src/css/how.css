@@ -439,7 +439,6 @@ a:hover {
 
 .box-mention-author {
     text-align: right;
-    padding-right: 20px;
 }
 
 .main-footer {
@@ -622,24 +621,28 @@ a:hover {
     }
 
     #get-your-own-sources .section-title {
-        width: 325px;
+        width: 400px;
+        padding-top: 120px;
     }
 
     #get-your-own-sources .section-title:before {
-        top: 30px;
+        top: 150px;
         left: 50%;
-        margin-left: -60px;
+        margin-left: -70px;
     }
 
     #get-your-own-sources .layout:first-child {
         min-height: 530px;
+        padding-bottom: 0;
     }
 
     #get-your-own-sources .box-mention blockquote {
-        margin: 15px 100px 0;
+        margin: 15px 50px 0;
     }
 
-    #get-your-own-sources blockquote p {
-        font-size: 1em;
+    #get-your-own-sources blockquote p,
+    #get-your-own-sources blockquote ol,
+    #get-your-own-sources blockquote ul {
+        font-size: 1.2em;
     }
 }
