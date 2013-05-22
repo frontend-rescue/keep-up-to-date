@@ -1,22 +1,19 @@
 # How to keep up to date on Front-end Technologies?
 
-The web is a universe evolving extremely fast. An important part of our job as front-end developers is keeping up to date and stay close to new tools, trends and workflows.
-Hundreds of blog posts and articles are published every day, but there is no way you can read all of them. We think you should have a strategy to keep up to date, so we have created this project.
+The web is a rapidly evolving universe. An important part of our job as front-end developers is keeping up to date and staying close to new tools, trends and workflows.
+Hundreds of blog posts and articles are published every day, but there is no way you can read all of them. We think you should have a strategy to keep up to date, so we have created this recipe.
 
 ## Made by devs, for devs
 
 #### Guille Paz
-- E-mail: [guille87paz@gmail.com](mailto:guille87paz@gmail.com)
 - Twitter: [@pazguille](http://twitter.com/pazguille)
 - Web: [http://pazguille.me](http://pazguille.me)
 
 #### Hernan Mammana
-- E-mail: [hernanmammana‎@gmail.com](mailto:hernan.mammana‎@gmail.com)
 - Twitter: [@hmammana](http://twitter.com/hmammana‎)
 - Web: [http://mammana.me](http://mammana.me)
 
 #### Lean Linares
-- E-mail: [lean8086@gmail.com](mailto:lean8086@gmail.com)
 - Twitter: [@lean8086](http://twitter.com/lean8086)
 - Web: [http://leanlinares.me](http://leanlinares.me)
 
@@ -24,7 +21,6 @@ Hundreds of blog posts and articles are published every day, but there is no way
 #### Fer Adorneti
 - E-mail: [ferador@gmail.com](mailto:ferador@gmail.com)
 - Twitter: [@cavemandg](https://twitter.com/cavemandg)
-- Web: [Cavemandg's flickr](http://www.flickr.com/photos/cavemandg)
 
 ## Thank you
 
