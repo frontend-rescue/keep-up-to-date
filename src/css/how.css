@@ -215,9 +215,11 @@ a:hover {
  * Navigation
  */
 .navigation {
+    background-color: #009798;
     background-image: -webkit-linear-gradient(#FFF 1em, #FAB800 1em, #FAB800 4em, #009798 0);
     background-image: linear-gradient(#FFF 1em, #FAB800 1em, #FAB800 4em, #009798 0);
     background-repeat: no-repeat;
+
 }
 
 .navigation h2 {
