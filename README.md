@@ -10,7 +10,7 @@ Hundreds of blog posts and articles are published every day, but there is no way
 - Web: [http://pazguille.me](http://pazguille.me)
 
 #### Hernan Mammana
-- Twitter: [@hmammana](http://twitter.com/hmammana‎)
+- Twitter: [@hmammana](http://twitter.com/hmammana)
 - Web: [http://mammana.me](http://mammana.me)
 
 #### Lean Linares
