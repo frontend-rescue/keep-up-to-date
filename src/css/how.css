@@ -456,6 +456,20 @@ a:hover {
     top: -30px;
 }
 
+.who-we-are {
+    margin-top: 80px;
+}
+
+.who-we-are ul,
+.thank-you ul {
+    padding-bottom: 3em;
+}
+
+.who-we-are .box-follow,
+.thank-you .box-follow {
+    box-shadow: 3px 3px 0px #FFF inset, 3px 3px 0px #FFF;
+}
+
 .social-plugins {
     text-align: center;
     margin: 1em 0;
@@ -535,6 +549,10 @@ a:hover {
         width: 127px;
         height: 127px;
         font-size: 1.5em;
+    }
+
+    .who-we-are {
+        margin-top: 20px;
     }
 }
 
