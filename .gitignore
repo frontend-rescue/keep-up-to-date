@@ -1,1 +1,5 @@
-*.esproj
+.esproj
+*.espressostorage
+.DS_Store
+.cache
+.svn/*
