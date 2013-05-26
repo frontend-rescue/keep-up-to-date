@@ -28,6 +28,8 @@
         "url": "https://github.com/frontend-rescue/keep-up-to-date"
     },
     "engine": "node >= 0.10.5",
-    "dependencies": {},
+    "dependencies": {
+        "underscore": "1.4.x"
+    },
     "license": "MIT"
 }
