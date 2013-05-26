@@ -1,0 +1,35 @@
+{
+    "name": "keep-up-to-date",
+    "version": "1.0.0",
+    "private": true,
+    "description": "How to keep up to date on Front-end Technologies? - The Recipe",
+    "homepage": "http://uptodate.frontendrescue.org",
+    "author": "@frontend-rescue",
+    "contributors": [
+        {
+          "name": "Guille Paz",
+          "email": "guille87paz@gmail.com"
+        },
+        {
+          "name": "Her Mammana",
+          "email": "hernanmammana@gmail.com"
+        },
+        {
+          "name": "Lean Linares",
+          "email": "lean8086@gmail.com"
+        }
+    ],
+    "scripts": {
+        "start": "wintersmith preview",
+        "build": "wintersmith build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/frontend-rescue/keep-up-to-date"
+    },
+    "engine": "node >= 0.10.5",
+    "dependencies": {
+        "wintersmith": "2.0.1"
+    },
+    "license": "MIT"
+}

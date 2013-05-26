@@ -1,0 +1,8 @@
+{
+  "locals": {
+    "url": "http://localhost:8080"
+  },
+  "jade": {
+    "pretty": true
+  }
+}
