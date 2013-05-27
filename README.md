@@ -1,9 +1,9 @@
-# How to keep up to date on Front-end Technologies?
+# Como manter-se atualizado nas Tecnologias Front-end?
 
-The web is a rapidly evolving universe. An important part of our job as front-end developers is keeping up to date and staying close to new tools, trends and workflows.
-Hundreds of blog posts and articles are published every day, but there is no way you can read all of them. We think you should have a strategy to keep up to date, so we have created this recipe.
+A web é um universo em rápida evolução. Um aspecto importante do nosso trabalho como desenvolvedores front-end é manter-se atualizado e perto de novas ferramentas, tendências e fluxos de trabalho.
+Centenas de posts em blogs e artigos são publicados diariamente, mas não há uma maneira de ler todos eles. Pensamos que você deveria ter uma estratégia para manter-se atualizado, então decidimos criar esta "receita".
 
-## Made by devs, for devs
+## Feito por devs, para devs
 
 #### Guille Paz
 - Twitter: [@pazguille](http://twitter.com/pazguille)
