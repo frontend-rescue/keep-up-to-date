@@ -269,9 +269,9 @@ a:hover {
     background: #1A171B;
     line-height: 2em;
     position: absolute;
-    width: 130px;
     bottom: 50px;
     right: 0;
+    padding-right: 20px;
 }
 
 .full-list:before {
@@ -497,7 +497,7 @@ a:hover {
     }
 
     .logo strong {
-        font-size: 1.4em;
+        font-size: 1.5em;
     }
 
     .recipe-ribbon {

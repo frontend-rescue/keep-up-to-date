@@ -16,6 +16,14 @@
         <link rel="stylesheet" href="../src/css/normalize.css">
         <link rel="stylesheet" href="../src/css/base.css">
         <link rel="stylesheet" href="../src/css/how.css">
+
+        <style>
+            @media all and (min-width:40em) {
+                .logo strong {
+                    width: 525px;
+                }
+            }
+        </style>
     </head>
     <body>
 
@@ -688,7 +696,7 @@
                     d = document,
                     l = d.createElement('link');
                 l.rel = 'stylesheet';
-                l.href = 'src/css/data-uri.css';
+                l.href = '../src/css/data-uri.css';
                 document.head.appendChild(l);
 
                 imgs = document.querySelectorAll('[data-src]');
