@@ -478,7 +478,11 @@ a:hover {
 #pin {
     position: relative;
     top: -2px;
-    margin-right: 20px;
+    margin-right: 40px;
+}
+
+#twitter {
+    margin-right: 5px;
 }
 
 /* Medium Screens*/
