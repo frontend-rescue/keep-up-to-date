@@ -68,6 +68,25 @@ a:hover {
     line-height: 1.1em;
 }
 
+.languages {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+}
+
+.languages li {
+    margin: 10px 5px;
+}
+
+.languages li a {
+    display: block;
+    width: 30px;
+    height: 22px;
+    text-indent: -100px;
+    overflow: hidden;
+    background: center center no-repeat;
+}
+
 /*
  * Shared
  */
@@ -563,6 +582,15 @@ a:hover {
 
 /* Large Screens */
 @media all and (min-width: 54em) {
+
+    .languages {
+        right: 5px;
+    }
+
+    .languages li {
+        display: inline-block;
+    }
+
     .layout {
         padding-bottom: 40px;
     }
