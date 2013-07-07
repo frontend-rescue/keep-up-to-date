@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Shoptalk",
+        "permalink": "http://shoptalkshow.com/",
+        "img": "https://si0.twimg.com/profile_images/2528496090/0749kla567npyi53bhse_bigger.jpeg",
+        "description": {
+            "en": "A podcast about front end web design, development and UX.",
+            "es": "Un podcast sobre diseño web front-end, desarrollo y Experiencia de Usuario.",
+            "pt": "Um podcast sobre front-end e web design, desenvolvimento e UX.",
+            "de": "Ein Podcast über Front-End Webdesign, Entwicklung und UX."
+        }
+    },
+
+    {
+        "name": "The Hanselminutes",
+        "permalink": "http://creativecodingpodcast.com/",
+        "img": "src/assets/no-image.png",
+        "description": {
+            "en": "Hanselminutes Podcast is \"Fresh Air\" for developers.",
+            "es": "Hanselminutes Podcast es \"Aire fresco\" para desarrolladores.",
+            "pt": "O podcast Hanselminutes é como respirar \"ar fresco\" para desenvolvedores.",
+            "de": "Hanselminutes Podcast ist \"Frische Luft\" für Entwickler."
+        }
+    },
+
+    {
+        "name": "JavaScript Jabber",
+        "permalink": "http://javascriptjabber.com/",
+        "img": "https://si0.twimg.com/profile_images/1815882262/JSJ_cover_logo_bigger.jpg",
+        "description": {
+            "en": "A weekly podcast discussing the superb language JavaScript.",
+            "es": "Un podcast semanal de discusión sobre el magnífico lenguaje JavaScript.",
+            "pt": "Um podcast semanal que discute sobre a linguagem JavaScript.",
+            "de": "Ein wöchentlicher Podcast, der die herrliche Sprache JavaScript diskutiert."
+        }
+    },
+
+    {
+        "name": "The Web Ahead",
+        "permalink": "http://www.jsclasses.org/blog/category/podcast/",
+        "img": "http://icebox.5by5.tv/images/broadcasts/26/cover_quarter.jpg",
+        "description": {
+            "en": "A weekly podcast about changing technologies and the future of the web.",
+            "es": "Un podcast semanal sobre el cambio de las tecnologías y el futuro de internet.",
+            "pt": "Um podcast semanal sobre a adesão de tecnologias e o futuro da web.",
+            "de": "Ein wöchentlicher Podcast über sich-verändernde Technologien und die Zukunft des Webs."
+        }
+    },
+
+    {
+        "name": "Google Developers",
+        "permalink": "http://www.youtube.com/watch?v=L3ugr9BJqIs",
+        "img": "https://si0.twimg.com/profile_images/1849459925/devs_icon_128-1_bigger.png",
+        "description": {
+            "en": "Talks, screencasts, interviews, and more relevant to Google's developer products.",
+            "es": "Charlas, vídeo tutoriales, entrevistas, y más para desarrolladores de productos de Google.",
+            "pt": "Palestras, screencasts, entrevistas, e demais produtos relevantes do Google developer.",
+            "de": "Gespräche, Screencasts, Interviews und mehr bezogen auf Google's Entwicklerprodukte"
+        }
+    },
+
+    {
+        "name": "The Javascript Show",
+        "permalink": "http://javascriptshow.com/",
+        "img": "https://si0.twimg.com/profile_images/1441001009/skitched-20110713-155647_bigger.png",
+        "description": {
+            "en": "Featuring news and discussion about the latest topics in the Javascript communities.",
+            "es": "Novedades destacadas y discusiones sobre los últimos temas en la comunidad de JavaScript.",
+            "pt": "Com notícias e discussões sobre os últimos tópicos das comunidades de JavaScript.",
+            "de": "News und Diskussionen über aktuelle Themen in den Javascript-Communities."
+        }
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Fronteers conference",
+        "permalink": "http://fronteers.nl/",
+        "img": "https://si0.twimg.com/profile_images/196594034/fronteers-125x125_bigger.gif",
+        "description": {
+            "en": "Conference of the Dutch non-profit trade organisation for front-end developers.",
+            "es": "La organización comercial sin fines de lucro de desarrolladores de aplicaciones para usuario holandesess.",
+            "pt": "Conferência Holandesa da organização comercial sem fins lucrativos para desenvolvedores front-end.",
+            "de": "Konferenz der holländischen Non-Profit Handelsorganisation für Front-End Entwickler."
+        }
+    },
+
+    {
+        "name": "Front Trends",
+        "permalink": "http://front-trends.com/",
+        "img": "https://si0.twimg.com/profile_images/1606051228/TWITTER_AVATAR_bigger.jpg",
+        "description": {
+            "en": "A gathering where front-end lovers and tech entrepreneurs discover the latest trends.",
+            "es": "Una reunión donde los amantes del front-end y emprendedores, descubre las últimas tendencias.",
+            "pt": "Um encontro onde os amantes de front-end e empresários de tecnologia descobrem as últimas tendências.",
+            "de": "Ein Treffen bei dem Front-End Liebhaber und Tech-Unternehmer die neuesten Trends entdecken."
+        }
+    },
+
+    {
+        "name": "HTML5DevConf",
+        "permalink": "http://html5devconf.com/",
+        "img": "https://si0.twimg.com/profile_images/2158396590/html5_300a_bigger.jpg",
+        "description": {
+            "en": "Has become the largest JavaScript and HTML5 developers conference in the world.",
+            "es": "Se ha convertido en la conferencias más grande del mundo de desarrolladores JavaScript.",
+            "pt": "Se tornou a maior conferência de desenvolvedores Javascript e HTML5 do mundo.",
+            "de": "Mittlerweile die größte JavaScript- und HTML5-Konferenz der Welt."
+        }
+    },
+
+    {
+        "name": "Fluent Conf JavaScript & Beyond",
+        "permalink": "http://fluentconf.com/",
+        "img": "https://si0.twimg.com/profile_images/1744578456/Fluent3_bigger.jpg",
+        "description": {
+            "en": "Featuring the best in JavaScript and progressive Web development.",
+            "es": "Destacando lo mejor de JavaScript y el desarrollo web progresivo.",
+            "pt": "Com o melhor em Javascript e desenvolvimento web progressivo.",
+            "de": "Das Beste aus JavaScript und Progressive Web Development."
+        }
+    }
+]

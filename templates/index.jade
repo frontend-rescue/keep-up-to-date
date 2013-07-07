@@ -1,7 +1,21 @@
-extends layout
+- var title = contents[locals.lang]['title.md'].metadata;
+- var path = (locals.lang === 'en') ? 'src' : '../src';
 
-block content
-    h1= page.title
-        != page.html
+!!! 5
+html(lang='#{locals.lang}')
+    include head
 
-    include author
+    body
+        include header
+        include languages
+        include summary
+        include navigation
+        include cool-people
+        include best-sources
+        include attend-conferences
+        include your-own-sources
+        include who-we-are
+        include thank-you
+        include footer
+        include social-plugins
+        include scripts
