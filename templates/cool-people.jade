@@ -1,0 +1,25 @@
+- var coolpeople = contents[locals.lang]['cool-people.md'];
+- var tagsMap = {'JavaScript': 'js', 'CSS': 'css', 'HTML': 'html', 'Mobile': 'mobile', 'Performance': 'wpo'};
+
+section#follow-cool-people.section-step
+    .layout
+        h3.section-title
+            span!= coolpeople.metadata.title
+            |  #{coolpeople.metadata.subtitle}
+
+        != coolpeople.html
+
+    ul.who-to-follow
+        each cool, i in people
+            li.box-follow.box-follow-small
+                h4.box-follow-title
+                    a(href='#{cool.site}') #{cool.name}
+                a(href='#{cool.site}')
+                    img.box-follow-avatar(width='80', height='80', alt='#{cool.name}', data-async='#{cool.twitter.img}')
+                a(href='https://twitter.com/#{cool.twitter.img}') @#{cool.twitter.user}
+                .box-follow-footer
+                    - each tag in cool.tags
+                        b(class="skill skill-#{tagsMap[tag]}") #{tag}
+
+    footer.full-list
+        a(href='https://twitter.com/frontendrescue/cool-people/members', target='_blank') #{coolpeople.metadata.footer}

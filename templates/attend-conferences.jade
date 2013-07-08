@@ -1,0 +1,21 @@
+- var conferences = contents[locals.lang]['conferences.md'];
+
+section#attend-conferences.section-step
+    .layout
+        h3.section-title
+            span!= conferences.metadata.title
+            |  #{conferences.metadata.subtitle}
+
+        != conferences.html
+
+    ul.conferences
+        each conf, i in confs
+            li.box-follow.box-follow-medium
+                h5.box-follow-title
+                    a(href='#{conf.permalink}') #{conf.name}
+                a(href='#{conf.permalink}')
+                    img.box-follow-avatar(width='80', height='80', alt='#{conf.name}', data-async='#{conf.img}')
+                p #{conf.description[locals.lang]}
+
+    footer.full-list
+        a(href='https://twitter.com/frontendrescue/conferences/members', target='_blank') #{conferences.metadata.footer}

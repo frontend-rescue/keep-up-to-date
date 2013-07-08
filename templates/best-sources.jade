@@ -1,0 +1,51 @@
+- var bestsources = contents[locals.lang]['best-sources.md'];
+
+section#find-the-best-sources.section-step
+    .layout
+        h3.section-title
+            span!= bestsources.metadata.title
+            |  #{bestsources.metadata.subtitle}
+
+        != bestsources.html
+
+    article.source-type
+        h4.source-type-title Blogs
+        ul.best-sources-found.best-blogs
+            each blog, i in blogs
+                li.box-follow.box-follow-medium
+                    h5.box-follow-title
+                        a(href='#{blog.permalink}') #{blog.name}
+                    a(href='#{blog.permalink}')
+                        img.box-follow-avatar(width='80', height='80', data-async='#{blog.img}')
+                    p #{blog.description[locals.lang]}
+
+        footer.full-list
+            a(href='https://twitter.com/frontendrescue/best-sources/members', target='_blank') #{bestsources.metadata.footer}
+
+    article.source-type
+        h4.source-type-title #{bestsources.metadata.weekly}
+        ul.best-sources-found.best-weekly
+            each week, i in weekly
+                li.box-follow.box-follow-medium
+                    h5.box-follow-title
+                        a(href='#{week.permalink}') #{week.name}
+                    a(href='#{week.permalink}')
+                        img.box-follow-avatar(width='80', height='80', data-async='#{week.img}', alt='#{week.img}')
+                    p #{week.description[locals.lang]}
+
+        footer.full-list
+            a(href='https://twitter.com/frontendrescue/best-sources/members', target='_blank') #{bestsources.metadata.footer}
+
+    article.source-type
+        h4.source-type-title Podcasts
+        ul.best-sources-found.best-podcasts
+            each podcast, i in podcasts
+                li.box-follow.box-follow-medium
+                    h5.box-follow-title
+                        a(href='#{podcast.permalink}') #{podcast.name}
+                    a(href='#{podcast.permalink}')
+                        img.box-follow-avatar(width='80', height='80', data-async='#{podcast.img}', alt='#{podcast.name}')
+                    p #{podcast.description[locals.lang]}
+
+    footer.full-list
+        a(href='https://twitter.com/frontendrescue/best-sources/members', target='_blank') #{bestsources.metadata.footer}

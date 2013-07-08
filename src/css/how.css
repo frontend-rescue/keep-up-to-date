@@ -523,6 +523,14 @@ a:hover {
         font-size: 1.5em;
     }
 
+    html[lang="pt"] .logo strong {
+        width: 525px;
+    }
+
+    html[lang="es"] .logo strong {
+        width: 535px;
+    }
+
     .recipe-ribbon {
         width: 130px;
         height: 130px;

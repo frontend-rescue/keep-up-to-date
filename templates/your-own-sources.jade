@@ -1,0 +1,19 @@
+- var sources = contents[locals.lang]['own-sources.md'];
+- var mentions = contents[locals.lang].mentions;
+
+section#get-your-own-sources.section-step
+    .layout
+        h3.section-title
+            span!= sources.metadata.title
+            |  #{sources.metadata.subtitle}
+
+        != sources.html
+
+    ul.layout
+        each mention, i in mentions
+            li.box-follow.box-mention(id="#{mention.metadata.id}")
+                blockquote
+                    != mention.html
+                    footer.box-mention-author
+                        a(href='https://twitter.com/#{mention.metadata.twitter}')
+                            b #{mention.metadata.name}

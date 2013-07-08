@@ -1,0 +1,21 @@
+- var title = contents[locals.lang]['title.md'].metadata;
+- var path = (locals.lang === 'en') ? 'src' : '../src';
+
+!!! 5
+html(lang='#{locals.lang}')
+    include head
+
+    body
+        include header
+        include languages
+        include summary
+        include navigation
+        include cool-people
+        include best-sources
+        include attend-conferences
+        include your-own-sources
+        include who-we-are
+        include thank-you
+        include footer
+        include social-plugins
+        include scripts

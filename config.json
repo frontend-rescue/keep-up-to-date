@@ -1,0 +1,15 @@
+{
+    "locals":{
+        "url": "http://localhost:8080"
+    },
+
+    "jade": {"pretty":true},
+
+    "require": {
+        "people": "./data/cool-people.json",
+        "blogs": "./data/blogs.json",
+        "weekly": "./data/weekly.json",
+        "podcasts": "./data/podcasts.json",
+        "confs": "./data/conferences.json"
+    }
+}
