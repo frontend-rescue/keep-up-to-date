@@ -2,7 +2,7 @@
     {
         "name": "Open Web Platform Daily Digest",
         "permalink": "http://webplatformdaily.org/",
-        "img": "src/assets/no-image.png",
+        "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
         "description": {
             "en": "Provides daily content about W3C, HTML, CSS, JavaScript, the Web APIs, web browsers.",
             "es": "Contenido diario sobre W3C, HTML, CSS, JavaScript, las APIs de internet, y navegadores de internet.",
@@ -62,7 +62,7 @@
     {
         "name": "Status Code",
         "permalink": "http://statuscode.org/",
-        "img": "src/assets/no-image.png",
+        "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
         "description": {
             "en": "A Weekly Programming Newsletter for Developers and Programmers.",
             "es": "Un resumen de novedades semanales para desarrolladores y programadores.",

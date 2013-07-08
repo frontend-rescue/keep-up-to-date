@@ -14,7 +14,7 @@
     {
         "name": "The Hanselminutes",
         "permalink": "http://creativecodingpodcast.com/",
-        "img": "src/assets/no-image.png",
+        "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
         "description": {
             "en": "Hanselminutes Podcast is \"Fresh Air\" for developers.",
             "es": "Hanselminutes Podcast es \"Aire fresco\" para desarrolladores.",

@@ -110,7 +110,7 @@
     {
         "name": "QuirksMode",
         "permalink": "http://net.tutsplus.com/",
-        "img": "src/assets/no-image.png",
+        "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
         "description": {
             "en": "It is the prime source for browser compatibility information on the Internet.",
             "es": "La principal fuente de información en internet en compatibilidad entre navegadores.",
