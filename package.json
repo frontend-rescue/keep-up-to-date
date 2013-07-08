@@ -1,7 +1,6 @@
 {
   "name": "keep-up-to-date",
   "version": "2.0.0",
-  "private": true,
   "description": "How to keep up to date on Front-end Technologies? - The Recipe",
   "homepage": "http://uptodate.frontendrescue.org",
   "author": "@frontend-rescue",
