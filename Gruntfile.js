@@ -52,7 +52,7 @@ module.exports = function (grunt) {
             'assets': {
                 'files': [
                     {'src': ['src/assets/no-image.png'], 'dest': 'build/'},
-                    {'src': ['src/assets/favicon.ico'], 'dest': 'build/favincon.ico'}
+                    {'src': ['src/assets/favicon.ico'], 'dest': 'build/favicon.ico'}
                 ]
             },
 
