@@ -4,7 +4,7 @@
         "site": "http://addyosmani.com/",
         "twitter": {
             "user": "addyosmani",
-            "img": "https://si0.twimg.com/profile_images/2502859589/nxqs1t0xa8n5jm1w0c4q_bigger.jpeg"
+            "img": "http://twitter.com/api/users/profile_image/addyosmani?size=bigger"
         },
         "tags": ["JavaScript"]
     },
@@ -14,7 +14,7 @@
         "site": "http://alexsexton.com/",
         "twitter": {
             "user": "SlexAxton",
-            "img": "https://si0.twimg.com/profile_images/2603391598/o7ychivtlyhssq5ixxpy_bigger.jpeg"
+            "img": "http://twitter.com/api/users/profile_image/SlexAxton?size=bigger"
         },
         "tags": ["JavaScript"]
     },
@@ -24,7 +24,7 @@
         "site": "http://realityhacking.net/",
         "twitter": {
             "user": "angelinamagnum",
-            "img": "https://si2.twimg.com/profile_images/1697997711/grainyme_bigger.jpg"
+            "img": "http://twitter.com/api/users/profile_image/angelinamagnum?size=bigger"
         },
         "tags": ["JavaScript"]
     },
@@ -34,7 +34,7 @@
         "site": "http://anguscroll.com/",
         "twitter": {
             "user": "angustweets",
-            "img": "https://si0.twimg.com/profile_images/2777728124/5e092d781248974754b97358565204c2_bigger.png"
+            "img": "http://twitter.com/api/users/profile_image/angustweets?size=bigger"
         },
         "tags": ["JavaScript"]
     },
@@ -44,7 +44,7 @@
         "site": "http://rauschma.de/",
         "twitter": {
             "user": "rauschma",
-            "img": "https://si0.twimg.com/profile_images/1223694079/41470_701060859_7290_n_bigger.jpg"
+            "img": "http://twitter.com/api/users/profile_image/rauschma?size=bigger"
         },
         "tags": ["JavaScript"]
     },
@@ -54,7 +54,7 @@
         "site": "http://benalman.com/",
         "twitter": {
             "user": "cowboy",
-            "img": "https://si0.twimg.com/profile_images/1432485915/cowboy_new_500_bigger.jpeg"
+            "img": "http://twitter.com/api/users/profile_image/cowboy?size=bigger"
         },
         "tags": ["JavaScript"]
     },
@@ -64,7 +64,7 @@
         "site": "http://bradfrostweb.com/",
         "twitter": {
             "user": "brad_frost",
-            "img": "https://si0.twimg.com/profile_images/1561258552/brad_frost_bigger.png"
+            "img": "http://twitter.com/api/users/profile_image/brad_frost?size=bigger"
         },
         "tags": ["Mobile"]
     },
@@ -74,7 +74,7 @@
         "site": "http://css-tricks.com/",
         "twitter": {
             "user": "chriscoyier",
-            "img": "https://si1.twimg.com/profile_images/1668225011/Gravatar2_bigger.png"
+            "img": "http://twitter.com/api/users/profile_image/chriscoyier?size=bigger"
         },
         "tags": ["CSS"]
     },
@@ -84,7 +84,7 @@
         "site": "http://christianheilmann.com/",
         "twitter": {
             "user": "codepo8",
-            "img": "https://si2.twimg.com/profile_images/1666904408/codepo8_bigger.png"
+            "img": "http://twitter.com/api/users/profile_image/codepo8?size=bigger"
         },
         "tags": ["JavaScript"]
     },
@@ -94,7 +94,7 @@
         "site": "http://www.codylindley.com/",
         "twitter": {
             "user": "codylindley",
-            "img": "https://si1.twimg.com/profile_images/1761993154/Screen_shot_2010-09-27_at_1.32.49_PM_bigger.png"
+            "img": "http://twitter.com/api/users/profile_image/codylindley?size=bigger"
         },
         "tags": ["JavaScript"]
     },
@@ -104,7 +104,7 @@
         "site": "http://davidwalsh.name/",
         "twitter": {
             "user": "davidwalshblog",
-            "img": "https://si2.twimg.com/profile_images/2587630901/6gk0dqubt5512yk18a6o_bigger.png"
+            "img": "http://twitter.com/api/users/profile_image/davidwalshblog?size=bigger"
         },
         "tags": ["CSS", "JavaScript"]
     },
@@ -114,7 +114,7 @@
         "site": "http://www.elijahmanor.com/",
         "twitter": {
             "user": "elijahmanor",
-            "img": "https://si1.twimg.com/profile_images/2753217226/6b5037440980edbea493871fc133381e_bigger.jpeg"
+            "img": "http://twitter.com/api/users/profile_image/elijahmanor?size=bigger"
         },
         "tags": ["JavaScript"]
     },
@@ -124,7 +124,7 @@
         "site": "https://plus.google.com/u/0/+EricBidelman/about",
         "twitter": {
             "user": "ebidel",
-            "img": "https://si1.twimg.com/profile_images/1747369516/DevRel-Party-68_bigger.jpeg"
+            "img": "http://twitter.com/api/users/profile_image/ebidel?size=bigger"
         },
         "tags": ["HTML", "CSS", "JavaScript"]
     },
@@ -134,7 +134,7 @@
         "site": "http://www.standardista.com/",
         "twitter": {
             "user": "standardista",
-            "img": "https://si1.twimg.com/profile_images/3460226226/dc4dfaa2d2e11080c28e8502ca5eaea0_bigger.jpeg"
+            "img": "http://twitter.com/api/users/profile_image/standardista?size=bigger"
         },
         "tags": ["HTML", "CSS"]
     },
@@ -144,7 +144,7 @@
         "site": "http://www.igvita.com/",
         "twitter": {
             "user": "igrigorik",
-            "img": "https://si1.twimg.com/profile_images/59079748/2262419520_e5832a812d_bigger.jpg"
+            "img": "http://twitter.com/api/users/profile_image/igrigorik?size=bigger"
         },
         "tags": ["Performance"]
     },
@@ -154,7 +154,7 @@
         "site": "http://ejohn.org/",
         "twitter": {
             "user": "jeresig",
-            "img": "https://si2.twimg.com/profile_images/1181631474/john_bigger.jpg"
+            "img": "http://twitter.com/api/users/profile_image/jeresig?size=bigger"
         },
         "tags": ["JavaScript"]
     },
@@ -164,7 +164,7 @@
         "site": "http://lea.verou.me/",
         "twitter": {
             "user": "leaverou",
-            "img": "https://si2.twimg.com/profile_images/1716232467/avatar-logo_bigger.png"
+            "img": "http://twitter.com/api/users/profile_image/leaverou?size=bigger"
         },
         "tags": ["CSS", "JavaScript"]
     },
@@ -174,7 +174,7 @@
         "site": "http://www.lukew.com/",
         "twitter": {
             "user": "lukew",
-            "img": "https://si2.twimg.com/profile_images/2924627654/c28337b0191a03064ba289db29564dc8_bigger.png"
+            "img": "http://twitter.com/api/users/profile_image/lukew?size=bigger"
         },
         "tags": ["Mobile"]
     },
@@ -184,7 +184,7 @@
         "site": "http://www.nczonline.net/",
         "twitter": {
             "user": "slicknet",
-            "img": "https://si2.twimg.com/profile_images/3571535163/5c8b3a253c28fa35c943108282c20c50_bigger.jpeg"
+            "img": "http://twitter.com/api/users/profile_image/slicknet?size=bigger"
         },
         "tags": ["JavaScript"]
     },
@@ -194,7 +194,7 @@
         "site": "http://www.stubbornella.org/",
         "twitter": {
             "user": "stubbornella",
-            "img": "https://si2.twimg.com/profile_images/1752559901/nicole_pink_bkg_2012_bigger.png"
+            "img": "http://twitter.com/api/users/profile_image/stubbornella?size=bigger"
         },
         "tags": ["CSS"]
     },
@@ -204,7 +204,7 @@
         "site": "http://paulirish.com/",
         "twitter": {
             "user": "paul_irish",
-            "img": "https://si2.twimg.com/profile_images/2910976341/7d972c32f3882f715ff84a67685e6acf_bigger.jpeg"
+            "img": "http://twitter.com/api/users/profile_image/paul_irish?size=bigger"
         },
         "tags": ["JavaScript"]
     },
@@ -214,7 +214,7 @@
         "site": "http://rmurphey.com/",
         "twitter": {
             "user": "rmurphey",
-            "img": "https://si3.twimg.com/profile_images/1447727594/IMG_8534_bigger.jpg"
+            "img": "http://twitter.com/api/users/profile_image/rmurphey?size=bigger"
         },
         "tags": ["JavaScript"]
     },
@@ -224,7 +224,7 @@
         "site": "http://stevesouders.com/",
         "twitter": {
             "user": "souders",
-            "img": "https://si3.twimg.com/profile_images/2029465935/4089930308-closeup-219x281_bigger.jpg"
+            "img": "http://twitter.com/api/users/profile_image/souders?size=bigger"
         },
         "tags": ["Performance"]
     },
@@ -234,7 +234,7 @@
         "site": "http://mir.aculo.us/",
         "twitter": {
             "user": "thomasfuchs",
-            "img": "https://si3.twimg.com/profile_images/663892623/thomas_bigger.png"
+            "img": "http://twitter.com/api/users/profile_image/thomasfuchs?size=bigger"
         },
         "tags": ["JavaScript"]
     }
