@@ -2,7 +2,7 @@
     {
         "name": "Fronteers conference",
         "permalink": "http://fronteers.nl/",
-        "img": "https://si0.twimg.com/profile_images/196594034/fronteers-125x125_bigger.gif",
+        "img": "http://twitter.com/api/users/profile_image/FronteersConf?size=bigger",
         "description": {
             "en": "Conference of the Dutch non-profit trade organisation for front-end developers.",
             "es": "La organización comercial sin fines de lucro de desarrolladores de aplicaciones para usuario holandesess.",
@@ -14,7 +14,7 @@
     {
         "name": "Front Trends",
         "permalink": "http://front-trends.com/",
-        "img": "https://si0.twimg.com/profile_images/1606051228/TWITTER_AVATAR_bigger.jpg",
+        "img": "http://twitter.com/api/users/profile_image/FrontTrends?size=bigger",
         "description": {
             "en": "A gathering where front-end lovers and tech entrepreneurs discover the latest trends.",
             "es": "Una reunión donde los amantes del front-end y emprendedores, descubre las últimas tendencias.",
@@ -26,7 +26,7 @@
     {
         "name": "HTML5DevConf",
         "permalink": "http://html5devconf.com/",
-        "img": "https://si0.twimg.com/profile_images/2158396590/html5_300a_bigger.jpg",
+        "img": "http://twitter.com/api/users/profile_image/html5devconf?size=bigger",
         "description": {
             "en": "Has become the largest JavaScript and HTML5 developers conference in the world.",
             "es": "Se ha convertido en la conferencias más grande del mundo de desarrolladores JavaScript.",
@@ -38,7 +38,7 @@
     {
         "name": "Fluent Conf JavaScript & Beyond",
         "permalink": "http://fluentconf.com/",
-        "img": "https://si0.twimg.com/profile_images/1744578456/Fluent3_bigger.jpg",
+        "img": "http://twitter.com/api/users/profile_image/fluentconf?size=bigger",
         "description": {
             "en": "Featuring the best in JavaScript and progressive Web development.",
             "es": "Destacando lo mejor de JavaScript y el desarrollo web progresivo.",

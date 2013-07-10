@@ -2,7 +2,7 @@
     {
         "name": "Shoptalk",
         "permalink": "http://shoptalkshow.com/",
-        "img": "https://si0.twimg.com/profile_images/2528496090/0749kla567npyi53bhse_bigger.jpeg",
+        "img": "http://twitter.com/api/users/profile_image/shoptalkshow?size=bigger",
         "description": {
             "en": "A podcast about front end web design, development and UX.",
             "es": "Un podcast sobre diseño web front-end, desarrollo y Experiencia de Usuario.",
@@ -26,7 +26,7 @@
     {
         "name": "JavaScript Jabber",
         "permalink": "http://javascriptjabber.com/",
-        "img": "https://si0.twimg.com/profile_images/1815882262/JSJ_cover_logo_bigger.jpg",
+        "img": "http://twitter.com/api/users/profile_image/jsjabber?size=bigger",
         "description": {
             "en": "A weekly podcast discussing the superb language JavaScript.",
             "es": "Un podcast semanal de discusión sobre el magnífico lenguaje JavaScript.",
@@ -38,7 +38,7 @@
     {
         "name": "The Web Ahead",
         "permalink": "http://www.jsclasses.org/blog/category/podcast/",
-        "img": "http://icebox.5by5.tv/images/broadcasts/26/cover_quarter.jpg",
+        "img": "http://twitter.com/api/users/profile_image/thewebahead?size=bigger",
         "description": {
             "en": "A weekly podcast about changing technologies and the future of the web.",
             "es": "Un podcast semanal sobre el cambio de las tecnologías y el futuro de internet.",
@@ -50,7 +50,7 @@
     {
         "name": "Google Developers",
         "permalink": "http://www.youtube.com/watch?v=L3ugr9BJqIs",
-        "img": "https://si0.twimg.com/profile_images/1849459925/devs_icon_128-1_bigger.png",
+        "img": "http://twitter.com/api/users/profile_image/googledevs?size=bigger",
         "description": {
             "en": "Talks, screencasts, interviews, and more relevant to Google's developer products.",
             "es": "Charlas, vídeo tutoriales, entrevistas, y más para desarrolladores de productos de Google.",
@@ -62,7 +62,7 @@
     {
         "name": "The Javascript Show",
         "permalink": "http://javascriptshow.com/",
-        "img": "https://si0.twimg.com/profile_images/1441001009/skitched-20110713-155647_bigger.png",
+        "img": "http://twitter.com/api/users/profile_image/JavaScriptShow?size=bigger",
         "description": {
             "en": "Featuring news and discussion about the latest topics in the Javascript communities.",
             "es": "Novedades destacadas y discusiones sobre los últimos temas en la comunidad de JavaScript.",
