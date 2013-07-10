@@ -5,6 +5,7 @@ module.exports = function (grunt) {
         config = grunt.file.readJSON('config.json');
 
     config.locals.lang = lang;
+    config.contents = './contents/' + lang;
 
     grunt.file.write('config-' + lang + '.json', JSON.stringify(config));
 
