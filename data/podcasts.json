@@ -13,13 +13,25 @@
 
     {
         "name": "The Hanselminutes",
-        "permalink": "http://creativecodingpodcast.com/",
+        "permalink": "http://hanselminutes.com/",
         "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
         "description": {
             "en": "Hanselminutes Podcast is \"Fresh Air\" for developers.",
             "es": "Hanselminutes Podcast es \"Aire fresco\" para desarrolladores.",
             "pt": "O podcast Hanselminutes é como respirar \"ar fresco\" para desenvolvedores.",
             "de": "Hanselminutes Podcast ist \"Frische Luft\" für Entwickler."
+        }
+    },
+
+    {
+        "name": "The Big Web Show",
+        "permalink": "http://5by5.tv/bigwebshow",
+        "img": "http://twitter.com/api/users/profile_image/bigwebshow?size=bigger",
+        "description": {
+            "en": "The award winning Big Web Show features special guests and topics. It's everything web that matters.",
+            "es": "The award winning Big Web Show features special guests and topics. It's everything web that matters.",
+            "pt": "The award winning Big Web Show features special guests and topics. It's everything web that matters.",
+            "de": "The award winning Big Web Show features special guests and topics. It's everything web that matters."
         }
     },
 
@@ -37,7 +49,7 @@
 
     {
         "name": "The Web Ahead",
-        "permalink": "http://www.jsclasses.org/blog/category/podcast/",
+        "permalink": "http://5by5.tv/webahead",
         "img": "http://twitter.com/api/users/profile_image/thewebahead?size=bigger",
         "description": {
             "en": "A weekly podcast about changing technologies and the future of the web.",
