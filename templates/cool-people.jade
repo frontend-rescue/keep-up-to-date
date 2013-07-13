@@ -16,7 +16,7 @@ section#follow-cool-people.section-step
                     a(href='#{cool.site}') #{cool.name}
                 a(href='#{cool.site}')
                     img.box-follow-avatar(width='80', height='80', alt='#{cool.name}', data-async='#{cool.twitter.img}')
-                a(href='https://twitter.com/#{cool.twitter.img}') @#{cool.twitter.user}
+                a(href='https://twitter.com/#{cool.twitter.user}') @#{cool.twitter.user}
                 .box-follow-footer
                     - each tag in cool.tags
                         b(class="skill skill-#{tagsMap[tag]}") #{tag}
