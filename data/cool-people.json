@@ -218,6 +218,16 @@
         },
         "tags": ["JavaScript"]
     },
+    
+    {
+        "name": "Richard Tetaz",
+        "site": "http://epokk.github.io",
+        "twitter": {
+            "user": "_PandaJS",
+            "img": "http://twitter.com/api/users/profile_image/_PandaJS?size=bigger"
+        },
+        "tags": ["JavaScript"]
+    },
 
     {
         "name": "Steve Souders",
