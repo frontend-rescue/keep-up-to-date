@@ -15,7 +15,4 @@ section#attend-conferences.section-step
                     a(href='#{conf.permalink}') #{conf.name}
                 a(href='#{conf.permalink}')
                     img.box-follow-avatar(width='80', height='80', alt='#{conf.name}', data-async='#{conf.img}')
-                p #{conf.description[locals.lang]}
-
-    footer.full-list
-        a(href='https://twitter.com/frontendrescue/conferences/members', target='_blank') #{conferences.metadata.footer}
+                p #{conf.description}

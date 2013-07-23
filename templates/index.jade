@@ -1,13 +1,12 @@
 - var title = contents['title.md'].metadata;
-- var path = (locals.lang === 'en') ? 'src' : '../src';
+- var path = 'src';
 
 !!! 5
-html(lang='#{locals.lang}')
+html(lang='pt-br')
     include head
 
     body
         include header
-        include languages
         include summary
         include navigation
         include cool-people

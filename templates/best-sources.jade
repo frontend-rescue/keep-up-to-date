@@ -17,10 +17,7 @@ section#find-the-best-sources.section-step
                         a(href='#{blog.permalink}') #{blog.name}
                     a(href='#{blog.permalink}')
                         img.box-follow-avatar(width='80', height='80', data-async='#{blog.img}')
-                    p #{blog.description[locals.lang]}
-
-        footer.full-list
-            a(href='https://twitter.com/frontendrescue/best-sources/members', target='_blank') #{bestsources.metadata.footer}
+                    p #{blog.description}
 
     article.source-type
         h4.source-type-title #{bestsources.metadata.weekly}
@@ -31,10 +28,7 @@ section#find-the-best-sources.section-step
                         a(href='#{week.permalink}') #{week.name}
                     a(href='#{week.permalink}')
                         img.box-follow-avatar(width='80', height='80', data-async='#{week.img}', alt='#{week.img}')
-                    p #{week.description[locals.lang]}
-
-        footer.full-list
-            a(href='https://twitter.com/frontendrescue/best-sources/members', target='_blank') #{bestsources.metadata.footer}
+                    p #{week.description}
 
     article.source-type
         h4.source-type-title Podcasts
@@ -45,7 +39,4 @@ section#find-the-best-sources.section-step
                         a(href='#{podcast.permalink}') #{podcast.name}
                     a(href='#{podcast.permalink}')
                         img.box-follow-avatar(width='80', height='80', data-async='#{podcast.img}', alt='#{podcast.name}')
-                    p #{podcast.description[locals.lang]}
-
-    footer.full-list
-        a(href='https://twitter.com/frontendrescue/best-sources/members', target='_blank') #{bestsources.metadata.footer}
+                    p #{podcast.description}
