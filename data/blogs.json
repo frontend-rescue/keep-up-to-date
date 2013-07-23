@@ -1,217 +1,44 @@
 [
     {
-        "name": "DailyJS",
+        "name": "Tableless",
         "permalink": "http://dailyjs.com/",
-        "img": "http://twitter.com/api/users/profile_image/dailyjs?size=bigger",
-        "description": {
-            "en": "A JavaScript Blog.",
-            "es": "Un blog de JavaScript.",
-            "pt": "Um blog de JavaScript.",
-            "de": "Ein JavaScript Blog."
-        }
+        "img": "http://twitter.com/api/users/profile_image/tableless?size=bigger",
+        "description": "Desenvolvimento inteligente com padrões web."
     },
-
     {
-        "name": "The Morning Brew",
-        "permalink": "http://blog.cwa.me.uk/",
-        "img": "http://blog.cwa.me.uk/wp-content/themes/Hackedcoffeespot2/img/cup4.jpg",
-        "description": {
-            "en": "A Daily .NET Software Development Link Blog.",
-            "es": "Un blog diario de links de Desarrollo de Software en .NET.",
-            "pt": "Um blog com notícias diárias de Desenvolvimento de Software com .NET.",
-            "de": "Ein täglicher .NET Software Development Link Blog."
-        }
+        "name": "W3C Brasil",
+        "permalink": "http://blog.w3c.br/",
+        "img": "http://twitter.com/api/users/profile_image/w3cbrasil?size=bigger",
+        "description": "Web para todos, em qualquer dispositivo, em qualquer lugar, segura e confiável."
     },
-
     {
-        "name": "Treehouse Blog",
-        "permalink": "http://blog.teamtreehouse.com/",
-        "img": "http://twitter.com/api/users/profile_image/treehouse_blog?size=bigger",
-        "description": {
-            "en": "The Treehouse blog provides valuable content on web development, web design, and startup tips.",
-            "es": "El blog de Treehouse provee de contenido valorable en desarrollo web, diseño web, y tips para startup.",
-            "pt": "O blog The Treehouse fornece conteúdos valisosos de desenvolvimento web, web design e dicas de startup.",
-            "de": "Der Treehouse Blog bietet wertvolle Inhalte zu Webentwicklung, Webdesign und Start-Up Tipps."
-        }
+        "name": "Front-end Brasil",
+        "permalink": "http://www.frontendbrasil.com.br/",
+        "img": "http://twitter.com/api/users/profile_image/frontend_brasil?size=bigger",
+        "description": "Dicas, tutoriais e artigos sobre front-end."
     },
-
     {
-        "name": "EchoJS",
-        "permalink": "http://www.echojs.com/",
-        "img": "http://twitter.com/api/users/profile_image/echojs?size=bigger",
-        "description": {
-            "en": "A HackerNews-like site dedicated to JavaScript and Front-end News.",
-            "es": "Un sitio dedicado a novedades de JavaScript y Front-end.",
-            "pt": "Site de notícias sociais dedicados a JavaScript e tópicos relacionados.",
-            "de": "Eine HackerNews-ähnliche Seite zu den Themen JavaScript und Front-End News."
-        }
+        "name": "Blog do Maujor",
+        "permalink": "http://www.maujor.com/blog/",
+        "img": "http://twitter.com/api/users/profile_image/maujor?size=bigger",
+        "description": "Tutoriais e pensamentos, CSS, web standards, acessibilidade e tableless."
     },
-
     {
-        "name": ".net Magazine",
-        "permalink": "http://www.netmagazine.com/",
-        "img": "http://twitter.com/api/users/profile_image/netmag?size=bigger",
-        "description": {
-            "en": ".net is the world’s best-selling magazine for web designers and developers.",
-            "es": ".net es el portal más popular del mundo para diseñadores web y desarrolladores.",
-            "pt": ".net é a revista mais vendida do mundo para desenvolvedores e designers.",
-            "de": ".net ist das weltweit meistverkaufte Magazin für Webdesigner und -entwickler."
-        }
+        "name": "Pinceladas da Web",
+        "permalink": "http://www.pinceladasdaweb.com.br/blog/",
+        "img": "http://twitter.com/api/users/profile_image/pinceladasdaweb?size=bigger",
+        "description": "HTML Hard Coding, HTML5, Bulletproof CSS, SEO, WebStandards, JavaScript e jQuery."
     },
-
     {
-        "name": "Web Platform",
-        "permalink": "http://blog.webplatform.org/",
-        "img": "http://twitter.com/api/users/profile_image/webplatform?size=bigger",
-        "description": {
-            "en": "An open community of developers building resources for a better web.",
-            "es": "Una comunidad abierta de desarrolladores contruyendo recursos para una web mejor.",
-            "pt": "Uma comunidade aberta de desenvolvedores construindo recursos por uma web melhor.",
-            "de": "Eine offene Community aus Entwicklern, die Ressourcen für ein besseres Netz bereitstellt."
-        }
+        "name": "Loopinfinito",
+        "permalink": "http://loopinfinito.com.br/",
+        "img": "http://twitter.com/api/users/profile_image/loopinfinito?size=bigger",
+        "description": "Web na crista da onda."
     },
-
     {
-        "name": "HTML5 ROCKS",
-        "permalink": "http://html5rocks.com/",
-        "img": "http://twitter.com/api/users/profile_image/ChromiumDev?size=bigger",
-        "description": {
-            "en": "Posts, tutorials, case study & demos.",
-            "es": "Arículos, tutoriales, casos de estudio y ejemplos.",
-            "pt": "Posts, tutoriais, estudos de caso & demos.",
-            "de": "Artikel, Anleitungen, Fallstudien & Demos."
-        }
-    },
-
-    {
-        "name": "HTML5 Doctor",
-        "permalink": "http://html5doctor.com/",
-        "img": "http://twitter.com/api/users/profile_image/html5doctor?size=bigger",
-        "description": {
-            "en": "A blog to help you learn more about HTML5.",
-            "es": "Un blog para ayudarte a aprender HTML5.",
-            "pt": "Um blog que irá ajudar a você aprender mais sobre HTML5.",
-            "de": "Ein Blog der dir hilft, mehr über HTML5 zu lernen."
-        }
-    },
-
-    {
-        "name": "Nettuts+",
-        "permalink": "http://net.tutsplus.com/",
-        "img": "http://twitter.com/api/users/profile_image/nettuts?size=bigger",
-        "description": {
-            "en": "Tutorials, articles, tips, and community for web developers.",
-            "es": "Tutoriales, artículos, consejos, y comunidad para desarrolladores web.",
-            "pt": "Tutoriais, artigos, dicas e comunidade para desenvolvedores web.",
-            "de": "Tutorials, Artikel, Tipps und eine Community für Webentwickler."
-        }
-    },
-
-    {
-        "name": "QuirksMode",
-        "permalink": "http://www.quirksmode.org/",
-        "img": "http://twitter.com/api/users/profile_image/ppk?size=bigger",
-        "description": {
-            "en": "It is the prime source for browser compatibility information on the Internet.",
-            "es": "La principal fuente de información en internet en compatibilidad entre navegadores.",
-            "pt": "É a principal fonte de informações sobre a compatibilidade de navegadores na Internet.",
-            "de": "Die primäre Quelle für Informationen zu Browserkompatibilität im Internet."
-        }
-    },
-
-    {
-        "name": "CSS-TRICKS",
-        "permalink": "http://css-tricks.com/",
-        "img": "http://twitter.com/api/users/profile_image/Real_CSS_Tricks?size=bigger",
-        "description": {
-            "en": "A web design community.",
-            "es": "Una comunidad de diseño web.",
-            "pt": "Uma comunidade de web design.",
-            "de": "Eine Webdesign Community."
-        }
-    },
-
-    {
-        "name": "CSS Wizardry",
-        "permalink": "http://csswizardry.com/",
-        "img": "http://twitter.com/api/users/profile_image/csswizardry?size=bigger",
-        "description": {
-            "en": "A specialised blog in writing and scaling CSS for large apps and websites.",
-            "es": "Un blog especializado en como escribir y escalar CSS para grandes aplicaciones y sitios web.",
-            "pt": "Um blog especializado em escrever CSS para grandes aplicativos e websites.",
-            "de": "Ein Blog, der sich auf das Schreiben und Anpassen von CSS für große Apps und Websites spezialisiert hat."
-        }
-    },
-
-    {
-        "name": "Smashing Magazine",
-        "permalink": "http://www.smashingmagazine.com/",
-        "img": "http://twitter.com/api/users/profile_image/smashingmag?size=bigger",
-        "description": {
-            "en": "An online magazine for professional Web designers and developers.",
-            "es": "Un portal para desarrolladores y diseñadores web profesionales.",
-            "pt": "Uma revista online para Web designers e desenvolvedores profissionais.",
-            "de": "Ein Online-Magazin für professionelle Webdesigner und Entwickler."
-        }
-    },
-
-    {
-        "name": "24 ways",
-        "permalink": "http://24ways.org/",
-        "img": "http://twitter.com/api/users/profile_image/24ways?size=bigger",
-        "description": {
-            "en": "Geeks publish a daily dose of web design and development.",
-            "es": "Geeks publicando una dosis de diseño web y desarrollo web.",
-            "pt": "Geeks que publicam diariamente uma dose de desenvolvimento e web design.",
-            "de": "Geeks veröffentlichen eine tägliche Dosis Webdesign und Entwicklung."
-        }
-    },
-
-    {
-        "name": "A List Apart",
-        "permalink": "http://alistapart.com/",
-        "img": "http://twitter.com/api/users/profile_image/alistapart?size=bigger",
-        "description": {
-            "en": "Design, development, and web content, focused on standards and best practices.",
-            "es": "Diseño, desarrollo y contenido web, centrado en estándares y buenas prácticas.",
-            "pt": "Design, desenvolvimento, e conteúdo web, com foco em padrões e boas práticas.",
-            "de": "Design, Entwicklung und Web-Inhalte, mit Fokus auf Standards und beste Verfahren."
-        }
-    },
-
-    {
-        "name": "JSCentral",
-        "permalink": "http://jscentral.org/",
-        "img": "http://twitter.com/api/users/profile_image/jscentral?size=bigger",
-        "description": {
-            "en": "JavaScript news and links.",
-            "es": "Novedades y links sobre JavaScript.",
-            "pt": "Notícias e links de JavaScript.",
-            "de": "JavaScript News und Links."
-        }
-    },
-
-    {
-        "name": "JSGoodies",
-        "permalink": "http://js.gd/",
-        "img": "http://twitter.com/api/users/profile_image/jsgoodies?size=bigger",
-        "description": {
-            "en": "Mainly web-focused; in particular, most are JS-focused.",
-            "es": "Principalmente centrado en la web, pero particularmente mucho centrado en JavaScript.",
-            "pt": "Principalmente com foco na web; em particular, mais em JS.",
-            "de": "Hauptsächlich Web-fokussiert; insbesondere JS-fokussiert."
-        }
-    },
-
-    {
-        "name": "SitePoint",
-        "permalink": "http://www.sitepoint.com/",
-        "img": "http://twitter.com/api/users/profile_image/sitepointdotcom?size=bigger",
-        "description": {
-            "en": "An online media company providing cutting-edge content for web professionals.",
-            "es": "Una compañia de internet que provee de contenido de vanguardia para profesionales de la web.",
-            "pt": "Uma empresa de mídia online que fornece conteúdo de ponta para profissionais da web.",
-            "de": "Eine Online Media Firma, die topaktuelle Inhalte für Web-Profis bietet."
-        }
+        "name": "Front-end para leigos",
+        "permalink": "http://frontendparaleigos.cc/",
+        "img": "http://twitter.com/api/users/profile_image/frontendpleigos?size=bigger",
+        "description": "Um blog feito para iniciantes em desenvolvimento web."
     }
 ]
