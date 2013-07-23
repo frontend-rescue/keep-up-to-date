@@ -54,7 +54,7 @@ module.exports = function (grunt) {
             }
         },
 
-        'clean': ['config.json', './temp']
+        'clean': ['./temp']
     });
 
     // Load plugins
