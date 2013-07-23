@@ -1,21 +1,30 @@
 a,
 a:visited {
-    color: #EB7106;
+    color: #006de8;
+    text-decoration: none;
 }
 
-a:hover {
-    color: #EB7106 !important;
-    background-color: #1A171B;
+a:hover,
+a:focus {
+    color: #008be5 !important;
     text-decoration: none;
+}
+
+p {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  text-align: justify;
 }
 
 /*
  * Header
  */
 .main-header {
-    background-color: #E85D10;
-    background-image: -webkit-linear-gradient(left, #E85D10 50%, #EB7106 50%);
-    background-image: linear-gradient(90deg, #E85D10 50%, #EB7106 50%);
+    background-color: #006de8;
+    background-image: -webkit-linear-gradient(left, #006de8 50%, #008be5 50%);
+    background-image: linear-gradient(90deg, #006de8 50%, #008be5 50%);
     background-size: 68px 100%;
     text-align: center;
 }
@@ -37,7 +46,7 @@ a:hover {
     padding: 0 .75em;
     background-color: #1A171B;
     position: relative;
-    color: #FAB800;
+    color: #FFF;
     letter-spacing: .05em;
     font-weight: 100;
 }
@@ -66,6 +75,7 @@ a:hover {
     font-weight: 400;
     margin: 0 auto;
     line-height: 1.1em;
+    max-width: 800px;
 }
 
 .languages {
@@ -113,7 +123,7 @@ a:hover {
 
 .section-title:before {
     background-color: #1A171B;
-    color: #fab800;
+    color: #FFF;
     width: 50px;
     height: 50px;
     text-align: center;
@@ -146,11 +156,11 @@ a:hover {
 }
 
 .best-blogs .box-follow {
-    box-shadow: 3px 3px 0px #009798 inset, 3px 3px 0px #fff;
+    box-shadow: 3px 3px 0px #009708 inset, 3px 3px 0px #fff;
 }
 
 .best-weekly .box-follow {
-    box-shadow: 3px 3px 0px #eb7108 inset, 3px 3px 0px #fff;
+    box-shadow: 3px 3px 0px #008be5 inset, 3px 3px 0px #fff;
 }
 
 .best-podcasts .box-follow {
@@ -160,6 +170,7 @@ a:hover {
 .box-follow-medium p {
     font-size: 1.1em;
     line-height: 1.5em;
+    padding-right: 15px;
 }
 
 .box-follow-title {
@@ -229,14 +240,18 @@ a:hover {
     margin: 0 auto;
 }
 
+.summary p {
+  text-align: center;
+}
+
 
 /*
  * Navigation
  */
 .navigation {
-    background-color: #009798;
-    background-image: -webkit-linear-gradient(#FFF 1em, #FAB800 1em, #FAB800 4em, #009798 0);
-    background-image: linear-gradient(#FFF 1em, #FAB800 1em, #FAB800 4em, #009798 0);
+    background-color: #009708;
+    background-image: -webkit-linear-gradient(#FFF 1em, #FAB800 1em, #FAB800 4em, #009708 0);
+    background-image: linear-gradient(#FFF 1em, #FAB800 1em, #FAB800 4em, #009708 0);
     background-repeat: no-repeat;
 
 }
@@ -271,9 +286,13 @@ a:hover {
     display: block;
 }
 
+.navigation a:hover {
+    background-color: #FFF;
+}
+
 .navigation li a:before {
     counter-increment:section;
-    content: counter(section) ' ';
+    content: counter(section)'. ';
     margin-right: 5px;
 }
 
@@ -371,11 +390,11 @@ a:hover {
 }
 
 .source-type:nth-child(2) {
-    background-color: #009798;
+    background-color: #009708;
 }
 
 .source-type:nth-child(3) {
-    background-color: #eb7108;
+    background-color: #008be5;
 }
 
 .source-type:nth-child(4) {
@@ -451,11 +470,11 @@ a:hover {
     position: absolute;
     left: 15px;
     top: 30px;
-    color: #EB7106;
+    color: #008be5;
 }
 
 .box-mention:nth-child(odd) blockquote:before {
-    color: #009798;
+    color: #009708;
 }
 
 .box-mention-author {
@@ -464,11 +483,11 @@ a:hover {
 
 .main-footer {
     position: relative;
-    background: #009798 center -2px no-repeat;
+    background: #009708 center -2px no-repeat;
     padding-bottom: 200px;
     margin: 60px 0 0;
     border: 0;
-    border-bottom: 22px solid #009798;
+    border-bottom: 22px solid #009708;
 }
 
 .main-footer .recipe-ribbon {
@@ -521,14 +540,6 @@ a:hover {
 
     .logo strong {
         font-size: 1.5em;
-    }
-
-    html[lang="pt"] .logo strong {
-        width: 525px;
-    }
-
-    html[lang="es"] .logo strong {
-        width: 535px;
     }
 
     .recipe-ribbon {
@@ -623,6 +634,7 @@ a:hover {
     .section-title:before {
         position: absolute;
         line-height: 1.35em;
+        color: #FFF;
     }
 
     .section-step .layout > p {
@@ -638,7 +650,6 @@ a:hover {
     #follow-cool-people .section-title:before {
         top: 130px;
         left: 13px;
-        color: #FFF;
     }
 
     #follow-cool-people p {

@@ -69,18 +69,6 @@ hr {
 /*
  * Anchors
  */
-a,
-a:visited {
-    color: #EB7106;
-    text-decoration: none;
-}
-
-a:hover {
-    color: #EB7106 !important;
-    background-color: #1A171B;
-    text-decoration: none;
-}
-
 a img {
     border: none;
 }
