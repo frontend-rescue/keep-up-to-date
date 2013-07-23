@@ -1,20 +1,12 @@
 module.exports = function (grunt) {
     'use strict';
 
-    var lang = grunt.option('lang') || 'en',
-        config = grunt.file.readJSON('config.json');
+    var config = grunt.file.readJSON('config.json');
 
-    config.locals.lang = lang;
-    config.contents = './contents/' + lang;
-
-    grunt.file.write('config-' + lang + '.json', JSON.stringify(config));
+    config.contents = './contents/';
 
     function moveIndex() {
-        var file = {'src': 'temp/index.html', 'dest': 'build/index.html'}
-
-        if (lang !== 'en') {
-             file.dest = 'build/' + lang + '/index.html';
-        }
+        var file = {'src': 'temp/index.html', 'dest': 'build/index.html'};
 
         return file;
     }
@@ -27,7 +19,7 @@ module.exports = function (grunt) {
         'wintersmith_compile': {
             'build': {
                 'options': {
-                    'config': './config-' + lang + '.json',
+                    'config': './config.json',
                     'output': './temp/'
                 }
             }
@@ -62,7 +54,7 @@ module.exports = function (grunt) {
             }
         },
 
-        'clean': ['config-' + lang + '.json', './temp']
+        'clean': ['config.json', './temp']
     });
 
     // Load plugins

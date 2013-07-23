@@ -1,3 +1,0 @@
----
-title: Das Team
----
