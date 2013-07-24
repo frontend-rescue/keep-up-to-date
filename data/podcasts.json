@@ -7,7 +7,8 @@
             "en": "A podcast about front end web design, development and UX.",
             "es": "Un podcast sobre diseño web front-end, desarrollo y Experiencia de Usuario.",
             "pt": "Um podcast sobre front-end e web design, desenvolvimento e UX.",
-            "de": "Ein Podcast über Front-End Webdesign, Entwicklung und UX."
+            "de": "Ein Podcast über Front-End Webdesign, Entwicklung und UX.",
+            "fr": "Un podcast sur le design web front-end, le développement et l'UX (User eXperience)."
         }
     },
 
@@ -19,7 +20,8 @@
             "en": "Hanselminutes Podcast is \"Fresh Air\" for developers.",
             "es": "Hanselminutes Podcast es \"Aire fresco\" para desarrolladores.",
             "pt": "O podcast Hanselminutes é como respirar \"ar fresco\" para desenvolvedores.",
-            "de": "Hanselminutes Podcast ist \"Frische Luft\" für Entwickler."
+            "de": "Hanselminutes Podcast ist \"Frische Luft\" für Entwickler.",
+            "fr": "Le podcast de Hanselminutes est un \"bold d'air\" pour les développeurs."
         }
     },
 
@@ -31,7 +33,8 @@
             "en": "The award winning Big Web Show features special guests and topics. It's everything web that matters.",
             "es": "The award winning Big Web Show features special guests and topics. It's everything web that matters.",
             "pt": "The award winning Big Web Show features special guests and topics. It's everything web that matters.",
-            "de": "The award winning Big Web Show features special guests and topics. It's everything web that matters."
+            "de": "The award winning Big Web Show features special guests and topics. It's everything web that matters.",
+            "fr": "Le Big Web Show, plusieurs fois récompensés, présente des invités spéciaux et des sujets. Il aborde tout ce qui compte dans le monde du web."
         }
     },
 
@@ -43,7 +46,8 @@
             "en": "A weekly podcast discussing the superb language JavaScript.",
             "es": "Un podcast semanal de discusión sobre el magnífico lenguaje JavaScript.",
             "pt": "Um podcast semanal que discute sobre a linguagem JavaScript.",
-            "de": "Ein wöchentlicher Podcast, der die herrliche Sprache JavaScript diskutiert."
+            "de": "Ein wöchentlicher Podcast, der die herrliche Sprache JavaScript diskutiert.",
+            "fr": "Un podcast hebdomadaire à propos du superbe langage JavaScript."
         }
     },
 
@@ -55,7 +59,8 @@
             "en": "A weekly podcast about changing technologies and the future of the web.",
             "es": "Un podcast semanal sobre el cambio de las tecnologías y el futuro de internet.",
             "pt": "Um podcast semanal sobre a adesão de tecnologias e o futuro da web.",
-            "de": "Ein wöchentlicher Podcast über sich-verändernde Technologien und die Zukunft des Webs."
+            "de": "Ein wöchentlicher Podcast über sich-verändernde Technologien und die Zukunft des Webs.",
+            "fr": "Un podcast hebdomadaire sur les changements technologiques et le futur du web."
         }
     },
 
@@ -67,7 +72,8 @@
             "en": "Talks, screencasts, interviews, and more relevant to Google's developer products.",
             "es": "Charlas, vídeo tutoriales, entrevistas, y más para desarrolladores de productos de Google.",
             "pt": "Palestras, screencasts, entrevistas, e demais produtos relevantes do Google developer.",
-            "de": "Gespräche, Screencasts, Interviews und mehr bezogen auf Google's Entwicklerprodukte"
+            "de": "Gespräche, Screencasts, Interviews und mehr bezogen auf Google's Entwicklerprodukte",
+            "fr": "Des discussions, des tutoriels vidéos, des interviews, plus particulièrement centrés sur les produits développés par Google."
         }
     },
 
@@ -79,7 +85,8 @@
             "en": "Featuring news and discussion about the latest topics in the Javascript communities.",
             "es": "Novedades destacadas y discusiones sobre los últimos temas en la comunidad de JavaScript.",
             "pt": "Com notícias e discussões sobre os últimos tópicos das comunidades de JavaScript.",
-            "de": "News und Diskussionen über aktuelle Themen in den Javascript-Communities."
+            "de": "News und Diskussionen über aktuelle Themen in den Javascript-Communities.",
+            "fr": "Nouveautés et discussions sur les derniers thèmes dans les communautés JavaScript."
         }
     }
 ]
