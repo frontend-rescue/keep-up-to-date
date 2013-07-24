@@ -75,7 +75,8 @@ p {
     font-weight: 400;
     margin: 0 auto;
     line-height: 1.1em;
-    max-width: 800px;
+    max-width: 9600px;
+    margin: 0;
 }
 
 .languages {
