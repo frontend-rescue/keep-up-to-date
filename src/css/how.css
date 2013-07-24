@@ -394,11 +394,11 @@ p {
 }
 
 .source-type:nth-child(3) {
-    background-color: #008be5;
+    background-color: #fab800;
 }
 
 .source-type:nth-child(4) {
-    background-color: #fab800;
+    background-color: #008be5;
 }
 
 .source-type-title {

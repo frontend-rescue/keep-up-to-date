@@ -27,6 +27,15 @@
         "tags": []
     },
     {
+        "name": "Caio Gondim",
+        "site": "http://caiogondim.com/",
+        "twitter": {
+            "user": "caio_gondim",
+            "img": "http://twitter.com/api/users/profile_image/caio_gondim?size=bigger"
+        },
+        "tags": []
+    },
+    {
         "name": "Daniel Filho",
         "site": "http://danielfilho.github.io/",
         "twitter": {

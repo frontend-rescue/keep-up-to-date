@@ -19,7 +19,7 @@ section#find-the-best-sources.section-step
                         img.box-follow-avatar(width='80', height='80', data-async='#{blog.img}')
                     p #{blog.description}
 
-    article.source-type
+    article.source-type(style='display: none;')
         h4.source-type-title #{bestsources.metadata.weekly}
         ul.best-sources-found.best-weekly
             each week, i in weekly
