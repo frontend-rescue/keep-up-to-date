@@ -102,8 +102,8 @@
         "name": "Talita Pagani",
         "site": "http://www.talitapagani.com/",
         "twitter": {
-            "user": "felipenmoura",
-            "img": "http://twitter.com/api/users/profile_image/felipenmoura?size=bigger"
+            "user": "talitapagani",
+            "img": "http://twitter.com/api/users/profile_image/talitapagani?size=bigger"
         },
         "tags": []
     },
@@ -111,8 +111,8 @@
         "name": "Felipe Nascimento",
         "site": "http://felipenmoura.org/",
         "twitter": {
-            "user": "talitapagani",
-            "img": "http://twitter.com/api/users/profile_image/talitapagani?size=bigger"
+            "user": "felipenmoura",
+            "img": "http://twitter.com/api/users/profile_image/felipenmoura?size=bigger"
         },
         "tags": []
     },

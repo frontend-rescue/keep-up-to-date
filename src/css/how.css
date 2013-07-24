@@ -483,11 +483,48 @@ p {
 
 .main-footer {
     position: relative;
-    background: #009708 center -2px no-repeat;
-    padding-bottom: 200px;
+    background: #00963e center -2px no-repeat;
     margin: 60px 0 0;
     border: 0;
-    border-bottom: 22px solid #009708;
+    border-bottom: 22px solid #00963e;
+}
+
+.main-footer .layout {
+  height: 200px;
+  padding: 20px 0 0 0;
+}
+
+.main-footer .layout p {
+  margin-top: 0;
+  color: #fff;
+  font-size: 13px;
+}
+
+.main-footer .layout a {
+  text-decoration: underline;
+  color: #FAB800 !important;
+}
+
+.main-footer .layout a:hover,
+.main-footer .layout a:focus {
+  color: #d29b00 !important
+}
+
+.main-footer .layout .left-footer,
+.main-footer .layout .right-footer {
+  max-width: 30%;
+}
+
+.main-footer .layout .left-footer {
+  float: left;
+}
+
+.main-footer .layout .right-footer {
+  float: right;
+}
+
+.main-footer .layout .right-footer p {
+  text-align: right;
 }
 
 .main-footer .recipe-ribbon {
