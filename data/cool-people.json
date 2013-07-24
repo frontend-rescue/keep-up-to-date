@@ -1,11 +1,155 @@
 [
     {
-        "name": "Addy Osmani",
-        "site": "http://addyosmani.com/",
+        "name": "Maurício Maujor Samy Silva",
+        "site": "http://maujor.com/",
         "twitter": {
-            "user": "addyosmani",
-            "img": "http://twitter.com/api/users/profile_image/addyosmani?size=bigger"
+            "user": "maujor",
+            "img": "http://twitter.com/api/users/profile_image/maujor?size=bigger"
         },
-        "tags": ["JavaScript"]
+        "tags": []
+    },
+    {
+        "name": "Diego Eis",
+        "site": "http://about.me/diegoeis",
+        "twitter": {
+            "user": "diegoeis",
+            "img": "http://twitter.com/api/users/profile_image/diegoeis?size=bigger"
+        },
+        "tags": []
+    },
+    {
+        "name": "Almir Filho",
+        "site": "http://almirfilho.com/",
+        "twitter": {
+            "user": "almirfilho",
+            "img": "http://twitter.com/api/users/profile_image/almirfilho?size=bigger"
+        },
+        "tags": []
+    },
+    {
+        "name": "Daniel Filho",
+        "site": "http://danielfilho.github.io/",
+        "twitter": {
+            "user": "danielfilho",
+            "img": "http://twitter.com/api/users/profile_image/danielfilho?size=bigger"
+        },
+        "tags": []
+    },
+    {
+        "name": "Davidson Fellipe",
+        "site": "https://twitter.com/davidsonFellipe",
+        "twitter": {
+            "user": "davidsonFellipe",
+            "img": "http://twitter.com/api/users/profile_image/davidsonFellipe?size=bigger"
+        },
+        "tags": []
+    },
+    {
+        "name": "Suissa",
+        "site": "https://twitter.com/osuissa",
+        "twitter": {
+            "user": "osuissa",
+            "img": "http://twitter.com/api/users/profile_image/osuissa?size=bigger"
+        },
+        "tags": []
+    },
+    {
+        "name": "Zeno Rocha",
+        "site": "http://zenorocha.com/",
+        "twitter": {
+            "user": "zenorocha",
+            "img": "http://twitter.com/api/users/profile_image/zenorocha?size=bigger"
+        },
+        "tags": []
+    },
+    {
+        "name": "Bernard De Luna",
+        "site": "http://bernarddeluna.com/",
+        "twitter": {
+            "user": "bernarddeluna",
+            "img": "http://twitter.com/api/users/profile_image/bernarddeluna?size=bigger"
+        },
+        "tags": []
+    },
+    {
+        "name": "Pedro Rogério",
+        "site": "http://www.pinceladasdaweb.com.br/",
+        "twitter": {
+            "user": "pinceladasdaweb",
+            "img": "http://twitter.com/api/users/profile_image/pinceladasdaweb?size=bigger"
+        },
+        "tags": []
+    },
+    {
+        "name": "Núbia Souza",
+        "site": "http://blog.nubiasouza.com.br",
+        "twitter": {
+            "user": "nubiasouza",
+            "img": "http://twitter.com/api/users/profile_image/nubiasouza?size=bigger"
+        },
+        "tags": []
+    },
+    {
+        "name": "Miller Medeiros",
+        "site": "http://blog.millermedeiros.com",
+        "twitter": {
+            "user": "millermedeiros",
+            "img": "http://twitter.com/api/users/profile_image/millermedeiros?size=bigger"
+        },
+        "tags": []
+    },
+    {
+        "name": "Talita Pagani",
+        "site": "http://www.talitapagani.com/",
+        "twitter": {
+            "user": "felipenmoura",
+            "img": "http://twitter.com/api/users/profile_image/felipenmoura?size=bigger"
+        },
+        "tags": []
+    },
+    {
+        "name": "Felipe Nascimento",
+        "site": "http://felipenmoura.org/",
+        "twitter": {
+            "user": "talitapagani",
+            "img": "http://twitter.com/api/users/profile_image/talitapagani?size=bigger"
+        },
+        "tags": []
+    },
+    {
+        "name": "Horácio Soares",
+        "site": "https://twitter.com/horaciosoares",
+        "twitter": {
+            "user": "horaciosoares",
+            "img": "http://twitter.com/api/users/profile_image/horaciosoares?size=bigger"
+        },
+        "tags": []
+    },
+    {
+        "name": "Elvis Detona",
+        "site": "https://twitter.com/elvisdetona",
+        "twitter": {
+            "user": "elvisdetona",
+            "img": "http://twitter.com/api/users/profile_image/elvisdetona?size=bigger"
+        },
+        "tags": []
+    },
+    {
+        "name": "Jaydson Gomes",
+        "site": "http://jaydson.org/",
+        "twitter": {
+            "user": "jaydson",
+            "img": "http://twitter.com/api/users/profile_image/jaydson?size=bigger"
+        },
+        "tags": []
+    },
+    {
+        "name": "Felquis Gimenes",
+        "site": "http://felquis.com/",
+        "twitter": {
+            "user": "felquis",
+            "img": "http://twitter.com/api/users/profile_image/felquis?size=bigger"
+        },
+        "tags": []
     }
 ]
