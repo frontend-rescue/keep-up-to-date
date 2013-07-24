@@ -7,7 +7,8 @@
             "en": "Provides daily content about W3C, HTML, CSS, JavaScript, the Web APIs, web browsers.",
             "es": "Contenido diario sobre W3C, HTML, CSS, JavaScript, las APIs de internet, y navegadores de internet.",
             "pt": "Fornece diariamente conteúdos sobre W3C, HTML, CSS, Javascript, API's e navegadores.",
-            "de": "Bietet täglich Inhalte über W3C, HTML, CSS, JavaScript, Web APIs, Web-Browser."
+            "de": "Bietet täglich Inhalte über W3C, HTML, CSS, JavaScript, Web APIs, Web-Browser.",
+            "fr": "Fournit du contenu quotidien sur le W3C, HTML, CSS, JavaScript, les API Web et les navigateurs web."
         }
     },
 
@@ -19,7 +20,8 @@
             "en": "Pure awesome links to the best news and articles to hit the interweb during the week.",
             "es": "Maravillosos vínculos a las mejores noticias y artículos para la semana.",
             "pt": "Excelentes links com as melhores notícias e artigos da web durante a semana.",
-            "de": "Einfach großartige Links zu den besten News und Artikeln, die das Web über die Woche gesehen hat."
+            "de": "Einfach großartige Links zu den besten News und Artikeln, die das Web über die Woche gesehen hat.",
+            "fr": "Liens les plus intéressants sur les meilleures nouvelles et articles au cours de la semaine."
         }
     },
 
@@ -31,7 +33,8 @@
             "en": "Roundup of css articles, tutorials, experiments and tools.",
             "es": "Resumén de artículos de CSS, tutoriales, experimentos y herramientas.",
             "pt": "Resumo de artigos de CSS, tutoriais, experimentos e ferramentas.",
-            "de": "Zusammenstellung von CSS Artikeln, Anleitungen, Experimenten und Tools."
+            "de": "Zusammenstellung von CSS Artikeln, Anleitungen, Experimenten und Tools.",
+            "fr": "Résumés d'articles sur les css, tutoriels, expérimentations et outils."
         }
     },
 
@@ -43,7 +46,8 @@
             "en": "Round-up of HTML5 and browser technology news and links.",
             "es": "Resumén de HTML5 y novedades y links de teconologías del navegador.",
             "pt": "Resumo de HTML5, tecnologias de navegador e links.",
-            "de": "Zusammenstellung von Neuigkeiten und Links zu HTML5 und Browsertechnologien."
+            "de": "Zusammenstellung von Neuigkeiten und Links zu HTML5 und Browsertechnologien.",
+            "fr": "Tour d'horizon des derniers liens et nouveautés HTML5 et navigateurs web."
         }
     },
 
@@ -55,7 +59,8 @@
             "en": "An agnostic web browser resource, focused on the Open Web and sharing knowledge.",
             "es": "Una fuenta agnóstica sobre el navegador web, centrada en la Web Abierta y el compartir conocimiento.",
             "pt": "Um recurso agnóstico de navegador web, focado na Open Web e compartilhamento de conhecimentos.",
-            "de": "Eine agnostische Web Browser Ressource mit Fokus auf Open Web und dem Teilen von Wissen."
+            "de": "Eine agnostische Web Browser Ressource mit Fokus auf Open Web und dem Teilen von Wissen.",
+            "fr": "Une ressource agnostique en terme de navigateur web, axée sur le Web Ouvert et le partage des connaissances."
         }
     },
 
@@ -67,7 +72,8 @@
             "en": "A Weekly Programming Newsletter for Developers and Programmers.",
             "es": "Un resumen de novedades semanales para desarrolladores y programadores.",
             "pt": "Uma Newsletter semanal de programação para desenvolvedores.",
-            "de": "Ein wöchentlicher Programmiernewsletter für Entwickler und Programmierer."
+            "de": "Ein wöchentlicher Programmiernewsletter für Entwickler und Programmierer.",
+            "fr": "Une lettre d'information hebdomadaire pour les développeurs et programmeurs."
         }
     },
 
@@ -79,7 +85,8 @@
             "en": "Round-up of responsive design articles, tools, tips, tutorials and inspirational links.",
             "es": "Resumen de artículos de diseño responsive, herramientas, consejos, tutoriales y vínculos inspiradores.",
             "pt": "Resumo de artigos sobre design responsivo, ferramentas, dicas, tutoriais e links inspiracionais.",
-            "de": "Zusammenstellung von Artikeln, Tools, Tipps, Anleitungen und Inspirationen zu Responsive Design."
+            "de": "Zusammenstellung von Artikeln, Tools, Tipps, Anleitungen und Inspirationen zu Responsive Design.",
+            "fr": "Tour d'horizon d'articles sur le \"responsive design\", des outils, des astuces, des tutoriels et d'autres liens intéressants."
         }
     },
 
@@ -91,7 +98,8 @@
             "en": "Biweekly email newsletter about issues and trends in front-end web development.",
             "es": "Correo electrónico quincenal con novedades sobre cuestiones y tendencias en desarrollo de front-end web.",
             "pt": "Newsletter sobre publicações e tendências no desenvolvimento front-end.",
-            "de": "Zweiwöchentlicher E-Mail Newsletter über Themen und Trends in der Front-End Webentwicklung."
+            "de": "Zweiwöchentlicher E-Mail Newsletter über Themen und Trends in der Front-End Webentwicklung.",
+            "fr": "Lettre d'information bimensuelle par mail sur les problématiques et tendances dans le développement front-end."
         }
     },
 
@@ -103,7 +111,8 @@
             "en": "A selection of links, mostly about front-end development.",
             "es": "Una selección de vínculos, mayormente sobre desarrollo de front-end.",
             "pt": "Uma seleção de links, especialmente sobre desenvolvimento front-end.",
-            "de": "Eine Linksammlung, hauptsächlich über Front-End Entwicklung."
+            "de": "Eine Linksammlung, hauptsächlich über Front-End Entwicklung.",
+            "fr": "Une sélection de liens, principalement sur le développement front-end."
         }
     },
 
@@ -115,7 +124,8 @@
             "en": "A free, once–weekly e-mail round-up of JavaScript news and articles.",
             "es": "Un correo electrónico gratuito y semanal con un resumen de novedades y artículos de JavaScript.",
             "pt": "Um resumo semanal de notícias de JavaScript e artigos.",
-            "de": "Eine kostenlose, wöchentliche Zusammenstellung per E-Mail zu JavaScript Neuigkeiten und Artikeln."
+            "de": "Eine kostenlose, wöchentliche Zusammenstellung per E-Mail zu JavaScript Neuigkeiten und Artikeln.",
+            "fr": "Une compilation hebdomadaire par mail de nouvelles et d'articles sur JavaScript."
         }
     }
 ]
