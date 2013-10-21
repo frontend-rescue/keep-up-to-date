@@ -1,62 +1,20 @@
-# How to keep up to date on Front-end Technologies?
+# Como manter-se atualizado nas Tecnologias Front-end?
 
-The web is a rapidly evolving universe. An important part of our job as front-end developers is keeping up to date and staying close to new tools, trends and workflows.
-Hundreds of blog posts and articles are published every day, but there is no way you can read all of them. We think you should have a strategy to keep up to date, so we have created this recipe.
+A web é um universo em rápida evolução. Um aspecto importante do nosso trabalho como desenvolvedores front-end é manter-se atualizado e perto de novas ferramentas, tendências e fluxos de trabalho.
+Centenas de posts em blogs e artigos são publicados diariamente, mas não há uma maneira de ler todos eles. Pensamos que você deveria ter uma estratégia para manter-se atualizado, então decidimos criar esta "receita".
 
-If you want to contribute to improve this recipe, please, you should [read our wiki](https://github.com/frontend-rescue/keep-up-to-date/wiki).
+Se você quer contribuir e melhorar nossa "receita", abra um [pull request](https://github.com/oswaldoacauan/keep-up-to-date-brazuca/pulls).
 
-## Made by devs, for devs
+Não esqueça de checar a versão [original do projeto](https://github.com/oswaldoacauan/keep-up-to-date-brazuca/pulls).
 
-#### Guille Paz
-- Twitter: [@pazguille](http://twitter.com/pazguille)
-- Web: [http://pazguille.me](http://pazguille.me)
+#### Oswaldo Acauan
+- Twitter: [@oswaldoacauan](https://twitter.com/oswaldoacauan)
+- Web: [http://oswaldoacauan.com](http://oswaldoacauan.com)
 
-#### Hernan Mammana
-- Twitter: [@hmammana](http://twitter.com/hmammana)
-- Web: [http://mammana.me](http://mammana.me)
-
-#### Lean Linares
-- Twitter: [@lean8086](http://twitter.com/lean8086)
-- Web: [http://leanlinares.me](http://leanlinares.me)
-
-## Designer Star
+## Designer
 #### Fer Adorneti
 - E-mail: [ferador@gmail.com](mailto:ferador@gmail.com)
 - Twitter: [@cavemandg](https://twitter.com/cavemandg)
-
-## Thank you
-
-#### Alex Sexton
-- Twitter: [@SlexAxton](https://twitter.com/SlexAxton)
-- Web: [http://alexsexton.com](http://alexsexton.com)
-
-#### Angelina Fabbro
-- Twitter: [@angelinamagnum](https://twitter.com/angelinamagnum)
-- Web: [http://realityhacking.net](http://realityhacking.net)
-
-#### Axel Rauschmayer
-- Twitter: [@rauschma](https://twitter.com/rauschma)
-- Web: [http://rauschma.de](http://rauschma.de)
-
-#### Brad Frost
-- Twitter: [@brad_frost](https://twitter.com/brad_frost)
-- Web: [http://bradfrostweb.com](http://bradfrostweb.com)
-
-#### Cody Lindley
-- Twitter: [@codylindley](https://twitter.com/codylindley)
-- Web: [http://codylindley.com](http://codylindley.com)
-
-#### Lea Verou
-- Twitter: [@LeaVerou](https://twitter.com/LeaVerou)
-- Web: [http://lea.verou.me](http://lea.verou.me)
-
-#### Nati Devalle
-- Twitter: [@Taly](https://twitter.com/Taly)
-- Web: [http://taly.me](http://taly.me)
-
-#### Paul Irish
-- Twitter: [@paul_irish](https://twitter.com/paul_irish)
-- Web: [http://paulirish.com](http://paulirish.com)
 
 ## License
 ### The MIT License
