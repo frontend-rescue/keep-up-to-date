@@ -4,7 +4,7 @@ name: Addy Osmani
 twitter: addyosmani
 ---
 
-Ultimamente eu me econtro bastante dependente de listas do Twitter e círculos do G+ para ficar atualizado com o que está acontecendo no front-end.
+Ultimamente eu me encontro bastante dependente de listas do Twitter e círculos do G+ para ficar atualizado com o que está acontecendo no front-end.
 
 Se existem ferramentas ou bibliotecas que uso regularmente, tento ficar de olho no que os desenvolvedores que estão trabalhando nela tem a dizer, porque é assim que você consegue descobrir dicas/truques e informações sobre o que está por vir.
 
