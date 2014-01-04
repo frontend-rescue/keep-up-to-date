@@ -4,7 +4,7 @@ name: Lea Verou
 twitter: leaverou
 ---
 
-1. I have several feeds I read almost daily
-2. I follow lots of people involved in web standards or browser development or are just very good developers
-3. I actually read specifications from time to time, some of them are easy to understand and they are first-hand sources. W3C mailing lists also help: You learn about web technologies at the moment of their creation and can even influence them!
-4. Conferences, both for the discussions and the sessions
+1. Mam kilka feedów które czytam prawie codziennie
+2. Śledzę dużo ludzi którzy są zaangażowani w standardy sieci czy rozwój przeglądarek czy po prostu są bardzo dobrymi deweloperami
+3. Czytam specyfikację od czasu do czasu, niektóre z nich są łatwe do zrozumienia i są źródłami z pierwszej ręki. Lista mailingowa W3C także pomaga: uczysz się o technologiach sieci w momencie ich kreowania i możesz nawet mieć na nie wpływ!
+4. Konferencje, zarówno dyskucje jak i sesje

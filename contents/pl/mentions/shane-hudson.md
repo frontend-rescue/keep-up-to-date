@@ -4,9 +4,6 @@ name: Shane Hudson
 twitter: ShaneHudson
 ---
 
-Everybody knows that Twitter is the best place to find information such as tutorials or blog posts about a new technology. But who writes them? Where do they get their information from?
+Wszyscy wiedzą że Twitter jest najlepszym źródłem do znalezienia informacji takich jak tutoriale czy posty o nowych technologiach. Ale kto je pisze? Skąd oni biorą te wszystkie informacje?
 
-At some point you need to go right to the core... the mailing lists, specifications and even source code. By getting used to reading the specifications and participating in some mailing list conversations and understanding some of the source code, you will naturally become a better developer and understand it all much more.
-
-
-Wszyscy wiedzą że Twitter ...tbc
+W pewnych momentach musisz iść prosto do źródła... list mailingowych, specyfikacji czy nawet kodu źródłowego. Przez przyzwyczajanie się do czytania tych specyfikacji i uczestniczenia w niektórych dyskusjach z list mailingowych i rozumienia niektórych części kodu, naturalnie staniesz się lepszym deweloperem i będziesz rozumieć o wiele więcej.

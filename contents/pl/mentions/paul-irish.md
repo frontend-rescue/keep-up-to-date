@@ -17,4 +17,4 @@ twitter: paul_irish
 - [JS Weekly](http://javascriptweekly.com/)
 - [Web Design Weekly](http://web-design-weekly.com/)
 
-and knowing the people behind all significant projects :)
+i wiedzieć ludzi za kurtynami wszystkich znaczących projektów :)
