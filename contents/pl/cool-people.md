@@ -1,6 +1,6 @@
 ---
 title: Śledź
-subtitle: zajebistych ludzi
+subtitle: ciekawych ludzi
 footer: Zobacz pełną listę
 ---
 

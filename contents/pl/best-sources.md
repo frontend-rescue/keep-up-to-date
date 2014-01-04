@@ -5,6 +5,6 @@ weekly: Tygodniowe nowości
 footer: Zobacz pełną listę
 ---
 
-Wokoło sieci jest wiele cennych i użytecznych informacji o nowościach i trendach z zakresu front-end, ale czasami jest za ciężko znaleźć i przeczytać je wszystkie. To jeden wielki bałagan i Ty możesz oszaleć!
+W sieci jest wiele cennych i użytecznych informacji o nowościach i trendach z zakresu front-end, ale czasami jest za ciężko znaleźć i przeczytać je wszystkie. To jeden wielki bałagan aż idzie oszaleć!
 
-Dlatego my postanowiliśmy zebrać w jedno miejsce najlepsze źródła o nowościach i trendach w świecie front-endu.
+Dlatego postanowiliśmy zebrać w jedno miejsce najlepsze źródła o nowościach i trendach w świecie front-endu.

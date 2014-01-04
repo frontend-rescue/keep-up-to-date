@@ -4,8 +4,9 @@ name: Brad Frost
 twitter: brad_frost
 ---
 
-I live on Twitter. I depend on it to give me an idea of what's popular and upcoming, and also what problems people are dealing with. This influences the way I think and the projects I take on.
+Ja mieszkam w Twitterze. Od niego dowiaduję się co jest popularne i nadchodzące, a także z jakimi problemami zmierzają sie ludzie. To wpływa na to jak myślę i projekty nad którymi pracuję.
 
-I also still read web-related RSS feeds, books, magazines and more when I travel.
+Także nadal czytuję powiązane z siecią RSS feeds, książki, magazyny i więcej kiedy podróżuję.
 
-The other big thing that I find essential for keeping up to date on new technology is to experiment. Find some time outside of your normal job to tinker with a project, contribute to someone else's, or play around with a new bit of technology. Play, fail, succeed, share, repeat.
+Inną rzeczą jaką znajduję ważną do bycia na bierząco z nowymi technologiami jest eksperymentowanie. Znaleźć dodatkowy czas poza codzienną pracą i pracować nad swoim projektem, pomagać nad czyimś projektem, czy bawić się nową technologią.
+Baw się, nie uda, uda, podziel się, powtórz.

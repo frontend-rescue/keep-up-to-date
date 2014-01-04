@@ -4,6 +4,6 @@ name: Alex Sexton
 twitter: SlexAxton
 ---
 
-The only way that I've found that I'm able to stay up to date is by creating. I follow a well-curated list of people on twitter, and read blogs and programming news sites, but when it comes down to it, the only time I'm ever really *learning* is when I'm *doing*.
+Jedyną drogą jaką znalazłem by być na bierząco jest przez kreowanie. Śledzę solidną listę ludzi na Twitter i czytam blogi i strony o nowościach z programowaniem, ale tak naprawdę, jedyny czas kiedy naprawdę się uczę jest kiedy to robię.
 
-When I want to learn something, I'll just start a project with it, and along the way I'll figure out the other tools I need to be successful. After a few failed attempts, normally I can create something meaningful (that I usually throw away anyways) that allows me to understand core concepts and/or make quick uninformed jabs about things that I don't like or understand.
+Kiedy chcę się czegoś nauczyć, po prostu zacznę pracować nad projektem i w drodze znajdę i poznam inne narzędzia którę potrzebuję żeby być dobry. Za kilkoma nieudanymi próbami, normalnie jestem w stanie zrobić coś sensownego (co i tak potem wyrzucę) co daje mi możliwość do zrozumienia podstaw i/lub podjęcia kilku nieświadomych tipsów o rzeczach których nie lubię lub nie rozumiem.
