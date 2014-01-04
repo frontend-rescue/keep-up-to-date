@@ -2,6 +2,6 @@
 title: Recepta
 ---
 
-The web is a rapidly evolving universe. An important part of our job as front-end developers is keeping up to date and staying close to new tools, trends and workflows.
+Sieć jest nieustannie zmieniającym się światem. Jedną z istotnych i ważnych ról jako deweloper front-end jest bycie na bierząco i blisko to nowych narzędzi, trendów i tego jak pracujemy.
 
-Hundreds of blog posts and articles are published every day, but there is no way you can read all of them. We think you should have a strategy to keep up to date, so we have created this recipe.
+Setki postów i artykułów jest opublikowanych kaźdego dnia, ale jest niemożliwością żebyś mógł przeczytać je wszystkie. Uważamy że powinieneś mieć strategię być na bierząco, dlatego postanowiliśmy stworzyć tą receptę.

@@ -1,4 +1,4 @@
 ---
-intro: Jak byc na bierzaco z
-main: technologiami Front-end
+intro: Jak być na bierząco
+main: z technologią Front-End
 ---
