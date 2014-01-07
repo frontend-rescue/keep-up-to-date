@@ -4,8 +4,10 @@ name: Angelina Fabbro
 twitter: angelinamagnum
 ---
 
-I follow people on Twitter who produce new things. Some people like to follow just blogs, but I like to see what the people who make things recommend. My Twitter feed has sort of replaced my old RSS feed to some extent - I am way more likely to read an article recommended by someone who I see posting their repos alongside it. That kind of behavior tells me that the person is both an active developer and someone who thinks about their craft in most cases.
+Śledzę ludzi na Twitterze którzy produkują nowe rzeczy. Niektórzy ludzie lubią śledzić tylko blogi, ale ja lubię widzieć co inni ludzie którzy tworzą nowe rzeczy polecają. Mój feed na Twiterze w pewnym sensie zastąpił mój stary RSS do pewnego stopnia - jestem bardziej skłonna przeczytać artykuł zarekomendowany przez kogoś kto postuje także razem jego repozytoria. Tego typu zachowanie mówi mi że ta osoba jest aktywnym deweloperem a także o tym że myśli o swoim fachu i projektach w większości przypadków.
 
-I'm trying to spend more time on various W3C working group and specification mailing lists. There is a lot that goes over my head about the specific implementations of features that as a web developer I would take for granted every day. Sometimes keeping up is challenging, but I like a good challenge and as I stick around I learn more and more so I can ideally contribute more to the discussion in the future.
+Staram się spędzać więcej czasu na różnych workshopach grupy W3C i list mailingowych ze specifikacjami. Jest dużo rzeczy które chodzą po mojej głowie ze specyficznymi implementacjami narzędzi i rzeczy które jako web deweloper mógłym użyć.
+Czasami bycie na bierząco jest dość dużym wyzwaniem, ale ja lubię wyzwania i dotrzymuję kroku i uczę się więcej i więcej więc mogę lepiej przyczynić się do dyskusji w przyszłości.
 
-There is a saying that goes around: "If you feel like you are the smartest person in the room, you're in the wrong room." Surround yourself with people who are intelligent but not cocky about it.
+Jest takie powiedzenie: "Jeśli czujesz że jesteś najbystrzejszą osobą w pomieszczeniu, jesteś w złym pomieszczeniu."
+Otaczaj siebie z ludźmi którzy są inteligentni ale nie nie zarozumiali.
