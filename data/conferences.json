@@ -8,7 +8,8 @@
             "es": "La organización comercial sin fines de lucro de desarrolladores de aplicaciones para usuario holandesess.",
             "pt": "Conferência Holandesa da organização comercial sem fins lucrativos para desenvolvedores front-end.",
             "de": "Konferenz der holländischen Non-Profit Handelsorganisation für Front-End Entwickler.",
-            "fr": "Conférence de l'organisation professionnelle hollandaise, à but non lucratif, pour les développeurs front-end."
+            "fr": "Conférence de l'organisation professionnelle hollandaise, à but non lucratif, pour les développeurs front-end.",
+            "pl": "Konferencja duńskiej organizacji non-profit dla front-end deweloperów"
         }
     },
 
@@ -21,7 +22,8 @@
             "es": "Una reunión donde los amantes del front-end y emprendedores, descubre las últimas tendencias.",
             "pt": "Um encontro onde os amantes de front-end e empresários de tecnologia descobrem as últimas tendências.",
             "de": "Ein Treffen bei dem Front-End Liebhaber und Tech-Unternehmer die neuesten Trends entdecken.",
-            "fr": "Un lieu de rassemblement où les fans du front-end et les entrepreneurs du high-tech peuvent découvrir les dernières tendances."
+            "fr": "Un lieu de rassemblement où les fans du front-end et les entrepreneurs du high-tech peuvent découvrir les dernières tendances.",
+            "pl": "Zrzeszenie gdzie front-end deweloperzy i tech przedsiębiorcy odkrywają najnowsze trendy"
         }
     },
 
@@ -34,7 +36,8 @@
             "es": "Se ha convertido en la conferencias más grande del mundo de desarrolladores JavaScript.",
             "pt": "Se tornou a maior conferência de desenvolvedores Javascript e HTML5 do mundo.",
             "de": "Mittlerweile die größte JavaScript- und HTML5-Konferenz der Welt.",
-            "fr": "Est devenu la plus grosse conférence de développeurs JavaScript et HTML5 dans le monde."
+            "fr": "Est devenu la plus grosse conférence de développeurs JavaScript et HTML5 dans le monde.",
+            "pl": "HTML5DevConf został największą światową konferencją dotyczącą JavaScript i HTML5"
         }
     },
 
@@ -47,7 +50,8 @@
             "es": "Destacando lo mejor de JavaScript y el desarrollo web progresivo.",
             "pt": "Com o melhor em Javascript e desenvolvimento web progressivo.",
             "de": "Das Beste aus JavaScript und Progressive Web Development.",
-            "fr": "Démonstration de ce qui se fait de mieux dans le JavaScript et le développement web progressif."
+            "fr": "Démonstration de ce qui se fait de mieux dans le JavaScript et le développement web progressif.",
+            "pl": "Przedstawia najlepsze w dziedzinie JavaScript i progresywnym web development."
         }
     }
 ]

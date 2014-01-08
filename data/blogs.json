@@ -8,7 +8,8 @@
             "es": "Un blog de JavaScript.",
             "pt": "Um blog de JavaScript.",
             "de": "Ein JavaScript Blog.",
-            "fr": "Un blog sur le JavaScript."
+            "fr": "Un blog sur le JavaScript.",
+            "pl": "Blog o JavaScript"
         }
     },
 
@@ -21,7 +22,8 @@
             "es": "Un blog diario de links de Desarrollo de Software en .NET.",
             "pt": "Um blog com notícias diárias de Desenvolvimento de Software com .NET.",
             "de": "Ein täglicher .NET Software Development Link Blog.",
-            "fr": "Un blog avec des liens journaliers sur le développement en .NET."
+            "fr": "Un blog avec des liens journaliers sur le développement en .NET.",
+            "pl": "Codzienna dawka .NET software development blog"
         }
     },
 
@@ -34,7 +36,8 @@
             "es": "El blog de Treehouse provee de contenido valorable en desarrollo web, diseño web, y tips para startup.",
             "pt": "O blog The Treehouse fornece conteúdos valisosos de desenvolvimento web, web design e dicas de startup.",
             "de": "Der Treehouse Blog bietet wertvolle Inhalte zu Webentwicklung, Webdesign und Start-Up Tipps.",
-            "fr": "Le blog Treehouse fournit un contenu intéressant sur le développement web, le design web et des astuces pour les startups."
+            "fr": "Le blog Treehouse fournit un contenu intéressant sur le développement web, le design web et des astuces pour les startups.",
+            "pl": "Treehouse Blog zawiera wiele wartościowych informacji na temat web development, designu i wskazówki dotyczące startupów."
         }
     },
 
@@ -47,7 +50,9 @@
             "es": "Un sitio dedicado a novedades de JavaScript y Front-end.",
             "pt": "Site de notícias sociais dedicados a JavaScript e tópicos relacionados.",
             "de": "Eine HackerNews-ähnliche Seite zu den Themen JavaScript und Front-End News.",
-            "fr": "Un site similaire à HackerNews dédié aux nouveautés sur le JavaScript et le développement Front-End."
+            "fr": "Un site similaire à HackerNews dédié aux nouveautés sur le JavaScript et le développement Front-End.",
+            "pl": "Podobna do HackerNews strona poświęcona JavaScript i nowości ze świata Front-End"
+
         }
     },
 
@@ -60,7 +65,8 @@
             "es": ".net es el portal más popular del mundo para diseñadores web y desarrolladores.",
             "pt": ".net é a revista mais vendida do mundo para desenvolvedores e designers.",
             "de": ".net ist das weltweit meistverkaufte Magazin für Webdesigner und -entwickler.",
-            "fr": ".net est le magazine le plus vendu dans le monde pour les designers et les développeurs web."
+            "fr": ".net est le magazine le plus vendu dans le monde pour les designers et les développeurs web.",
+            "pl": ".net jest numer 1 na świecie najlepiej sprzedającym się magazynem dla web designerów i deweloperów"
         }
     },
 
@@ -73,7 +79,8 @@
             "es": "Una comunidad abierta de desarrolladores contruyendo recursos para una web mejor.",
             "pt": "Uma comunidade aberta de desenvolvedores construindo recursos por uma web melhor.",
             "de": "Eine offene Community aus Entwicklern, die Ressourcen für ein besseres Netz bereitstellt.",
-            "fr": "Une communauté ouverte de développeurs pour construire des ressources pour un web meilleur."
+            "fr": "Une communauté ouverte de développeurs pour construire des ressources pour un web meilleur.",
+            "pl": "Społeczność open-source dla deweloperów budujących dla lepszego świata web"
         }
     },
 
@@ -86,7 +93,8 @@
             "es": "Arículos, tutoriales, casos de estudio y ejemplos.",
             "pt": "Posts, tutoriais, estudos de caso & demos.",
             "de": "Artikel, Anleitungen, Fallstudien & Demos.",
-            "fr": "Articles, tutoriels, cas d'études et démos."
+            "fr": "Articles, tutoriels, cas d'études et démos.",
+            "pl": "Artykuły, tutoriale, praktyki i dema"
         }
     },
 
@@ -99,7 +107,8 @@
             "es": "Un blog para ayudarte a aprender HTML5.",
             "pt": "Um blog que irá ajudar a você aprender mais sobre HTML5.",
             "de": "Ein Blog der dir hilft, mehr über HTML5 zu lernen.",
-            "fr": "Un blog pour vous aider à en savoir plus à propos de HTML5."
+            "fr": "Un blog pour vous aider à en savoir plus à propos de HTML5.",
+            "pl": "Blog który pomoże Ci uczyć się więcej o HTML5"
         }
     },
 
@@ -112,7 +121,8 @@
             "es": "Tutoriales, artículos, consejos, y comunidad para desarrolladores web.",
             "pt": "Tutoriais, artigos, dicas e comunidade para desenvolvedores web.",
             "de": "Tutorials, Artikel, Tipps und eine Community für Webentwickler.",
-            "fr": "Tutoriels, articles, astuces et communauté pour les développeurs web."
+            "fr": "Tutoriels, articles, astuces et communauté pour les développeurs web.",
+            "pl": "Tutoriale, artykuły, porady i społeczność dla deweloperów."
         }
     },
 
@@ -125,7 +135,8 @@
             "es": "La principal fuente de información en internet en compatibilidad entre navegadores.",
             "pt": "É a principal fonte de informações sobre a compatibilidade de navegadores na Internet.",
             "de": "Die primäre Quelle für Informationen zu Browserkompatibilität im Internet.",
-            "fr": "C'est la source principale pour la compatibilité navigateur web sur Internet."
+            "fr": "C'est la source principale pour la compatibilité navigateur web sur Internet.",
+            "pl": "To jest główne źródło dotyczące zgodności z przeglądarkami w Internecie"
         }
     },
 
@@ -138,7 +149,8 @@
             "es": "Una comunidad de diseño web.",
             "pt": "Uma comunidade de web design.",
             "de": "Eine Webdesign Community.",
-            "fr": "Une communauté sur le design web."
+            "fr": "Une communauté sur le design web.",
+            "pl": "Społeczność dotycząca web designu"
         }
     },
 
@@ -151,7 +163,8 @@
             "es": "Un blog especializado en como escribir y escalar CSS para grandes aplicaciones y sitios web.",
             "pt": "Um blog especializado em escrever CSS para grandes aplicativos e websites.",
             "de": "Ein Blog, der sich auf das Schreiben und Anpassen von CSS für große Apps und Websites spezialisiert hat.",
-            "fr": "Un blog spécialisé sur l'écriture et le dimensionnement des CSS pour des applications et des sites web de grande taille."
+            "fr": "Un blog spécialisé sur l'écriture et le dimensionnement des CSS pour des applications et des sites web de grande taille.",
+            "pl": "Blog specializujący się w pisaniu i skalowaniu CSS dla dużych aplikacji i stron internetowych"
         }
     },
 
@@ -164,7 +177,8 @@
             "es": "Un portal para desarrolladores y diseñadores web profesionales.",
             "pt": "Uma revista online para Web designers e desenvolvedores profissionais.",
             "de": "Ein Online-Magazin für professionelle Webdesigner und Entwickler.",
-            "fr": "Un magazine en ligne pour les développeurs et designers web professionnels."
+            "fr": "Un magazine en ligne pour les développeurs et designers web professionnels.",
+            "pl": "Magazyn online dla profesjonalych web designerów i deweloperów"
         }
     },
 
@@ -177,7 +191,8 @@
             "es": "Geeks publicando una dosis de diseño web y desarrollo web.",
             "pt": "Geeks que publicam diariamente uma dose de desenvolvimento e web design.",
             "de": "Geeks veröffentlichen eine tägliche Dosis Webdesign und Entwicklung.",
-            "fr": "Des Geeks publiant une dose quotidienne d'informations sur le design et le développement web."
+            "fr": "Des Geeks publiant une dose quotidienne d'informations sur le design et le développement web.",
+            "pl": "Geeks publikują codzienną dawkę web designu i development"
         }
     },
 
@@ -190,7 +205,8 @@
             "es": "Diseño, desarrollo y contenido web, centrado en estándares y buenas prácticas.",
             "pt": "Design, desenvolvimento, e conteúdo web, com foco em padrões e boas práticas.",
             "de": "Design, Entwicklung und Web-Inhalte, mit Fokus auf Standards und beste Verfahren.",
-            "fr": "Design, développement et contenu web, centré sur les standards et les bonnes pratiques."
+            "fr": "Design, développement et contenu web, centré sur les standards et les bonnes pratiques.",
+            "pl": "Design, development i web kontent, skupiający się na standartach i najlepszych praktykach"
         }
     },
 
@@ -203,7 +219,8 @@
             "es": "Novedades y links sobre JavaScript.",
             "pt": "Notícias e links de JavaScript.",
             "de": "JavaScript News und Links.",
-            "fr": "Des nouveautés et des liens à propos de JavaScript."
+            "fr": "Des nouveautés et des liens à propos de JavaScript.",
+            "pl": "Nowości i linki JavaScript"
         }
     },
 
@@ -216,7 +233,8 @@
             "es": "Principalmente centrado en la web, pero particularmente mucho centrado en JavaScript.",
             "pt": "Principalmente com foco na web; em particular, mais em JS.",
             "de": "Hauptsächlich Web-fokussiert; insbesondere JS-fokussiert.",
-            "fr": "Centré principalement sur le web et plus particulièrement sur le JavaScript."
+            "fr": "Centré principalement sur le web et plus particulièrement sur le JavaScript.",
+            "pl": "Głównie skupiający się na web; w większości JavaScript"
         }
     },
 
@@ -229,7 +247,8 @@
             "es": "Una compañia de internet que provee de contenido de vanguardia para profesionales de la web.",
             "pt": "Uma empresa de mídia online que fornece conteúdo de ponta para profissionais da web.",
             "de": "Eine Online Media Firma, die topaktuelle Inhalte für Web-Profis bietet.",
-            "fr": "Une société de communication en ligne fournissant du contenu sur les dernières techniques pour les professionnels du web."
+            "fr": "Une société de communication en ligne fournissant du contenu sur les dernières techniques pour les professionnels du web.",
+            "pl": "Firma online dająca nowatorską treść dla profesjonalistów z dziedziny web"
         }
     }
 ]
