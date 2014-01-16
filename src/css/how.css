@@ -535,6 +535,10 @@ a:hover {
         width: 555px;
     }
 
+    html[lang=pl] .logo strong {
+        width: 580px;
+    }
+
     .recipe-ribbon {
         width: 130px;
         height: 130px;
