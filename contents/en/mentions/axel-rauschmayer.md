@@ -10,4 +10,4 @@ First, Twitter is invaluable. Start with famous JavaScript people you know (e.g.
 
 Second, [Echo JS](http://www.echojs.com/) is a JavaScript news site in the tradition of Hacker News.
 
-Third, the Cooper Press [email newsletters](https://cooperpress.com/) are a convenient weekly source of information.
+Third, the Cooper Press [email newsletters](https://cooperpress.com/) are a convenient weekly source of information (disclaimer: I edit JavaScript Weekly).

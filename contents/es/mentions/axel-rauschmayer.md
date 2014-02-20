@@ -10,4 +10,4 @@ En primer lugar, Twitter tiene un valor incalculable. Comienza con las personas 
 
 Segundo, [Echo JS](http://www.echojs.com/) es un sitio de novedades de JavaScript en la tradición de Noticias Hackers.
 
-Tercero, los [boletines](https://cooperpress.com/) de Cooper Press son una útil fuente semanal de información.
+Tercero, los [boletines](https://cooperpress.com/) de Cooper Press son una útil fuente semanal de información (aviso: yo edito JavaScript Weekly).

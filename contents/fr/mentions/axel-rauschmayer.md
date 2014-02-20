@@ -10,4 +10,4 @@ En premier, Twitter est inestimable. Commencez avec les gens les plus connus dan
 
 En deuxième, [Echo JS](http://www.echojs.com/) est un site d'informations sur JavaScript dans la tradition de "Hacker News".
 
-En troisième, [la lettre d'informations par mail](https://cooperpress.com/) de Cooper Press est une manière plutôt pratique d'avoir une un source hebdomadaire d'informations.
+En troisième, [la lettre d'informations par mail](https://cooperpress.com/) de Cooper Press est une manière plutôt pratique d'avoir une un source hebdomadaire d'informations (Attention: je modifier le JavaScript Weekly).

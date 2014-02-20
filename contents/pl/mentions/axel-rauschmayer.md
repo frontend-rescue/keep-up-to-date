@@ -10,4 +10,4 @@ Pierwsze - Twitter jest nieoceniony. Zacznij z popularnymi ludźmi JavaScript kt
 
 Drugie, [Echo JS](http://www.echojs.com/) jest stroną z nowościami o JavaScript, coś jak tradycyjny Hacker News.
 
-Trzecie, the Cooper Press [email newsletters](https://cooperpress.com/) jest dobrym tygodniowym źródłem informacji.
+Trzecie, the Cooper Press [email newsletters](https://cooperpress.com/) jest dobrym tygodniowym źródłem informacji (Uwaga: edytować JavaScript Weekly).

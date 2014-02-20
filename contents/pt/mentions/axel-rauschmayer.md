@@ -10,4 +10,4 @@ Primeiro, Twitter é indispensável. Inicie com pessoas famosas de Javascript qu
 
 Segundo, [Echo JS](http://www.echojs.com/) é um site de notícias de JavaScript com a tradição do Hacker News.
 
-Terceiro, a newsletter por [e-mail semanal](https://cooperpress.com/) do Cooper Press, que é uma ótima fonte de informação.
+Terceiro, a newsletter por [e-mail semanal](https://cooperpress.com/) do Cooper Press, que é uma ótima fonte de informação (aviso: eu edito JavaScript Weekly).
