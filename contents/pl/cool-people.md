@@ -4,6 +4,6 @@ subtitle: ciekawych ludzi
 footer: Zobacz pełną listę
 ---
 
-Liderzy z zakresu front-end pomagają Ci pozostać na szczycie w zakresie istotnych nowości i trendów. Oni są w posiadaniu wiedzy i pracują nad określonym tematem.
+Liderzy z zakresu front-end pomagają Ci pozostać na bieżąco z istotnymi nowościami i trendami. Posiadają wiedzę i pracują nad danym tematem.
 
-Twitter może być świetnym miejscem do znalezienia ludzi którzy są w posiadaniu wiedzy.
+Twitter może być świetnym miejscem do znalezienia ludzi, którzy znają się na tym, co robią.

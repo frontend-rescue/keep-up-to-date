@@ -1,8 +1,8 @@
 ---
-title: Uczęszcz
-subtitle: konferencje
+title: Uczestnicz w
+subtitle: konferencjach
 footer: Zobacz pełną listę
 ---
 
-Tysiące deweloperów uczestniczy w konferencjach by promować najnowsze technologie, dzielić się pomysłami, doświadczeniem i ucząc się od innych. Oni omawiają najlepsze praktyki, standardy i trendy.
-Powinieneś brać udział w celach poznawania nowych ludzi i organizacji którzy robią to, co robisz Ty.
+Tysiące deweloperów uczestniczy w konferencjach, by promować najnowsze technologie, dzielić się pomysłami, doświadczeniem i uczyć się od innych. Omawiają oni najlepsze praktyki, standardy i trendy.
+Powinieneś brać udział w konferencjach, by poznawać nowych ludzi i organizacje, które robią to samo, co Ty.
