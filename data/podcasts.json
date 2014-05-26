@@ -95,5 +95,13 @@
             "fr": "Nouveautés et discussions sur les derniers thèmes dans les communautés JavaScript.",
             "pl": "Przedstawia nowości i dyskusje o najnowszych tematach w społeczności JavaScript."
         }
+    },
+    {
+        "name": "The Zone of Front-Enders",
+        "permalink": "http://zofe.com.br/",
+        "img": "http://twitter.com/api/users/profile_image/zofepod?size=bigger",
+        "description": {
+            "pt": "Podcast sobre desenvolvimento web, front-end e afins"
+        }
     }
 ]
