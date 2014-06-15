@@ -1,8 +1,7 @@
 ---
-title: Attend
-subtitle: conferences
-footer: See full list
+title: מקומות ששווה להגיע אליהם
+subtitle: כנסים
+footer: לרישמה המלאה
 ---
 
-Thousands of developers attend conferences to promote the latest technologies, share ideas, thoughts or experiences and learn from others. They discuss the best practices, standards and trends.
-You should participate in order to meet awesome people and organizations who do what you do.
+אלפי מפתחים מגיעים לכנסים על מנת לקדם את הטכנולוגיות החדישות ביותר, לחלוק רעיונות, מחשבות או חוויות וללמוד מאחרים. הם דנים בפרקטיקות, התקנים והמגמות הטובות ביותר. את/ה צריך/כה להשתתף כדי לפגוש אנשים מדהים וארגונים שיעשו את מה שאתה עושה. זו דרך נהדרת לשמור על רמה גבוהה עם מה שקורה בחזית הטכנולוגיה

@@ -1,6 +1,6 @@
 ---
-title: Get Your Own
-subtitle: Sources
+title: מקורות חדשים 
+subtitle: מקורות
 ---
 
-It's really important that you find your own, unique way to be up to date. Take a look at how these great developers are doing it!
+זה ממש חשוב לך למצוא את הדרך שלך, הייחודית. דרך טובה לעשות זאת היא תסתכל איך המפתחים הגדולים האלה עושים את זה!

@@ -1,7 +1,5 @@
 ---
-title: The recipe
+title: המתכון
 ---
 
-The web is a rapidly evolving universe. An important part of our job as front-end developers is keeping up to date and staying close to new tools, trends and workflows.
-
-Hundreds of blog posts and articles are published every day, but there is no way you can read all of them. We think you should have a strategy to keep up to date, so we have created this recipe.
+האינטרנט הוא יקום המתפתח במהירות.חלק חשוב בעבודה שלנו כמפתחים הוא להישאר מעודכן וקרוב לכלים חדשים, מגמות ותהליכי עבודה. מאות הודעות בלוג ומאמרים מתפרסמים כל יום, אבל אין שום דרך שאתה יכול לקרוא את כולם. אנחנו חושבים שצריכים להיות לך אסטרטגיה כדי לשמור על קשר עד היום, כך שיצרנו את המתכון הזה.

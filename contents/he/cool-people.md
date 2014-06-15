@@ -1,9 +1,7 @@
 ---
-title: Follow
-subtitle: cool people
-footer: See full list
+title: לעקוב
+subtitle: אנשים חזקים
+footer: לרישמה המלאה
 ---
 
-Front-end leaders help you to stay on top of relevant news and trends. They are in-the-know and they work on a specific topic.
-
-Twitter can be a great place to find people who are in-the-know.
+מנהיגים ומפתחים חזקים בקהילה עוזרים לך להישאר מעודכן עם כל החדשות ומגמות רלוונטיות. הם נמצאים בחזית ובדרך כלל דוחפים אותה קדימה. טוויטר יכול להיות מקום מצוין למצוא אנשים חזקים בנושא מסויים שיקר ללבך.

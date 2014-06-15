@@ -1,4 +1,4 @@
 ---
-intro: How to keep up to date on
-main: Front-End Technologies
+intro: כיצד להישאר מעודכן
+main: טכנולוגיות פיתוח לאינטרנט
 ---

@@ -1,3 +1,3 @@
 ---
-title: Thanks
+title: תודות
 ---
