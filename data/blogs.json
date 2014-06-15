@@ -35,6 +35,7 @@
         "img": "http://twitter.com/api/users/profile_image/treehouse_blog?size=bigger",
         "description": {
             "en": "The Treehouse blog provides valuable content on web development, web design, and startup tips.",
+            "he": "הבלוג של בית העץ מספק תוכן בעל ערך בפיתוח אתרים, עיצוב אתרים, וטיפים להפעלה.",
             "es": "El blog de Treehouse provee de contenido valorable en desarrollo web, diseño web, y tips para startup.",
             "pt": "O blog The Treehouse fornece conteúdos valisosos de desenvolvimento web, web design e dicas de startup.",
             "de": "Der Treehouse Blog bietet wertvolle Inhalte zu Webentwicklung, Webdesign und Start-Up Tipps.",
@@ -49,6 +50,7 @@
         "img": "http://twitter.com/api/users/profile_image/echojs?size=bigger",
         "description": {
             "en": "A HackerNews-like site dedicated to JavaScript and Front-end News.",
+            "he": "אתר דמוי HackerNews המוקדש לJavaScript ו-Front-end חדשות.",
             "es": "Un sitio dedicado a novedades de JavaScript y Front-end.",
             "pt": "Site de notícias sociais dedicados a JavaScript e tópicos relacionados.",
             "de": "Eine HackerNews-ähnliche Seite zu den Themen JavaScript und Front-End News.",
@@ -64,6 +66,7 @@
         "img": "http://twitter.com/api/users/profile_image/netmag?size=bigger",
         "description": {
             "en": ".net is the world’s best-selling magazine for web designers and developers.",
+            "he": ".net הוא המגזין הנמכר ביותר בעולם למעצבי אתרים ומפתחים."
             "es": ".net es el portal más popular del mundo para diseñadores web y desarrolladores.",
             "pt": ".net é a revista mais vendida do mundo para desenvolvedores e designers.",
             "de": ".net ist das weltweit meistverkaufte Magazin für Webdesigner und -entwickler.",
@@ -78,6 +81,7 @@
         "img": "http://twitter.com/api/users/profile_image/webplatform?size=bigger",
         "description": {
             "en": "An open community of developers building resources for a better web.",
+            "he": "קהילה פתוחה של משאבי בניין מפתחים לאינטרנט טוב יותר.",
             "es": "Una comunidad abierta de desarrolladores contruyendo recursos para una web mejor.",
             "pt": "Uma comunidade aberta de desenvolvedores construindo recursos por uma web melhor.",
             "de": "Eine offene Community aus Entwicklern, die Ressourcen für ein besseres Netz bereitstellt.",
@@ -92,6 +96,7 @@
         "img": "http://twitter.com/api/users/profile_image/ChromiumDev?size=bigger",
         "description": {
             "en": "Posts, tutorials, case study & demos.",
+            "he": "Posts, tutorials, case study & demos.",
             "es": "Arículos, tutoriales, casos de estudio y ejemplos.",
             "pt": "Posts, tutoriais, estudos de caso & demos.",
             "de": "Artikel, Anleitungen, Fallstudien & Demos.",
@@ -106,6 +111,7 @@
         "img": "http://twitter.com/api/users/profile_image/html5doctor?size=bigger",
         "description": {
             "en": "A blog to help you learn more about HTML5.",
+            "he": "בלוג שיעזרו לך ללמוד יותר על HTML5.",
             "es": "Un blog para ayudarte a aprender HTML5.",
             "pt": "Um blog que irá ajudar a você aprender mais sobre HTML5.",
             "de": "Ein Blog der dir hilft, mehr über HTML5 zu lernen.",
@@ -120,6 +126,7 @@
         "img": "http://twitter.com/api/users/profile_image/nettuts?size=bigger",
         "description": {
             "en": "Tutorials, articles, tips, and community for web developers.",
+            "he": "הדרכות, מאמרים, טיפים, וקהילה עבור מפתחי אינטרנט.",
             "es": "Tutoriales, artículos, consejos, y comunidad para desarrolladores web.",
             "pt": "Tutoriais, artigos, dicas e comunidade para desenvolvedores web.",
             "de": "Tutorials, Artikel, Tipps und eine Community für Webentwickler.",
@@ -134,6 +141,7 @@
         "img": "http://twitter.com/api/users/profile_image/ppk?size=bigger",
         "description": {
             "en": "It is the prime source for browser compatibility information on the Internet.",
+            "he": "זהו המקור העיקרי למידע על תאימות דפדפן באינטרנט.",
             "es": "La principal fuente de información en internet en compatibilidad entre navegadores.",
             "pt": "É a principal fonte de informações sobre a compatibilidade de navegadores na Internet.",
             "de": "Die primäre Quelle für Informationen zu Browserkompatibilität im Internet.",
@@ -148,6 +156,7 @@
         "img": "http://twitter.com/api/users/profile_image/Real_CSS_Tricks?size=bigger",
         "description": {
             "en": "A web design community.",
+            "he": "קהילת עיצוב אתרים."
             "es": "Una comunidad de diseño web.",
             "pt": "Uma comunidade de web design.",
             "de": "Eine Webdesign Community.",
@@ -162,6 +171,7 @@
         "img": "http://twitter.com/api/users/profile_image/csswizardry?size=bigger",
         "description": {
             "en": "A specialised blog in writing and scaling CSS for large apps and websites.",
+            "he": "בלוג המתמחה בכתיבה ומדרוג CSS עבור יישומים ואתרי אינטרנט גדולים.",
             "es": "Un blog especializado en como escribir y escalar CSS para grandes aplicaciones y sitios web.",
             "pt": "Um blog especializado em escrever CSS para grandes aplicativos e websites.",
             "de": "Ein Blog, der sich auf das Schreiben und Anpassen von CSS für große Apps und Websites spezialisiert hat.",
@@ -176,6 +186,7 @@
         "img": "http://twitter.com/api/users/profile_image/smashingmag?size=bigger",
         "description": {
             "en": "An online magazine for professional Web designers and developers.",
+            "he": "מגזין מקוון למעצבי אתרים מקצועיים וכן מפתחים.",
             "es": "Un portal para desarrolladores y diseñadores web profesionales.",
             "pt": "Uma revista online para Web designers e desenvolvedores profissionais.",
             "de": "Ein Online-Magazin für professionelle Webdesigner und Entwickler.",
@@ -190,6 +201,7 @@
         "img": "http://twitter.com/api/users/profile_image/24ways?size=bigger",
         "description": {
             "en": "Geeks publish a daily dose of web design and development.",
+            "he": "מפתחים עם משקפים שמפרסמים מנה יומית של ידע על עיצוב ובניית אתרים",
             "es": "Geeks publicando una dosis de diseño web y desarrollo web.",
             "pt": "Geeks que publicam diariamente uma dose de desenvolvimento e web design.",
             "de": "Geeks veröffentlichen eine tägliche Dosis Webdesign und Entwicklung.",
@@ -204,6 +216,7 @@
         "img": "http://twitter.com/api/users/profile_image/alistapart?size=bigger",
         "description": {
             "en": "Design, development, and web content, focused on standards and best practices.",
+            "he": "עיצוב, פיתוח ותוכן באינטרנט, התמקדו בסטנדרטים ושיטות עבודה מומלצות.",
             "es": "Diseño, desarrollo y contenido web, centrado en estándares y buenas prácticas.",
             "pt": "Design, desenvolvimento, e conteúdo web, com foco em padrões e boas práticas.",
             "de": "Design, Entwicklung und Web-Inhalte, mit Fokus auf Standards und beste Verfahren.",
@@ -218,6 +231,7 @@
         "img": "http://twitter.com/api/users/profile_image/jscentral?size=bigger",
         "description": {
             "en": "JavaScript news and links.",
+            "he": "מקור מעולה לפיתוח בגוואה סקריפט",
             "es": "Novedades y links sobre JavaScript.",
             "pt": "Notícias e links de JavaScript.",
             "de": "JavaScript News und Links.",
@@ -232,6 +246,7 @@
         "img": "http://twitter.com/api/users/profile_image/jsgoodies?size=bigger",
         "description": {
             "en": "Mainly web-focused; in particular, most are JS-focused.",
+            "he": "בעיקר ממוקד אינטרנט",
             "es": "Principalmente centrado en la web, pero particularmente mucho centrado en JavaScript.",
             "pt": "Principalmente com foco na web; em particular, mais em JS.",
             "de": "Hauptsächlich Web-fokussiert; insbesondere JS-fokussiert.",
@@ -246,6 +261,7 @@
         "img": "http://twitter.com/api/users/profile_image/sitepointdotcom?size=bigger",
         "description": {
             "en": "An online media company providing cutting-edge content for web professionals.",
+            "he": "חברת מדיה באינטרנט לספק תוכן חדשני לאנשי מקצוע באינטרנט.",
             "es": "Una compañia de internet que provee de contenido de vanguardia para profesionales de la web.",
             "pt": "Uma empresa de mídia online que fornece conteúdo de ponta para profissionais da web.",
             "de": "Eine Online Media Firma, die topaktuelle Inhalte für Web-Profis bietet.",
