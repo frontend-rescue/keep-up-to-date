@@ -66,7 +66,7 @@
         "img": "http://twitter.com/api/users/profile_image/netmag?size=bigger",
         "description": {
             "en": ".net is the world’s best-selling magazine for web designers and developers.",
-            "he": ".net הוא המגזין הנמכר ביותר בעולם למעצבי אתרים ומפתחים."
+            "he": ".net הוא המגזין הנמכר ביותר בעולם למעצבי אתרים ומפתחים.",
             "es": ".net es el portal más popular del mundo para diseñadores web y desarrolladores.",
             "pt": ".net é a revista mais vendida do mundo para desenvolvedores e designers.",
             "de": ".net ist das weltweit meistverkaufte Magazin für Webdesigner und -entwickler.",
@@ -96,7 +96,7 @@
         "img": "http://twitter.com/api/users/profile_image/ChromiumDev?size=bigger",
         "description": {
             "en": "Posts, tutorials, case study & demos.",
-            "he": "Posts, tutorials, case study & demos.",
+            "he": "הדרכות והדגמות מהממוחים הכי טובים בתחום",
             "es": "Arículos, tutoriales, casos de estudio y ejemplos.",
             "pt": "Posts, tutoriais, estudos de caso & demos.",
             "de": "Artikel, Anleitungen, Fallstudien & Demos.",
@@ -156,7 +156,7 @@
         "img": "http://twitter.com/api/users/profile_image/Real_CSS_Tricks?size=bigger",
         "description": {
             "en": "A web design community.",
-            "he": "קהילת עיצוב אתרים."
+            "he": "קהילת עיצוב אתרים.",
             "es": "Una comunidad de diseño web.",
             "pt": "Uma comunidade de web design.",
             "de": "Eine Webdesign Community.",
