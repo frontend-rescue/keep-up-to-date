@@ -5,6 +5,7 @@
         "img": "http://twitter.com/api/users/profile_image/dailyjs?size=bigger",
         "description": {
             "en": "A JavaScript Blog.",
+            "he": "בלוג טוב על גאווה סקריפט",
             "es": "Un blog de JavaScript.",
             "pt": "Um blog de JavaScript.",
             "de": "Ein JavaScript Blog.",
@@ -19,6 +20,7 @@
         "img": "http://blog.cwa.me.uk/wp-content/themes/Hackedcoffeespot2/img/cup4.jpg",
         "description": {
             "en": "A Daily .NET Software Development Link Blog.",
+            "he": "בלוג יומי על דוט נט ",
             "es": "Un blog diario de links de Desarrollo de Software en .NET.",
             "pt": "Um blog com notícias diárias de Desenvolvimento de Software com .NET.",
             "de": "Ein täglicher .NET Software Development Link Blog.",
