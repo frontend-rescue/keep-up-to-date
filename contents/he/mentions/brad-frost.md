@@ -1,11 +1,11 @@
 ---
 id: brad-frost
-name: Brad Frost
+name: בראד פורסט
 twitter: brad_frost
 ---
 
-I live on Twitter. I depend on it to give me an idea of what's popular and upcoming, and also what problems people are dealing with. This influences the way I think and the projects I take on.
+אני גר בטוויטר. אני תלוי בו כדי לתת לי מושג על מה פופולרי וקרוב, וגם מה בעיות אנשים עם התמודדות. זה משפיע על הדרך בה אני חושב ואת הפרויקטים שאני לוקח על. 
 
-I also still read web-related RSS feeds, books, magazines and more when I travel.
+אני גם עדיין RSS הקשורים לאינטרנט לקרוא הזנות, ספרים, מגזינים ועוד כאשר אני נוסע. 
 
-The other big thing that I find essential for keeping up to date on new technology is to experiment. Find some time outside of your normal job to tinker with a project, contribute to someone else's, or play around with a new bit of technology. Play, fail, succeed, share, repeat.
+הדבר הגדול האחר שאני מוצא חיוני לשמירה מעודכנת בטכנולוגיה חדשה הוא להתנסות. מצא קצת זמן מחוץ לעבודת הרגילה שלכם להתעסק עם פרויקט, תתרום למישהו אחר, או לשחק עם חתיכה חדשה של טכנולוגיה. לשחק, להיכשל, להצליח, לשתף, חזור.

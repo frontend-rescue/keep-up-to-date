@@ -1,9 +1,10 @@
 ---
 id: alex-sexton
-name: Alex Sexton
+name: אלכס סקטון
 twitter: SlexAxton
 ---
 
-The only way that I've found that I'm able to stay up to date is by creating. I follow a well-curated list of people on twitter, and read blogs and programming news sites, but when it comes down to it, the only time I'm ever really *learning* is when I'm *doing*.
 
-When I want to learn something, I'll just start a project with it, and along the way I'll figure out the other tools I need to be successful. After a few failed attempts, normally I can create something meaningful (that I usually throw away anyways) that allows me to understand core concepts and/or make quick uninformed jabs about things that I don't like or understand.
+הדרך היחידה שאני מצאתי שאני מסוגל להישאר מעודכן היא על ידי יצירת. אני עוקב אחרי רשימה אצרה היטב של אנשים בטוויטר, ולקרוא בלוגים ואתרי חדשות בתכנות, אבל כשזה מגיע לזה, בפעם היחידה שאני אי פעם באמת * למידה היא כשאני * עושה *. 
+
+כשאני רוצה ללמוד משהו, אני פשוט להתחיל פרויקט עם זה, ובדרך אני להבין את הכלים האחרים שאני צריך כדי להצליח. אחרי כמה ניסיונות כושלים, בדרך כלל אני יכול ליצור משהו משמעותי (כי אני בדרך כלל זורק בכל מקרה) שמאפשר לי להבין את מושגי ליבה ו / או לבצע דקירות חסרי ידע מהירים על דברים שאני לא אוהב או מבין.

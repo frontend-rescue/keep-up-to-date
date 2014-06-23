@@ -1,9 +1,9 @@
 ---
 id: shane-hudson
-name: Shane Hudson
+name: שאון הדסון
 twitter: ShaneHudson
 ---
 
-Everybody knows that Twitter is the best place to find information such as tutorials or blog posts about a new technology. But who writes them? Where do they get their information from?
+כולם יודע שטוויטר הוא המקום הטוב ביותר למצוא מידע כגון הדרכות או פוסטים על טכנולוגיה חדשה. אבל מי כותב אותם? מאיפה הם מקבלים את המידע שלהם מ? 
 
-At some point you need to go right to the core... the mailing lists, specifications and even source code. By getting used to reading the specifications and participating in some mailing list conversations and understanding some of the source code, you will naturally become a better developer and understand it all much more.
+בשלב מסוים אתה צריך ללכת ישר לליבה ... רשימות דיוור, המפרטים וקוד מקור אפילו. על ידי להתרגל לקריאת המפרטים והשתתפות בכמה שיחות לרשימת תפוצה והבנת חלק מקוד המקור, אתה באופן טבעי להיות יזם טוב יותר ולהבין את כל זה הרבה יותר.

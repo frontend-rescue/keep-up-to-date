@@ -1,6 +1,6 @@
 ---
 id: paul-irish
-name: Paul Irish
+name: פול יאריש
 twitter: paul_irish
 ---
 
@@ -17,4 +17,4 @@ twitter: paul_irish
 - [JS Weekly](http://javascriptweekly.com/)
 - [Web Design Weekly](http://web-design-weekly.com/)
 
-and knowing the people behind all significant projects :)
+ולבכיר את כל האנשים שמאחורי הקוד והפרוייקטים הללו :)

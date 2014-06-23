@@ -1,11 +1,11 @@
 ---
 id: addy-osmani
-name: Addy Osmani
+name: אדי אוסמי
 twitter: addyosmani
 ---
 
-These days I find myself heavily relying on Twitter lists and G+ circles to keep up to date with what's happening on the front-end.
+בימים אלה אני מוצא את עצמי מסתמך בעיקר על רשימות טוויטר וחוגי G+ כדי לשמור מעודכן עם מה שקורה בקצה הטכנולוגי של פיתוח לווב. 
 
-If there are tools or libraries I regularly use, I try to keep an eye on what the developers working on them might have to say because that's how you find out insights, tips/tricks and information about what's coming next.
+אם יש כלים או ספריות שאני משתמש באופן קבוע, אני מנסה לפקוח עין על מה שהמפתחים עובדים עליהם משום שזו דרך מעולה לגלות תובנות, טיפים / טריקים ומידע על מה שהולך לקרות בעתיד הקרוב.
 
-It's also a great idea to follow those kind souls working on our behalf in the web standards space. More often these days drafts of potential specs are posted early on social networks meaning you have a chance to both review and if you're interested, contribute to what the web platform might look like in a few years.
+זה גם רעיון נהדר לעקוב אחר מפתחים שמקדמים בשמנו את התקנים באינטרנט. לעתים קרובות יותר בימים אלה, אפשר לראות טיוטות של מפרט פוטנציאלי ולהגיב עם ביקורת בונה, ואם אתה מעוניין, זה מאוד תורם לפלטפורמת האינטרנט ועיצובה לשנים הבאות.

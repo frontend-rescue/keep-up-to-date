@@ -1,10 +1,10 @@
 ---
 id: lea-verou
-name: Lea Verou
+name: לאה לאוור
 twitter: leaverou
 ---
 
-1. I have several feeds I read almost daily
-2. I follow lots of people involved in web standards or browser development or are just very good developers
-3. I actually read specifications from time to time, some of them are easy to understand and they are first-hand sources. W3C mailing lists also help: You learn about web technologies at the moment of their creation and can even influence them!
-4. Conferences, both for the discussions and the sessions
+1. יש לי כמה עדכונים שאני קורא כמעט מדי יום 
+2. אני עוקבת אחרי הרבה אנשים מעורבים בתקני אינטרנט או פיתוח דפדפן או מפתחים פשוט מאוד טובים 
+3. אני ממש צוללת למפרטים מהעת לעת, חלק מהם הם קל להבנה והם מקורות מהמקור ראשון. רשימות תפוצה של ה-W3C גם יכולה לעזור: אתה לומד על טכנולוגיות אינטרנט ברגע בריאתם ואפילו יכול להשפיע עליהם! 
+4. כנסים, הן עבור הדיונים והמפגשים
