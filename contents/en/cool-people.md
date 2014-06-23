@@ -1,7 +1,7 @@
 ---
-title: תעקוב
-subtitle: חברים שיש להם את הקול והשכל
-footer: ראש את כל הרשימה
+title: Follow
+subtitle: cool people
+footer: See full list
 ---
 
 Front-end leaders help you to stay on top of relevant news and trends. They are in-the-know and they work on a specific topic.
