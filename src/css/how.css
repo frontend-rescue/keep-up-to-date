@@ -70,7 +70,7 @@ a:hover {
 
 .languages {
     position: absolute;
-    top: 0px;
+    top: 0;
     right: 5px;
 }
 
@@ -141,20 +141,20 @@ a:hover {
     padding: 5px 5px 5px 115px;
     border: solid 3px #1A171B;
     background-color: #fff;
-    box-shadow: 3px 3px 0px #fab800 inset, 3px 3px 0px #fff;
+    box-shadow: 3px 3px 0 #fab800 inset, 3px 3px 0 #fff;
     list-style: none;
 }
 
 .best-blogs .box-follow {
-    box-shadow: 3px 3px 0px #009798 inset, 3px 3px 0px #fff;
+    box-shadow: 3px 3px 0 #009798 inset, 3px 3px 0 #fff;
 }
 
 .best-weekly .box-follow {
-    box-shadow: 3px 3px 0px #eb7108 inset, 3px 3px 0px #fff;
+    box-shadow: 3px 3px 0 #eb7108 inset, 3px 3px 0 #fff;
 }
 
 .best-podcasts .box-follow {
-    box-shadow: 3px 3px 0px #FAB800 inset, 3px 3px 0px #fff;
+    box-shadow: 3px 3px 0 #FAB800 inset, 3px 3px 0 #fff;
 }
 
 .box-follow-medium p {
@@ -173,13 +173,12 @@ a:hover {
 }
 
 .box-follow-avatar {
-    display: block;
     position: absolute;
     top: -25px;
     left: 15px;
     border: solid 3px #1A171B;
     border-radius: .2em .7em .2em .5em;
-    box-shadow: 3px 2px 0px #fff;
+    box-shadow: 3px 2px 0 #fff;
     padding: 3px 0 0 3px;
     background-color: #fff;
 }
@@ -202,7 +201,6 @@ a:hover {
  */
 .recipe-ribbon {
     text-align: center;
-    display: inline-block;
     color: #FFF;
     width: 90px;
     height: 90px;
@@ -254,6 +252,7 @@ a:hover {
 
 .navigation ol {
     margin: 2em 0 0 0;
+    -moz-box-sizing: border-box;
     box-sizing: border-box;
     counter-reset: section;
 }
@@ -435,7 +434,7 @@ a:hover {
 
 .box-mention {
     margin: 2em 0;
-    box-shadow: 3px 3px 0px #FFF inset, 3px 3px 0px #FFF;
+    box-shadow: 3px 3px 0 #FFF inset, 3px 3px 0 #FFF;
     padding: 1em 0;
 
 }
@@ -486,7 +485,7 @@ a:hover {
 
 .who-we-are .box-follow,
 .thank-you .box-follow {
-    box-shadow: 3px 3px 0px #FFF inset, 3px 3px 0px #FFF;
+    box-shadow: 3px 3px 0 #FFF inset, 3px 3px 0 #FFF;
 }
 
 .social-plugins {
