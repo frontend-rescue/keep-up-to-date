@@ -4,6 +4,6 @@ name: Alex Sexton
 twitter: SlexAxton
 ---
 
-The only way that I've found that I'm able to stay up to date is by creating. I follow a well-curated list of people on twitter, and read blogs and programming news sites, but when it comes down to it, the only time I'm ever really *learning* is when I'm *doing*.
+De enige manier die voor mij werkt om bij te blijven is door zelf dingen te maken. Ik volg een goed samengestelde lijst van mensen op twitter en lees blogs en websites over programmeernieuws, maar als het er op aan komt *leer* ik echt wanneer ik iets *doe*.
 
-When I want to learn something, I'll just start a project with it, and along the way I'll figure out the other tools I need to be successful. After a few failed attempts, normally I can create something meaningful (that I usually throw away anyways) that allows me to understand core concepts and/or make quick uninformed jabs about things that I don't like or understand.
+Als ik iets wil leren, dan begin ik een project en onderweg ontdek ik welke gereedschappen ik nodig hem om het tot een succes te maken. Na een aantal mislukte pogingen kan ik over het algemeen iets nuttigs creeëren (wat ik meestal toch weggooi), wat me instaat stelt om de basisprincipes te begrijpen en/of met korte slagen te mikken op delen die ik nog niet begrijp.

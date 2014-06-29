@@ -4,10 +4,10 @@ name: Cody Lindley
 twitter: codylindley
 ---
 
-I keep up with front-end technologies religiously. As part of my daily activities, I spend 20 to 30 minutes reviewing twitter and RSS feeds, investigating anything that sparks my interest.
+Ik blijf trouw bij met de nieuwste front-end technieken. Als onderdeel van mijn dagelijkse activiteiten, besteed ik 20 tot 30 minuten aan het besturderen van twitter en RSS feeds, waarbij ik alles onderzoek dat mijn interesse kan wekken.
 
-I am also regularly reading (books), watching (videos), or writing about my practice. From time to time I pick a coding, or writing, project and focus all of my spare time in this area. When I tire of writing words or code I simply spend time reading code.
+I am also regularly reading (books), watching (videos), or writing about my practice. From timeIk lees (boeken), bekijk (video's) of schrijf ook regelmatig over mijn kennisgebied. Af en toe pak ik een programmeer- of schrijfproject op en richt al mijn vrije tijd hierop. Als ik het schrijven van woorden of code zat ben, dan ga ik over op het lezen van code.
 
-When I'm feeling burnt out I'll attend a conference so that I can be inspired by ideas and people. And when I am really bored I start looking into practices that cross over into my area of expertise.
+Als ik me overwerkt voel bezoek ik een conferentie zodat ik geïnspireerd kan worden door ideeën en mensen en als ik me verveel dan kijk ik naar werkzaamheden die raakvlakken hebben met mijn werkgebied.
 
-The secret to keeping up is not to view it as an extra chore, but instead as part of the job I've chosen.
+Het geheim om bij te blijven is om het niet te zien als een extra verantwoordelijkheid, maar als onderdeel van het werk waarvoor je hebt gekozen.

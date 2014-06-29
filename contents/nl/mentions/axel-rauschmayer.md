@@ -4,10 +4,10 @@ name: Axel Rauschmayer
 twitter: rauschma
 ---
 
-I recommend three resources for staying up to date on front end technologies.
+Ik raad drie bronnen aan om bij te blijven op het gebied van front-end technieken.
 
-First, Twitter is invaluable. Start with famous JavaScript people you know (e.g. the creator of your framework of choice) and continue from there – sooner or later you will come across interesting retweets, recommendations on who to follow, etc.
+Ten eerste, Twitter is onbetaalbaar. Begin bij de bekende JavaScript mensen die je kent (bv. de makers van je favoriete script) en ga van daaruit verder. Je komt vanzelf interessante retweets en aanbevelingen tegen over wie nog meer te volgen.
 
-Second, [Echo JS](http://www.echojs.com/) is a JavaScript news site in the tradition of Hacker News.
+Ten tweede, [Echo JS](http://www.echojs.com/) is een JavaScript nieuwssite in de traditie van Hacker News.
 
-Third, the Cooper Press [email newsletters](https://cooperpress.com/) are a convenient weekly source of information (disclaimer: I edit JavaScript Weekly).
+Tot slot, zijn de Cooper Press [e-mailnieuwsbrieven](https://cooperpress.com/) een aangename wekelijkse bron van informatie. (ontkenning: Ik bewerk JavaScript Weekly).

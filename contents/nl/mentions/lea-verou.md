@@ -4,7 +4,7 @@ name: Lea Verou
 twitter: leaverou
 ---
 
-1. I have several feeds I read almost daily
-2. I follow lots of people involved in web standards or browser development or are just very good developers
-3. I actually read specifications from time to time, some of them are easy to understand and they are first-hand sources. W3C mailing lists also help: You learn about web technologies at the moment of their creation and can even influence them!
-4. Conferences, both for the discussions and the sessions
+1. Ik heb verschillende feeds, die ik bijna dagelijks lees
+2. Ik volg vele mensen die betrokken zijn bij web standaarden of de ontwikkeling van brosers of die gewoon erg goede ontwikkelaars zijn
+3. Ik lees daadwerkelijk ook af en toe specificaties, sommige zijn eenvoudig te lezen en zijn primaire bronnen. De mailinglijsten van het W3C kunnen ook helpen: Je leert over webtechnieken op het moment dat ze bedacht worden en je kan er zelfs invloed op uitoefenen!
+4. Conferenties, zowel voor de discussies als de verschillende sessies

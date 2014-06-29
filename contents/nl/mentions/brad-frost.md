@@ -4,8 +4,8 @@ name: Brad Frost
 twitter: brad_frost
 ---
 
-I live on Twitter. I depend on it to give me an idea of what's popular and upcoming, and also what problems people are dealing with. This influences the way I think and the projects I take on.
+Ik woon op Twitter. Ik ben er van afhankelijk om me een idee te geven wat er populair is en gaat worden en ook om te zien met welke problemen mensen worstelen. Dit beïnvloed de manier waarop ik denk en de projecten waar ik aan werk.
 
-I also still read web-related RSS feeds, books, magazines and more when I travel.
+Ik lees ook nog steeds RSS feeds, boeken en tijdschriften e.d. over het web als ik op reis ben.
 
-The other big thing that I find essential for keeping up to date on new technology is to experiment. Find some time outside of your normal job to tinker with a project, contribute to someone else's, or play around with a new bit of technology. Play, fail, succeed, share, repeat.
+Het andere punt wat ik essentieel vind om bij te blijven met nieuwe technieken is experimenteren. Vind tijd buiten je normale werk om te knutselen aan een project, mee te helpen met het project van iemand anders of om te spelen met nieuwe technieken. Speel, misluk, slaag, deel, herhaal.
