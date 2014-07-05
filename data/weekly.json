@@ -10,7 +10,7 @@
             "de": "Bietet täglich Inhalte über W3C, HTML, CSS, JavaScript, Web APIs, Web-Browser.",
             "fr": "Fournit du contenu quotidien sur le W3C, HTML, CSS, JavaScript, les API Web et les navigateurs web.",
             "pl": "Dostarcza dzienną dawkę informacji o W3C, HTML, CSS, JavaScript, API i przeglądarkach internetowych.",
-            "nl": "Biedt dagelijks informatie over W3C, HTML, CSS, JavaScript, Web APIs en web browsers."
+            "du": "Biedt dagelijks informatie over W3C, HTML, CSS, JavaScript, Web APIs en web browsers."
         }
     },
 
@@ -25,7 +25,7 @@
             "de": "Einfach großartige Links zu den besten News und Artikeln, die das Web über die Woche gesehen hat.",
             "fr": "Liens les plus intéressants sur les meilleures nouvelles et articles au cours de la semaine.",
             "pl": "Linki do najlepszych newsów i artykułów które pojawiły się w sieci w ciągu tygodnia.",
-            "nl": "Te gekke links naar de beste ontwikkelingen en artikelen die wekelijks op het interweb belanden."
+            "du": "Te gekke links naar de beste ontwikkelingen en artikelen die wekelijks op het interweb belanden."
         }
     },
 
@@ -40,7 +40,7 @@
             "de": "Zusammenstellung von CSS Artikeln, Anleitungen, Experimenten und Tools.",
             "fr": "Résumés d'articles sur les css, tutoriels, expérimentations et outils.",
             "pl": "Przegląd artykułów o CSS - tutoriali, eksperymentów i narzędzi.",
-            "nl": "Collectie van css artikelen, handleidingen, experimenten en gereedschappen."
+            "du": "Collectie van css artikelen, handleidingen, experimenten en gereedschappen."
         }
     },
 
@@ -55,7 +55,7 @@
             "de": "Zusammenstellung von Neuigkeiten und Links zu HTML5 und Browsertechnologien.",
             "fr": "Tour d'horizon des derniers liens et nouveautés HTML5 et navigateurs web.",
             "pl": "Przegląd nowości i linków o HTML5 i technologiach przeglądarek.",
-            "nl": "Collectie van nieuws en links over HTML5 and browserontwikkelingen."
+            "du": "Collectie van nieuws en links over HTML5 and browserontwikkelingen."
         }
     },
 
@@ -70,7 +70,7 @@
             "de": "Eine agnostische Web Browser Ressource mit Fokus auf Open Web und dem Teilen von Wissen.",
             "fr": "Une ressource agnostique en terme de navigateur web, axée sur le Web Ouvert et le partage des connaissances.",
             "pl": "Agnostyczne źródło o przeglądarkach, skupiające się na Open Web i dzieleniu się wiedzą.",
-            "nl": "Kritische webbrowser bronnen, gericht op heet open internet en het delen van informatie."
+            "du": "Kritische webbrowser bronnen, gericht op heet open internet en het delen van informatie."
         }
     },
 
@@ -85,7 +85,7 @@
             "de": "Ein wöchentlicher Programmiernewsletter für Entwickler und Programmierer.",
             "fr": "Une lettre d'information hebdomadaire pour les développeurs et programmeurs.",
             "pl": "Tygodniowy newsletter o programowaniu dla deweloperów i programistów.",
-            "nl": "Een wekelijkse nieuwsbrief over programeren voor ontwikkelaars en programmeurs."
+            "du": "Een wekelijkse nieuwsbrief over programeren voor ontwikkelaars en programmeurs."
         }
     },
 
@@ -100,7 +100,7 @@
             "de": "Zusammenstellung von Artikeln, Tools, Tipps, Anleitungen und Inspirationen zu Responsive Design.",
             "fr": "Tour d'horizon d'articles sur le \"responsive design\", des outils, des astuces, des tutoriels et d'autres liens intéressants.",
             "pl": "Przegląd artykułów o płynnym designie, narzędzia, wskazówki, tutoriale i inspirujące linki.",
-            "nl": "Collectie van 'responsive design' artikelen, gereedschappen, tips, handleidingen en inspirerende links."
+            "du": "Collectie van 'responsive design' artikelen, gereedschappen, tips, handleidingen en inspirerende links."
         }
     },
 
@@ -115,7 +115,7 @@
             "de": "Zweiwöchentlicher E-Mail Newsletter über Themen und Trends in der Front-End Webentwicklung.",
             "fr": "Lettre d'information bimensuelle par mail sur les problématiques et tendances dans le développement front-end.",
             "pl": "Dwutygodniowy newsletter o zagadnieniach i trendach w świecie Front-End.",
-            "nl": "Tweewekelijkse e-mailnieuwsbrief over problemen en trends in front-end webontwikkeling."
+            "du": "Tweewekelijkse e-mailnieuwsbrief over problemen en trends in front-end webontwikkeling."
         }
     },
 
@@ -130,7 +130,7 @@
             "de": "Eine Linksammlung, hauptsächlich über Front-End Entwicklung.",
             "fr": "Une sélection de liens, principalement sur le développement front-end.",
             "pl": "Wybór linków, głównie o front-end development.",
-            "nl": "Een selectie van links, voornamelijk over front-end ontwikkelingen."
+            "du": "Een selectie van links, voornamelijk over front-end ontwikkelingen."
         }
     },
 
@@ -145,7 +145,7 @@
             "de": "Eine kostenlose, wöchentliche Zusammenstellung per E-Mail zu JavaScript Neuigkeiten und Artikeln.",
             "fr": "Une compilation hebdomadaire par mail de nouvelles et d'articles sur JavaScript.",
             "pl": "Bezpłatny, tygodniowy email z przeglądem nowości i artykułów o JavaScript.",
-            "nl": "Een gratis, wekelijkse e-mail, met een collectie van JavaScript nieuws en artikelen."
+            "du": "Een gratis, wekelijkse e-mail, met een collectie van JavaScript nieuws en artikelen."
         }
     }
 ]
