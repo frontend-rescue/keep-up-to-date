@@ -96,4 +96,17 @@
             "pl": "Przedstawia nowości i dyskusje o najnowszych tematach w społeczności JavaScript."
         }
     }
+     {
+        "name": "Unfinished Business",
+        "permalink": "http://unfinished.bz/",
+        "img": "http://unfinished.bz/img/photo-andy.jpg",
+        "description": {
+            "en": "Weekly interviews to frontends and its forth and back in the web design industry.",
+            "es": "Entrevistas semanales a frontends y sus andanzas por el mundo del diseño web.",
+            "pt": "Com notícias e discussões sobre os últimos tópicos das comunidades de JavaScript.",
+            "de": "News und Diskussionen über aktuelle Themen in den Javascript-Communities.",
+            "fr": "Nouveautés et discussions sur les derniers thèmes dans les communautés JavaScript.",
+            "pl": "Przedstawia nowości i dyskusje o najnowszych tematach w społeczności JavaScript."
+        }
+    }
 ]
