@@ -268,5 +268,20 @@
             "fr": "Une société de communication en ligne fournissant du contenu sur les dernières techniques pour les professionnels du web.",
             "pl": "Firma online dająca nowatorską treść dla profesjonalistów z dziedziny web"
         }
+    },
+
+    {
+        "name": "jquer.in",
+        "permalink": "http://jquer.in/",
+        "img": "http://twitter.com/api/users/profile_image/jquer_in?size=bigger",
+        "description": {
+            "en": "A curated collection of jQuery plugins.",
+            "he": "אוסף שאצר של תוספי jQuery",
+            "es": "Una colección curada de plugins jQuery",
+            "pt": "Uma coleção com curadoria de plugins jQuery",
+            "de": "Eine kuratierte Sammlung von jQuery-Plugins",
+            "fr": "Une collection d'objets d'plugins jQuery",
+            "pl": "Kurator kolekcji wtyczek jQuery"
+        }
     }
 ]
