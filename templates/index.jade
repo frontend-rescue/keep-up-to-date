@@ -1,8 +1,9 @@
 - var title = contents['title.md'].metadata;
 - var path = (locals.lang === 'en') ? 'src' : '../src';
+- var langDir = (locals.lang === 'he') ? 'rtl' : 'ltr';
 
 doctype html
-html(lang='#{locals.lang}')
+html(lang='#{locals.lang}' dir='#{langDir}')
     include head
 
     body
