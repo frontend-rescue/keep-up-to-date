@@ -145,6 +145,11 @@ a:hover {
     list-style: none;
 }
 
+html[dir="rtl"] .box-follow {
+    padding: 5px 115px 5px 5px;
+    text-align: right;
+}
+
 .best-blogs .box-follow {
     box-shadow: 3px 3px 0px #009798 inset, 3px 3px 0px #fff;
 }
@@ -182,6 +187,11 @@ a:hover {
     box-shadow: 3px 2px 0px #fff;
     padding: 3px 0 0 3px;
     background-color: #fff;
+}
+
+html[dir="rtl"] .box-follow-avatar {
+    left: auto;
+    right: 15px;
 }
 
 .box-follow-footer {
@@ -252,6 +262,10 @@ a:hover {
     padding-bottom: 1.5em;
 }
 
+html[dir="rtl"] .navigation .layout {
+    background-position: left top;
+}
+
 .navigation ol {
     margin: 2em 0 0 0;
     box-sizing: border-box;
@@ -293,6 +307,13 @@ a:hover {
     padding-right: 20px;
 }
 
+html[dir="rtl"] .full-list {
+    right: auto;
+    left: 0;
+    padding-left: 20px;
+    padding-right: 0;
+}
+
 .full-list:before {
     content: ' ';
     position: absolute;
@@ -302,9 +323,21 @@ a:hover {
     border-left-color: rgba(0, 0, 0, 0);
 }
 
+html[dir="rtl"] .full-list:before {
+    left: auto;
+    right: -18px;
+    border-left-color: #1A171B;
+    border-right-color: rgba(0, 0, 0, 0);
+}
+
 .full-list a {
     padding-left: 20px;
     display: block;
+}
+
+html[dir="rtl"] .full-list a {
+    padding-left: 0;
+    padding-right: 20px;
 }
 
 /*
@@ -436,7 +469,7 @@ a:hover {
 .box-mention {
     margin: 2em 0;
     box-shadow: 3px 3px 0px #FFF inset, 3px 3px 0px #FFF;
-    padding: 1em 0;
+    padding: 1em 0 !important;
 
 }
 
@@ -628,6 +661,10 @@ a:hover {
         font-size: 3.750em;
     }
 
+    html[dir="rtl"] .section-title {
+        text-align: right;
+    }
+
     .section-title:before {
         position: absolute;
         line-height: 1.35em;
@@ -643,14 +680,29 @@ a:hover {
         padding-top: 30px;
     }
 
+    html[dir="rtl"] #follow-cool-people .section-title {
+        margin-left: 0;
+        margin-right: 170px;
+    }
+
     #follow-cool-people .section-title:before {
         top: 130px;
         left: 13px;
         color: #FFF;
     }
 
+    html[dir="rtl"] #follow-cool-people .section-title:before {
+        left: auto;
+        right: 13px;
+    }
+
     #follow-cool-people p {
         margin-left: 170px;
+    }
+
+    html[dir="rtl"] #follow-cool-people p {
+        margin-left: 0;
+        margin-right: 170px;
     }
 
     .who-to-follow,
@@ -666,6 +718,11 @@ a:hover {
 
     #find-the-best-sources .section-title:before {
         right: 250px;
+    }
+
+    html[dir="rtl"] #find-the-best-sources .section-title:before {
+        right: auto;
+        left: 20px;
     }
 
     .source-type-title {
@@ -713,4 +770,9 @@ a:hover {
     #get-your-own-sources blockquote ul {
         font-size: 1.2em;
     }
+}
+
+html[dir="rtl"] #___plusone_0 {
+    left: auto !important;
+    right: -10000px !important;
 }
