@@ -17,4 +17,4 @@ twitter: paul_irish
 - [JS Weekly](http://javascriptweekly.com/)
 - [Web Design Weekly](http://web-design-weekly.com/)
 
-ולבכיר את כל האנשים שמאחורי הקוד והפרוייקטים הללו :)
+לעקוב אחר כל האנשים שמאחורי הקוד והפרוייקטים הללו :)
