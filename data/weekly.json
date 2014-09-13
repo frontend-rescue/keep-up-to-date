@@ -17,7 +17,7 @@
     {
         "name": "Web Design Weekly",
         "permalink": "http://web-design-weekly.com/",
-        "img": "https://pbs.twimg.com/profile_images/445699433380864000/oD7qEyNB_normal.png",
+        "img": "https://pbs.twimg.com/profile_images/445699433380864000/oD7qEyNB_200x200.png",
         "description": {
             "en": "Pure awesome links to the best news and articles to hit the interweb during the week.",
             "es": "Maravillosos vínculos a las mejores noticias y artículos para la semana.",
@@ -32,7 +32,7 @@
     {
         "name": "CSS Weekly",
         "permalink": "http://css-weekly.com/",
-        "img": "https://pbs.twimg.com/profile_images/452743711164612608/bj6SfALS_normal.png",
+        "img": "https://pbs.twimg.com/profile_images/452743711164612608/bj6SfALS_200x200.png",
         "description": {
             "en": "Roundup of css articles, tutorials, experiments and tools.",
             "es": "Resumén de artículos de CSS, tutoriales, experimentos y herramientas.",
@@ -47,7 +47,7 @@
     {
         "name": "HTML5 Weekly",
         "permalink": "http://html5weekly.com/",
-        "img": "https://pbs.twimg.com/profile_images/3502359367/7ed56c554e2d2987b554ffed04643960_normal.png",
+        "img": "https://pbs.twimg.com/profile_images/3502359367/7ed56c554e2d2987b554ffed04643960_200x200.png",
         "description": {
             "en": "Round-up of HTML5 and browser technology news and links.",
             "es": "Resumén de HTML5 y novedades y links de teconologías del navegador.",
@@ -62,7 +62,7 @@
     {
         "name": "Mozilla Hacks Weekly Articles",
         "permalink": "http://hacks.mozilla.org/category/mozilla-hacks-weekly",
-        "img": "https://pbs.twimg.com/profile_images/2631319542/aa071efb0ed133973c2ab9fea8b5f6d8_normal.png",
+        "img": "https://pbs.twimg.com/profile_images/2631319542/aa071efb0ed133973c2ab9fea8b5f6d8_200x200.png",
         "description": {
             "en": "An agnostic web browser resource, focused on the Open Web and sharing knowledge.",
             "es": "Una fuenta agnóstica sobre el navegador web, centrada en la Web Abierta y el compartir conocimiento.",
@@ -92,7 +92,7 @@
     {
         "name": "Responsive Design Newsletter",
         "permalink": "http://responsivedesignweekly.com/",
-        "img": "https://pbs.twimg.com/profile_images/2305896960/k6ksev6zphq2cwcnk5wr_normal.png",
+        "img": "https://pbs.twimg.com/profile_images/2305896960/k6ksev6zphq2cwcnk5wr_200x200.png",
         "description": {
             "en": "Round-up of responsive design articles, tools, tips, tutorials and inspirational links.",
             "es": "Resumen de artículos de diseño responsive, herramientas, consejos, tutoriales y vínculos inspiradores.",
@@ -137,7 +137,7 @@
     {
         "name": "JavaScript Weekly",
         "permalink": "http://javascriptweekly.com/",
-        "img": "https://pbs.twimg.com/profile_images/505048043377262592/VMUR5EzE_normal.png",
+        "img": "https://pbs.twimg.com/profile_images/505048043377262592/VMUR5EzE_200x200.png",
         "description": {
             "en": "A free, once–weekly e-mail round-up of JavaScript news and articles.",
             "es": "Un correo electrónico gratuito y semanal con un resumen de novedades y artículos de JavaScript.",

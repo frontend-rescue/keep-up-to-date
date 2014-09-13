@@ -2,7 +2,7 @@
     {
         "name": "Shoptalk",
         "permalink": "http://shoptalkshow.com/",
-        "img": "https://pbs.twimg.com/profile_images/2528496090/0749kla567npyi53bhse_normal.jpeg",
+        "img": "https://pbs.twimg.com/profile_images/2528496090/0749kla567npyi53bhse_200x200.jpeg",
         "description": {
             "en": "A podcast about front end web design, development and UX.",
             "es": "Un podcast sobre diseño web front-end, desarrollo y Experiencia de Usuario.",
@@ -32,7 +32,7 @@
     {
         "name": "The Big Web Show",
         "permalink": "http://5by5.tv/bigwebshow",
-        "img": "https://pbs.twimg.com/profile_images/822846090/bigwebshow_normal.png",
+        "img": "https://pbs.twimg.com/profile_images/822846090/bigwebshow_200x200.png",
         "description": {
             "en": "The award winning Big Web Show features special guests and topics. It's everything web that matters.",
             "es": "The award winning Big Web Show features special guests and topics. It's everything web that matters.",
@@ -47,7 +47,7 @@
     {
         "name": "JavaScript Jabber",
         "permalink": "http://javascriptjabber.com/",
-        "img": "https://pbs.twimg.com/profile_images/466952257766825984/7UIaZgyJ_normal.jpeg",
+        "img": "https://pbs.twimg.com/profile_images/466952257766825984/7UIaZgyJ_200x200.jpeg",
         "description": {
             "en": "A weekly podcast discussing the superb language JavaScript.",
             "es": "Un podcast semanal de discusión sobre el magnífico lenguaje JavaScript.",
@@ -62,7 +62,7 @@
     {
         "name": "The Web Ahead",
         "permalink": "http://5by5.tv/webahead",
-        "img": "https://pbs.twimg.com/profile_images/1644146721/squarelogo_normal.jpg",
+        "img": "https://pbs.twimg.com/profile_images/1644146721/squarelogo_200x200.jpg",
         "description": {
             "en": "A weekly podcast about changing technologies and the future of the web.",
             "es": "Un podcast semanal sobre el cambio de las tecnologías y el futuro de internet.",
@@ -77,7 +77,7 @@
     {
         "name": "Google Developers",
         "permalink": "http://www.youtube.com/watch?v=L3ugr9BJqIs",
-        "img": "https://pbs.twimg.com/profile_images/440636713354817536/I_Z3SDmE_normal.png",
+        "img": "https://pbs.twimg.com/profile_images/440636713354817536/I_Z3SDmE_200x200.png",
         "description": {
             "en": "Talks, screencasts, interviews, and more relevant to Google's developer products.",
             "es": "Charlas, vídeo tutoriales, entrevistas, y más para desarrolladores de productos de Google.",
@@ -92,7 +92,7 @@
     {
         "name": "The Javascript Show",
         "permalink": "http://javascriptshow.com/",
-        "img": "https://pbs.twimg.com/profile_images/1441001009/skitched-20110713-155647_normal.png",
+        "img": "https://pbs.twimg.com/profile_images/1441001009/skitched-20110713-155647_200x200.png",
         "description": {
             "en": "Featuring news and discussion about the latest topics in the Javascript communities.",
             "es": "Novedades destacadas y discusiones sobre los últimos temas en la comunidad de JavaScript.",
