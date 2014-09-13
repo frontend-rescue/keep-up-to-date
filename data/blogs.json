@@ -2,7 +2,7 @@
     {
         "name": "DailyJS",
         "permalink": "http://dailyjs.com/",
-        "img": "http://twitter.com/api/users/profile_image/dailyjs?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/510809297/Untitled-1_normal.gif",
         "description": {
             "en": "A JavaScript Blog.",
             "he": "בלוג טוב על גאווה סקריפט",
@@ -34,7 +34,7 @@
     {
         "name": "Treehouse Blog",
         "permalink": "http://blog.teamtreehouse.com/",
-        "img": "http://twitter.com/api/users/profile_image/treehouse_blog?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/378800000120934863/af36998196339688895927c8adf0ed6d_normal.png",
         "description": {
             "en": "The Treehouse blog provides valuable content on web development, web design, and startup tips.",
             "he": "הבלוג של בית העץ מספק תוכן בעל ערך בפיתוח אתרים, עיצוב אתרים, וטיפים להפעלה.",
@@ -50,7 +50,7 @@
     {
         "name": "EchoJS",
         "permalink": "http://www.echojs.com/",
-        "img": "http://twitter.com/api/users/profile_image/echojs?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/3225992358/d40ef3d81a730788f7da4e1649fddeef_normal.png",
         "description": {
             "en": "A HackerNews-like site dedicated to JavaScript and Front-end News.",
             "he": "אתר דמוי HackerNews המוקדש לJavaScript ו-Front-end חדשות.",
@@ -67,7 +67,7 @@
     {
         "name": ".net Magazine",
         "permalink": "http://www.creativebloq.com/net-magazine/",
-        "img": "http://twitter.com/api/users/profile_image/netmag?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/378800000697523305/d556bef753c6ac3933e9d5bf9f147418_normal.jpeg",
         "description": {
             "en": ".net is the world’s best-selling magazine for web designers and developers.",
             "he": ".net הוא המגזין הנמכר ביותר בעולם למעצבי אתרים ומפתחים.",
@@ -83,7 +83,7 @@
     {
         "name": "Web Platform",
         "permalink": "http://blog.webplatform.org/",
-        "img": "http://twitter.com/api/users/profile_image/webplatform?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/2691396636/9a00b3fec026f64ba02a55adbfbe5ec0_normal.png",
         "description": {
             "en": "An open community of developers building resources for a better web.",
             "he": "קהילה פתוחה של משאבי בניין מפתחים לאינטרנט טוב יותר.",
@@ -99,7 +99,7 @@
     {
         "name": "HTML5 ROCKS",
         "permalink": "http://html5rocks.com/",
-        "img": "http://twitter.com/api/users/profile_image/ChromiumDev?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/1320180647/chromiumchrome_normal.png",
         "description": {
             "en": "Posts, tutorials, case study & demos.",
             "he": "הדרכות והדגמות מהממוחים הכי טובים בתחום",
@@ -115,7 +115,7 @@
     {
         "name": "HTML5 Doctor",
         "permalink": "http://html5doctor.com/",
-        "img": "http://twitter.com/api/users/profile_image/html5doctor?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/477362201959755776/kWiOv93d_normal.png",
         "description": {
             "en": "A blog to help you learn more about HTML5.",
             "he": "בלוג שיעזרו לך ללמוד יותר על HTML5.",
@@ -131,7 +131,7 @@
     {
         "name": "Nettuts+",
         "permalink": "http://net.tutsplus.com/",
-        "img": "http://twitter.com/api/users/profile_image/nettuts?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/440360139866910721/CSiOk6MT_normal.png",
         "description": {
             "en": "Tutorials, articles, tips, and community for web developers.",
             "he": "הדרכות, מאמרים, טיפים, וקהילה עבור מפתחי אינטרנט.",
@@ -147,7 +147,7 @@
     {
         "name": "QuirksMode",
         "permalink": "http://www.quirksmode.org/",
-        "img": "http://twitter.com/api/users/profile_image/ppk?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/477425031593488384/95qvvrzD_normal.jpeg",
         "description": {
             "en": "It is the prime source for browser compatibility information on the Internet.",
             "he": "זהו המקור העיקרי למידע על תאימות דפדפן באינטרנט.",
@@ -163,7 +163,7 @@
     {
         "name": "CSS-TRICKS",
         "permalink": "http://css-tricks.com/",
-        "img": "http://twitter.com/api/users/profile_image/Real_CSS_Tricks?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/2577325816/zyc2kdppgjf3jbs96uay_normal.png",
         "description": {
             "en": "A web design community.",
             "he": "קהילת עיצוב אתרים.",
@@ -179,7 +179,7 @@
     {
         "name": "CSS Wizardry",
         "permalink": "http://csswizardry.com/",
-        "img": "http://twitter.com/api/users/profile_image/csswizardry?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/378800000842511021/741a0a2593ea55bbd6238f8705c7074f_normal.jpeg",
         "description": {
             "en": "A specialised blog in writing and scaling CSS for large apps and websites.",
             "he": "בלוג המתמחה בכתיבה ומדרוג CSS עבור יישומים ואתרי אינטרנט גדולים.",
@@ -195,7 +195,7 @@
     {
         "name": "Smashing Magazine",
         "permalink": "http://www.smashingmagazine.com/",
-        "img": "http://twitter.com/api/users/profile_image/smashingmag?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/477218012194304000/ytI5hY2H_normal.png",
         "description": {
             "en": "An online magazine for professional Web designers and developers.",
             "he": "מגזין מקוון למעצבי אתרים מקצועיים וכן מפתחים.",
@@ -211,7 +211,7 @@
     {
         "name": "24 ways",
         "permalink": "http://24ways.org/",
-        "img": "http://twitter.com/api/users/profile_image/24ways?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/378800000811026476/b9279ddece7a4e8c8aaa87ba6b27dc14_normal.png",
         "description": {
             "en": "Geeks publish a daily dose of web design and development.",
             "he": "מפתחים עם משקפים שמפרסמים מנה יומית של ידע על עיצוב ובניית אתרים",
@@ -227,7 +227,7 @@
     {
         "name": "A List Apart",
         "permalink": "http://alistapart.com/",
-        "img": "http://twitter.com/api/users/profile_image/alistapart?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/478913945475235840/Jv1mMBOA_normal.jpeg",
         "description": {
             "en": "Design, development, and web content, focused on standards and best practices.",
             "he": "עיצוב, פיתוח ותוכן באינטרנט, התמקדו בסטנדרטים ושיטות עבודה מומלצות.",
@@ -243,7 +243,7 @@
     {
         "name": "JSCentral",
         "permalink": "http://jscentral.org/",
-        "img": "http://twitter.com/api/users/profile_image/jscentral?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/1687185247/logo_medium_normal.png",
         "description": {
             "en": "JavaScript news and links.",
             "he": "מקור מעולה לפיתוח בגוואה סקריפט",
@@ -259,7 +259,7 @@
     {
         "name": "JSGoodies",
         "permalink": "http://js.gd/",
-        "img": "http://twitter.com/api/users/profile_image/jsgoodies?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/1259896749/jsgd_paul_normal.png",
         "description": {
             "en": "Mainly web-focused; in particular, most are JS-focused.",
             "he": "בעיקר ממוקד אינטרנט",
@@ -275,7 +275,7 @@
     {
         "name": "SitePoint",
         "permalink": "http://www.sitepoint.com/",
-        "img": "http://twitter.com/api/users/profile_image/sitepointdotcom?size=bigger",
+        "img": "https://pbs.twimg.com/profile_images/443563096318033920/tQPyOEvM_normal.png",
         "description": {
             "en": "An online media company providing cutting-edge content for web professionals.",
             "he": "חברת מדיה באינטרנט לספק תוכן חדשני לאנשי מקצוע באינטרנט.",
