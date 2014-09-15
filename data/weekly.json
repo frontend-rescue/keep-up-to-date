@@ -147,5 +147,20 @@
             "pl": "Bezpłatny, tygodniowy email z przeglądem nowości i artykułów o JavaScript.",
             "du": "Een gratis, wekelijkse e-mail, met een collectie van JavaScript nieuws en artikelen."
         }
+    },
+
+    {
+        "name": "Front-end Rapport",
+        "permalink": "http://tinyletter.com/front-end-rapport",
+        "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "description": {
+            "en": "Weekly front-end news and updates from the Lullabot team.",
+            "es": "Noticias front-end Semanal y actualizaciones del equipo Lullabot.",
+            "pt": "Weekly notícias front-end e atualizações da equipe Lullabot.",
+            "de": "Wochen Front-End- News und Updates aus dem Lullabot Team.",
+            "fr": "De nouvelles hebdomadaire front-end et les mises à jour de l'équipe de Lullabot.",
+            "pl": "Weekly News czołowy i aktualizacje z zespołu Lullabot.",
+            "du": "Wekelijkse front-end nieuws en updates van de Lullabot team."
+        }
     }
 ]
