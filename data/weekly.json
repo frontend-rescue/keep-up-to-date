@@ -105,21 +105,6 @@
     },
 
     {
-        "name": "The Modern Web Observer",
-        "permalink": "http://appendto.com/modern-web-observer",
-        "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
-        "description": {
-            "en": "Biweekly email newsletter about issues and trends in front-end web development.",
-            "es": "Correo electrónico quincenal con novedades sobre cuestiones y tendencias en desarrollo de front-end web.",
-            "pt": "Newsletter sobre publicações e tendências no desenvolvimento front-end.",
-            "de": "Zweiwöchentlicher E-Mail Newsletter über Themen und Trends in der Front-End Webentwicklung.",
-            "fr": "Lettre d'information bimensuelle par mail sur les problématiques et tendances dans le développement front-end.",
-            "pl": "Dwutygodniowy newsletter o zagadnieniach i trendach w świecie Front-End.",
-            "du": "Tweewekelijkse e-mailnieuwsbrief over problemen en trends in front-end webontwikkeling."
-        }
-    },
-
-    {
         "name": "Daily Nerd",
         "permalink": "http://dailynerd.nl/",
         "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
