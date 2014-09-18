@@ -57,5 +57,20 @@
             "pl": "Przedstawia najlepsze w dziedzinie JavaScript i progresywnym web development.",
             "du": "Bevat het beste in JavaScript and progressieve webontwikkeling."
         }
+    },
+
+    {
+        "name": "ColdFront",
+        "permalink": "http://coldfrontconf.com/",
+        "img": "https://pbs.twimg.com/profile_images/463385836340269056/wspCZk1e_200x200.png",
+        "description": {
+            "en": "ColdFront is a one-day front-end conference in Copenhagen.",
+            "es": "Coldfront es una conferencia de front-end de un día en Copenhague.",
+            "pt": "ColdFront é uma conferência de front-end de um dia em Copenhague.",
+            "de": "Coldfront ist ein Ein-Tages-Front-End-Konferenz in Kopenhagen.",
+            "fr": "ColdFront est une conférence d'une journée avant la fin de Copenhague.",
+            "pl": "ColdFront jest jednodniowa czołowy konferencja w Kopenhadze.",
+            "du": "Coldfront is een eendaagse front-end in Kopenhagen."
+        }
     }
 ]
