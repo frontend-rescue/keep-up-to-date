@@ -87,20 +87,5 @@
             "pl": "Dyskusje, screencasty, wywiady i bardziej istotne rzeczy dla produktów developer od Google.",
             "du": "Discussies, schermopnames, interviews en meer relevante informatie over  Google's producten voor ontwikkelaars."
         }
-    },
-
-    {
-        "name": "The Javascript Show",
-        "permalink": "http://javascriptshow.com/",
-        "img": "https://pbs.twimg.com/profile_images/1441001009/skitched-20110713-155647_200x200.png",
-        "description": {
-            "en": "Featuring news and discussion about the latest topics in the Javascript communities.",
-            "es": "Novedades destacadas y discusiones sobre los últimos temas en la comunidad de JavaScript.",
-            "pt": "Com notícias e discussões sobre os últimos tópicos das comunidades de JavaScript.",
-            "de": "News und Diskussionen über aktuelle Themen in den Javascript-Communities.",
-            "fr": "Nouveautés et discussions sur les derniers thèmes dans les communautés JavaScript.",
-            "pl": "Przedstawia nowości i dyskusje o najnowszych tematach w społeczności JavaScript.",
-            "du": "Opvallend nieuws en discussies over de nieuwste onderwerpen in de Javascript gemeenschap."
-        }
     }
 ]

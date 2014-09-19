@@ -60,6 +60,22 @@
     },
 
     {
+
+        "name": "Front End Ops Conf",
+        "permalink": "http://www.feopsconf.com/",
+        "img": "https://pbs.twimg.com/profile_images/429436724918251520/QVTjte-t_200x200.png",
+        "description": {
+            "en": "A 2-day conference in San Francisco dedicated to the emerging discipline of front end operations.",
+            "es": "Una conferencia de 2 días en San Francisco dedicada a la disciplina emergente de las operaciones de front-end.",
+            "pt": "A conferência de dois dias em San Francisco dedicada à disciplina emergente das operações de front-end.",
+            "de": "Ein 2-Tages-Konferenz in San Francisco zu den aufstrebenden Disziplin der Front-End-Operationen gewidmet.",
+            "fr": "Une conférence de 2 jours à San Francisco dédié à la nouvelle discipline des opérations frontales.",
+            "pl": "2-dniowa konferencja w San Francisco poświęcona powstającej dyscypliny operacji Zaczepy.",
+            "du": "Een 2-daagse conferentie in San Francisco dat zich toelegt op de opkomende discipline van de front-end activiteiten."
+        }
+    },
+
+    {
         "name": "ColdFront",
         "permalink": "http://coldfrontconf.com/",
         "img": "https://pbs.twimg.com/profile_images/463385836340269056/wspCZk1e_200x200.png",
