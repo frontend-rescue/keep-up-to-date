@@ -60,6 +60,7 @@
     },
 
     {
+
         "name": "Front End Ops Conf",
         "permalink": "http://www.feopsconf.com/",
         "img": "https://pbs.twimg.com/profile_images/429436724918251520/QVTjte-t_200x200.png",
@@ -71,6 +72,21 @@
             "fr": "Une conférence de 2 jours à San Francisco dédié à la nouvelle discipline des opérations frontales.",
             "pl": "2-dniowa konferencja w San Francisco poświęcona powstającej dyscypliny operacji Zaczepy.",
             "du": "Een 2-daagse conferentie in San Francisco dat zich toelegt op de opkomende discipline van de front-end activiteiten."
+        }
+    },
+
+    {
+        "name": "ColdFront",
+        "permalink": "http://coldfrontconf.com/",
+        "img": "https://pbs.twimg.com/profile_images/463385836340269056/wspCZk1e_200x200.png",
+        "description": {
+            "en": "ColdFront is a one-day front-end conference in Copenhagen.",
+            "es": "Coldfront es una conferencia de front-end de un día en Copenhague.",
+            "pt": "ColdFront é uma conferência de front-end de um dia em Copenhague.",
+            "de": "Coldfront ist ein Ein-Tages-Front-End-Konferenz in Kopenhagen.",
+            "fr": "ColdFront est une conférence d'une journée avant la fin de Copenhague.",
+            "pl": "ColdFront jest jednodniowa czołowy konferencja w Kopenhadze.",
+            "du": "Coldfront is een eendaagse front-end in Kopenhagen."
         }
     }
 ]
