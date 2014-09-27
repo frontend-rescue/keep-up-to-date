@@ -1,7 +1,7 @@
 ---
 id: angelina-fabbro
 name: Angelina Fabbro
-twitter: angelinamagnum
+twitter: hopefulcyborg
 ---
 
 Ik volg mensen op twitter die nieuwe dingen creëren. Sommige mensen volgen liever alleen blogs, maar ik zie liever wat de makers aanraden. Mijn Twitter feed heeft deels mijn oude RSS feed vervangen; Ik ben eerder geneigd een artikel te lezen van iemand die zijn broncode erbij plaatst. Dat vertelt me dat diegene zowel een actieve ontwikkelaar is als iemand die over zijn vak nadenkt.

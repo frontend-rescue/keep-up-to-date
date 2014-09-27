@@ -1,7 +1,7 @@
 ---
 id: angelina-fabbro
 name: Angelina Fabbro
-twitter: angelinamagnum
+twitter: hopefulcyborg
 ---
 
 Śledzę ludzi na Twitterze którzy tworzą nowe rzeczy. Niektórzy ludzie lubią śledzić tylko blogi, ale ja lubię widzieć co inni ludzie którzy tworzą nowe rzeczy polecają. Mój feed na Twiterze w pewnym sensie zastąpił mój stary RSS do pewnego stopnia - jestem bardziej skłonna przeczytać artykuł zarekomendowany przez kogoś kto postuje także razem jego repozytoria. Tego typu zachowanie mówi mi że w większości przypadków ta osoba jest aktywnym deweloperem a także o tym że myśli o swoim fachu i projektach.
