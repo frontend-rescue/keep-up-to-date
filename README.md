@@ -31,7 +31,7 @@ If you want to contribute to improve this recipe, please, you should [read our w
 - Web: [http://alexsexton.com](http://alexsexton.com)
 
 #### Angelina Fabbro
-- Twitter: [@angelinamagnum](https://twitter.com/angelinamagnum)
+- Twitter: [@hopefulcyborg](https://twitter.com/hopefulcyborg)
 - Web: [http://realityhacking.net](http://realityhacking.net)
 
 #### Axel Rauschmayer
