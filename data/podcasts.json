@@ -10,7 +10,8 @@
             "de": "Ein Podcast über Front-End Webdesign, Entwicklung und UX.",
             "fr": "Un podcast sur le design web front-end, le développement et l'UX (User eXperience).",
             "pl": "Podkast o front-end, web design, development i UX.",
-            "du": "Een praatprogramma over front end, webdesign, ontwikkeling en gebruikerservaringen."
+            "du": "Een praatprogramma over front end, webdesign, ontwikkeling en gebruikerservaringen.",
+            "jp": "フロントエンド・ウェブ・デザイン／開発／UXに関するポッドキャスト"
         }
     },
 
@@ -25,7 +26,8 @@
             "de": "Hanselminutes Podcast ist \"Frische Luft\" für Entwickler.",
             "fr": "Le podcast de Hanselminutes est un \"bold d'air\" pour les développeurs.",
             "pl": "Hanselminutes Podcast jest \"Świerzym powietrzem\" dla developerów.",
-            "du": "Hanselminutes praatpragramma is \"Frisse lucht\" voor ontwikkelaars."
+            "du": "Hanselminutes praatpragramma is \"Frisse lucht\" voor ontwikkelaars.",
+            "jp": "\"Fresh Air\"（アメリカの有名なラジオ・トーク・ショー）のディベロッパー版、と言えるポッドキャスト"
         }
     },
 
@@ -40,7 +42,8 @@
             "de": "The award winning Big Web Show features special guests and topics. It's everything web that matters.",
             "fr": "Le Big Web Show, plusieurs fois récompensés, présente des invités spéciaux et des sujets. Il aborde tout ce qui compte dans le monde du web.",
             "pl": "Zdobywący nagrody 'Big Web Show' przedstawia specialnych gości i tematy. Wszystko o web, co ma znaczenie.",
-            "du": "The award winning Big Web Show features special guests and topics. It's everything web that matters."
+            "du": "The award winning Big Web Show features special guests and topics. It's everything web that matters.",
+            "jp": "受賞歴もあるBig Web Showでは、特別ゲストやトピックを通して、ウェブについて欠かせない話題が提供されます"
         }
     },
 
@@ -55,7 +58,8 @@
             "de": "Ein wöchentlicher Podcast, der die herrliche Sprache JavaScript diskutiert.",
             "fr": "Un podcast hebdomadaire à propos du superbe langage JavaScript.",
             "pl": "Tygodniowy podkast omawiający wspaniały język JavaScript.",
-            "du": "Een wekelijks praatprogramma dat de prachtige programmeertaal JavaScript bespreekt."
+            "du": "Een wekelijks praatprogramma dat de prachtige programmeertaal JavaScript bespreekt.",
+            "jp": "優秀な言語としてのJavaScriptを話し合う、週刊ポッドキャスト"
         }
     },
 
@@ -70,7 +74,8 @@
             "de": "Ein wöchentlicher Podcast über sich-verändernde Technologien und die Zukunft des Webs.",
             "fr": "Un podcast hebdomadaire sur les changements technologiques et le futur du web.",
             "pl": "Tygodniowy podkast o zmieniających się technologiach i przyszłości sieci.",
-            "du": "Een wekelijks praatprogramma over veranderende technieken en de toekomst van het web."
+            "du": "Een wekelijks praatprogramma over veranderende technieken en de toekomst van het web.",
+            "jp": "変わりゆく技術とウェブの未来を話し合う、週刊ポッドキャスト"
         }
     },
 
@@ -85,7 +90,8 @@
             "de": "Gespräche, Screencasts, Interviews und mehr bezogen auf Google's Entwicklerprodukte",
             "fr": "Des discussions, des tutoriels vidéos, des interviews, plus particulièrement centrés sur les produits développés par Google.",
             "pl": "Dyskusje, screencasty, wywiady i bardziej istotne rzeczy dla produktów developer od Google.",
-            "du": "Discussies, schermopnames, interviews en meer relevante informatie over  Google's producten voor ontwikkelaars."
+            "du": "Discussies, schermopnames, interviews en meer relevante informatie over  Google's producten voor ontwikkelaars.",
+            "jp": "開発者向けにGoogleが提供する製品情報を、討論やスクリーンキャスト、インタビューなどを交えて提供するポッドキャスト"
         }
     }
 ]

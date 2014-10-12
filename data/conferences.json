@@ -10,7 +10,8 @@
             "de": "Konferenz der holländischen Non-Profit Handelsorganisation für Front-End Entwickler.",
             "fr": "Conférence de l'organisation professionnelle hollandaise, à but non lucratif, pour les développeurs front-end.",
             "pl": "Konferencja duńskiej organizacji non-profit dla front-end deweloperów.",
-            "du": "Conferentie georganiseerd door de Nederlandse vereniging van front-end ontwikkelaars."
+            "du": "Conferentie georganiseerd door de Nederlandse vereniging van front-end ontwikkelaars.",
+            "jp": "オランダ非営利通商組合による、フロントエンド・ディベロッパー向けカンファレンス"
         }
     },
 
@@ -25,7 +26,8 @@
             "de": "Ein Treffen bei dem Front-End Liebhaber und Tech-Unternehmer die neuesten Trends entdecken.",
             "fr": "Un lieu de rassemblement où les fans du front-end et les entrepreneurs du high-tech peuvent découvrir les dernières tendances.",
             "pl": "Zrzeszenie gdzie front-end deweloperzy i tech przedsiębiorcy odkrywają najnowsze trendy.",
-            "du": "Een bijeenkomst waar liefhebbers van front-end en technische ondernemers de laatste trends ontdekken."
+            "du": "Een bijeenkomst waar liefhebbers van front-end en technische ondernemers de laatste trends ontdekken.",
+            "jp": "フロントエンド・ディベロッパーと技術志向の起業家が一堂に会して、最新のトレンドを追っていくミートアップ"
         }
     },
 
@@ -40,7 +42,8 @@
             "de": "Mittlerweile die größte JavaScript- und HTML5-Konferenz der Welt.",
             "fr": "Est devenu la plus grosse conférence de développeurs JavaScript et HTML5 dans le monde.",
             "pl": "HTML5DevConf został największą światową konferencją dotyczącą JavaScript i HTML5.",
-            "du": "Is uitgegroeid tot de grootste JavaScript and HTML5 conferentie voor ontwikkelaars ter wereld."
+            "du": "Is uitgegroeid tot de grootste JavaScript and HTML5 conferentie voor ontwikkelaars ter wereld.",
+            "jp": "JavaScriptやHTML5のディベロッパー向けとして今や世界最大級にまで成長したカンファレンス"
         }
     },
 
@@ -55,7 +58,8 @@
             "de": "Das Beste aus JavaScript und Progressive Web Development.",
             "fr": "Démonstration de ce qui se fait de mieux dans le JavaScript et le développement web progressif.",
             "pl": "Przedstawia najlepsze w dziedzinie JavaScript i progresywnym web development.",
-            "du": "Bevat het beste in JavaScript and progressieve webontwikkeling."
+            "du": "Bevat het beste in JavaScript and progressieve webontwikkeling.",
+            "jp": "JavaScriptやプログレッシブなウェブ開発の世界で最高峰の人たちを集めるカンファレンス"
         }
     },
 
@@ -71,7 +75,8 @@
             "de": "Ein 2-Tages-Konferenz in San Francisco zu den aufstrebenden Disziplin der Front-End-Operationen gewidmet.",
             "fr": "Une conférence de 2 jours à San Francisco dédié à la nouvelle discipline des opérations frontales.",
             "pl": "2-dniowa konferencja w San Francisco poświęcona powstającej dyscypliny operacji Zaczepy.",
-            "du": "Een 2-daagse conferentie in San Francisco dat zich toelegt op de opkomende discipline van de front-end activiteiten."
+            "du": "Een 2-daagse conferentie in San Francisco dat zich toelegt op de opkomende discipline van de front-end activiteiten.",
+            "jp": "二日間に渡りサンフランシスコにて行われ、フロントエンド・オペレーションの最先端が話し合われるカンファレンス"
         }
     },
 
@@ -86,7 +91,8 @@
             "de": "Coldfront ist ein Ein-Tages-Front-End-Konferenz in Kopenhagen.",
             "fr": "ColdFront est une conférence d'une journée avant la fin de Copenhague.",
             "pl": "ColdFront jest jednodniowa czołowy konferencja w Kopenhadze.",
-            "du": "Coldfront is een eendaagse front-end in Kopenhagen."
+            "du": "Coldfront is een eendaagse front-end in Kopenhagen.",
+            "jp": "コペンハーゲンにて開催される、一日限りのフロントエンド・カンファレンス"
         }
     }
 ]
