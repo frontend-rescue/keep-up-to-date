@@ -1,7 +1,7 @@
 ---
-title: The recipe
+title: レシピ
 ---
 
-The web is a rapidly evolving universe. An important part of our job as front-end developers is keeping up to date and staying close to new tools, trends and workflows.
+ウェブの世界は、急激なスピードで発展しています。最新の情報や技術を身につけ、新しいツールやトレンド、ワークフローに注意を払っている事が、フロントエンド・ディベロッパーの大事な使命として挙げられます。
 
-Hundreds of blog posts and articles are published every day, but there is no way you can read all of them. We think you should have a strategy to keep up to date, so we have created this recipe.
+毎日何百というブログ投稿や記事が発生します。しかし、全てに目を通すのは無理です。皆さんが最新の情報や技術を上手に得る方法を確立する事が大事だと、私達は考えました。そこで生み出されたのが、このレシピです。

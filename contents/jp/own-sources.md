@@ -1,6 +1,6 @@
 ---
-title: Get Your Own
-subtitle: Sources
+title: あなたにピッタリの方法を
+subtitle: 見極める
 ---
 
-It's really important that you find your own, unique way to be up to date. Take a look at how these great developers are doing it!
+最新の技術や情報を得る為に、あなたにピッタリの方法を見極めていく事が、大変重要になります。素晴らしい開発者達がどのような方法を確立してきたか、ちょっと覗いてみましょう！

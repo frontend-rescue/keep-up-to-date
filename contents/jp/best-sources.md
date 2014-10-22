@@ -1,10 +1,10 @@
 ---
-title: Find the best
-subtitle: sources
-weekly: Weekly News
-footer: See full list
+title: 人気の 情報源を
+subtitle: チェックしてみる
+weekly: 毎週配信されるニュース
+footer: もっと見る
 ---
 
-Around the web there is lots of useful information about front-end news and trends, but sometimes it's too hard to find and read all of them. It's a mess and you will go crazy!
+ウェブにはフロントエンドに関するニュースやトレンドについての情報がたくさんあります。ただ、それら全てを拾い読みすることが難しい事もあるでしょう。散らばり方が大変で、手を付けられないなんて事もありますよね！
 
-Therefore, we have put together the best sources about news and trends in the front-end world.
+そんなあなたの為に、私達はフロントエンド界のニュースやトレンドを見つけ出せる人気の情報源を集めてみました。

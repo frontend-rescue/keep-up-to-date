@@ -1,8 +1,7 @@
 ---
-title: Attend
-subtitle: conferences
-footer: See full list
+title: カンファレンスに
+subtitle: 参加してみる
+footer: もっと見る
 ---
 
-Thousands of developers attend conferences to promote the latest technologies, share ideas, thoughts or experiences and learn from others. They discuss the best practices, standards and trends.
-You should participate in order to meet awesome people and organizations who do what you do.
+最新の技術を広めたり、アイデアや思い、経験を共有したり、他の人から学んだりする為に何千にも登る開発者がカンファレンスに参加します。理想的な取り組み方や基準となるべきもの、トレンドなども話し合われます。あなたと同じ事に取り組んでいる素晴らしい人や企業に出会うためにも、カンファレンスに参加してみましょう。
