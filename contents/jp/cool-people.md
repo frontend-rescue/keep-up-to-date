@@ -1,9 +1,9 @@
 ---
-title: Follow
-subtitle: cool people
-footer: See full list
+title: 素晴らしい開発者を
+subtitle: フォローしてみる
+footer: もっと見る
 ---
 
-Front-end leaders help you to stay on top of relevant news and trends. They are in-the-know and they work on a specific topic.
+フロントエンド界を牽引している開発者達は、あなたが知りたいと思っている事に関連したニュースやトレンドを提供してくれます。彼らには、問題や解決策が見えていますし、トピックを掘り下げていってくれます。
 
-Twitter can be a great place to find people who are in-the-know.
+Twitterは、そんな彼らを見つけるのに大変有効な場所です。
