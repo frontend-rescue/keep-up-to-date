@@ -1,20 +1,9 @@
+- var languages = locals.languages;
+- var currentLang = locals.lang;
+
 nav.languages
-    ul
-        li
-            a#en(href='http://uptodate.frontendrescue.org/', title='English') English
-        li
-            a#es(href='http://uptodate.frontendrescue.org/es', title='Español') Español
-        li
-            a#pt(href='http://uptodate.frontendrescue.org/pt', title='Português') Português
-        li
-            a#de(href='http://uptodate.frontendrescue.org/de', title='Deutsch') Deutsch
-        li
-            a#fr(href='http://uptodate.frontendrescue.org/fr', title='Français') Français
-        li
-            a#pl(href='http://uptodate.frontendrescue.org/pl', title='Polski') Polski
-        li
-            a#du(href='http://uptodate.frontendrescue.org/du', title='Dutch') Dutch
-        li
-            a#he(href='http://uptodate.frontendrescue.org/he', title='Hebrew') Hebrew
-        li
-            a#jp(href='http://uptodate.frontendrescue.org/jp', title='日本語') 日本語
+    strong(class="language-active #{currentLang}")= languages[currentLang]
+    ul.languages-list
+        each lang, key in languages
+            li
+                a(href="http://uptodate.frontendrescue.org/" + (key=== 'en' ? '' : key), title=lang, class=key)= lang

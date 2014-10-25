@@ -1,9 +1,12 @@
+var languages = require('./languages.json');
+
 module.exports = function (grunt) {
     'use strict';
 
     var lang = grunt.option('lang') || 'en',
         config = grunt.file.readJSON('config.json');
 
+    config.locals.languages = languages;
     config.locals.lang = lang;
     config.contents = './contents/' + lang;
 

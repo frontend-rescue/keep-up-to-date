@@ -26,6 +26,7 @@ a:hover {
 .logo {
     text-transform: uppercase;
     color: #FFF;
+    padding-top: .6em;
     padding-bottom: 1.2em;
 }
 
@@ -70,21 +71,61 @@ a:hover {
 
 .languages {
     position: absolute;
-    top: 0px;
-    right: 5px;
+    top: 10px;
+    left: 50%;
+    width: 120px;
+    padding: 0 10px;
+    margin-left: -60px;
+    z-index: 2;
+    font-size: 0.813em;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    letter-spacing: .5px;
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-.languages li {
-    margin: 10px 5px;
+.languages-list {
+    display: none;
 }
 
-.languages li a {
+.languages-list li {
     display: block;
-    width: 30px;
-    height: 22px;
-    text-indent: -100px;
-    overflow: hidden;
-    background: center center no-repeat;
+    width: 100%;
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+
+.language-active,
+.languages-list li a {
+    display: inline-block;
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    text-indent: 50px;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+    cursor: pointer;
+    font-weight: 200;
+    color: #f5f5f5;
+}
+
+.languages-list li a:hover {
+    background-color: rgba(0,0,0,.5);
+}
+
+.languages:hover {
+    background: rgba(0,0,0,.8);
+    padding-bottom: 5px;
+}
+
+.languages:hover .language-active {
+    opacity: .5;
+}
+
+.languages:hover .languages-list {
+    display: block;
 }
 
 /*
@@ -633,11 +674,9 @@ html[dir="rtl"] .full-list a {
 @media all and (min-width: 54em) {
 
     .languages {
-        right: 5px;
-    }
-
-    .languages li {
-        display: inline-block;
+        top: 25px;
+        right: 35px;
+        left: auto;
     }
 
     .layout {
