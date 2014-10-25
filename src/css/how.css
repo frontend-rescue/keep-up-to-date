@@ -111,6 +111,11 @@ a:hover {
     color: #f5f5f5;
 }
 
+html[dir="rtl"] .language-active,
+html[dir="rtl"] .languages-list li a {
+    background-position: 80px center;
+}
+
 .languages-list li a:hover {
     background-color: rgba(0,0,0,.5);
 }
