@@ -2,6 +2,8 @@
 title: Vind de beste
 subtitle: bronnen
 weekly: Wekelijks Nieuws
+blogs: Blogs
+podcasts: Podcasts
 footer: Bekijk de rest
 ---
 

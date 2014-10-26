@@ -2,6 +2,8 @@
 title: Encontre as&nbsp;melhores
 subtitle: fontes
 weekly: Novidades Semanais
+blogs: Blogs
+podcasts: Podcasts
 footer: Ver lista completa
 ---
 

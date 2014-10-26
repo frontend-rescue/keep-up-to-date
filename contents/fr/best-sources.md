@@ -2,6 +2,8 @@
 title: Trouver les meilleures
 subtitle: sources
 weekly: Nouveautés hebdomadaires
+blogs: Blogs
+podcasts: Podcasts
 footer: Voir la liste complète
 ---
 
