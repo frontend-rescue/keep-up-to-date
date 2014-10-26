@@ -1,3 +1,3 @@
 ---
-title: Thanks
+title: 協力してくれた仲間達
 ---
