@@ -1,5 +1,5 @@
 ---
-title: 人気の 情報源を
+title: 人気の情報源を
 subtitle: チェックしてみる
 weekly: 毎週配信されるニュース
 footer: もっと見る
