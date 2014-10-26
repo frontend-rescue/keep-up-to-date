@@ -1,3 +1,3 @@
 ---
-title: The Team
+title: サイト運営チーム
 ---
