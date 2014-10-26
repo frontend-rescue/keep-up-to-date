@@ -9,7 +9,7 @@ section#find-the-best-sources.section-step
         != bestsources.html
 
     article.source-type
-        h4.source-type-title Blogs
+        h4.source-type-title #{bestsources.metadata.blogs}
         ul.best-sources-found.best-blogs
             each blog, i in blogs
                 li.box-follow.box-follow-medium
@@ -37,7 +37,7 @@ section#find-the-best-sources.section-step
             a(href='https://twitter.com/frontendrescue/lists/best-sources/members', target='_blank') #{bestsources.metadata.footer}
 
     article.source-type
-        h4.source-type-title Podcasts
+        h4.source-type-title #{bestsources.metadata.podcasts}
         ul.best-sources-found.best-podcasts
             each podcast, i in podcasts
                 li.box-follow.box-follow-medium

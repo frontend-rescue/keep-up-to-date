@@ -2,6 +2,8 @@
 title: 人気の情報源を
 subtitle: チェックしてみる
 weekly: 毎週配信されるニュース
+blogs: ブログ
+podcasts: ポッドキャスト
 footer: もっと見る
 ---
 
