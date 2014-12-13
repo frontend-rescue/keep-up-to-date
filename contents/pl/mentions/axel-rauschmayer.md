@@ -4,7 +4,7 @@ name: Axel Rauschmayer
 twitter: rauschma
 ---
 
-Polecam 3 źródła do bycia na bierząco z front-end.
+Polecam 3 źródła do bycia na bieżąco z front-end.
 
 Pierwsze - Twitter jest nieoceniony. Zacznij z popularnymi ludźmi JavaScript którymi znasz (np. autor Twojego ulubionego framework) i idź z tego punktu - prędzej czy później znajdziesz ciekawe retweety, rekomendacje kogo śledzić etc.
 
