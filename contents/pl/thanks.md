@@ -1,3 +1,3 @@
 ---
-title: Podzękowania
+title: Podziękowania
 ---
