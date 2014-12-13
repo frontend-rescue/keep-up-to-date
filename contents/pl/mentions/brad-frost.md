@@ -8,5 +8,5 @@ Ja mieszkam w Twitterze. Od niego dowiaduję się co jest popularne i nadchodzą
 
 Także nadal czytuję powiązane z siecią RSS feeds, książki, magazyny i więcej kiedy podróżuję.
 
-Inną rzeczą jaką znajduję ważną do bycia na bierząco z nowymi technologiami jest eksperymentowanie. Znaleźć dodatkowy czas poza codzienną pracą i pracować nad swoim projektem, pomagać nad czyimś projektem, czy bawić się nową technologią.
+Inną rzeczą jaką znajduję ważną do bycia na bieżąco z nowymi technologiami jest eksperymentowanie. Znaleźć dodatkowy czas poza codzienną pracą i pracować nad swoim projektem, pomagać nad czyimś projektem, czy bawić się nową technologią.
 Baw się, nie uda, uda, podziel się, powtórz.
