@@ -20,7 +20,7 @@
   ],
   "scripts": {
     "start": "wintersmith preview",
-    "build": "wintersmith build"
+    "build": "make build"
   },
   "repository": {
     "type": "git",
