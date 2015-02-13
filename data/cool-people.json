@@ -237,5 +237,15 @@
             "img": "https://pbs.twimg.com/profile_images/528509543119343616/bDhQei1L_200x200.jpeg"
         },
         "tags": ["JavaScript"]
+    },
+
+    {
+        "name": "Jay Kanakiya",
+        "site": "http://jaykanakiya.com/",
+        "twitter": {
+            "user": "techiejayk",
+            "img": "http://twitter.com/api/users/profile_image/techiejayk?size=bigger"
+        },
+        "tags": ["JavaScript","CSS"]
     }
 ]
