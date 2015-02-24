@@ -93,5 +93,13 @@
             "du": "Discussies, schermopnames, interviews en meer relevante informatie over  Google's producten voor ontwikkelaars.",
             "jp": "開発者向けにGoogleが提供する製品情報を、討論やスクリーンキャスト、インタビューなどを交えて提供するポッドキャスト"
         }
+    },
+    {
+        "name": "Zone of Front-Enders",
+        "permalink": "http://zofe.com.br/",
+        "img": "http://twitter.com/api/users/profile_image/zofepod?size=bigger",
+        "description": {
+            "pt": "Podcast sobre desenvolvimento web, front-end e afins"
+        }
     }
 ]
