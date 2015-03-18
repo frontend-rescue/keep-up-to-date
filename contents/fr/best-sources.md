@@ -1,5 +1,5 @@
 ---
-title: Trouver les meilleures
+title: Trouver les meilleures informations
 subtitle: sources
 weekly: Nouveautés hebdomadaires
 blogs: Blogs
@@ -7,6 +7,6 @@ podcasts: Podcasts
 footer: Voir la liste complète
 ---
 
-Autour du web, il y a de nombreuses informations utiles sur les nouveautés et les tendances du "front-end". Mais, quelquefois, il est trop difficile de les trouver et toutes les lire. C'est un vrai bordel et vous risquez de finir par devenir fou!
+Il y a une profusion d'informations utiles sur les nouveautés et les tendances du "front-end". Par contre, il est difficile de s'y retrouver et de tout lire. Un vrai bazar, de quoi devenir fou !
 
-Pour cette raison, nous avons regroupés les meilleures sources sur les nouveautés du monde du "front-end".
+Pour cette raison, nous avons regroupés les meilleures ressources sur les nouveautés de notre discipline.

@@ -1,6 +1,6 @@
 ---
 title: Trouvez vos propres
-subtitle: Sources
+subtitle: sources
 ---
 
-Il est vraiment important de que vous trouviez votre propre et unique manière de vous tenir à jour. Regardez comment ces formidables développeurs le font de leur côté!
+Il est vraiment important de que vous trouviez votre propre et unique manière de vous tenir à jour. Inspirez vous, ci-dessous des astuces de développeurs de référence.
