@@ -93,5 +93,21 @@
             "du": "The latest news in the JavaScript community.",
             "jp": "The latest news in the JavaScript community."
         }
+    },
+
+    {
+        "name": "Responsive Web Design Podcast",
+        "permalink": "http://responsivewebdesign.com/podcast/",
+        "img": "https://pbs.twimg.com/profile_images/378800000862825347/05g33ckG_200x200.png",
+        "description": {
+            "en": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep.",
+            "es": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep.",
+            "pt": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep.",
+            "de": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep.",
+            "fr": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep.",
+            "pl": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep.",
+            "du": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep.",
+            "jp": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep."
+        }
     }
 ]
