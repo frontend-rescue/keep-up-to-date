@@ -64,38 +64,6 @@
     },
 
     {
-        "name": "Mozilla Hacks Weekly Articles",
-        "permalink": "http://hacks.mozilla.org/category/mozilla-hacks-weekly",
-        "img": "https://pbs.twimg.com/profile_images/2631319542/aa071efb0ed133973c2ab9fea8b5f6d8_200x200.png",
-        "description": {
-            "en": "An agnostic web browser resource, focused on the Open Web and sharing knowledge.",
-            "es": "Una fuenta agnóstica sobre el navegador web, centrada en la Web Abierta y el compartir conocimiento.",
-            "pt": "Um recurso agnóstico de navegador web, focado na Open Web e compartilhamento de conhecimentos.",
-            "de": "Eine agnostische Web Browser Ressource mit Fokus auf Open Web und dem Teilen von Wissen.",
-            "fr": "Une ressource agnostique en terme de navigateur web, axée sur le Web Ouvert et le partage des connaissances.",
-            "pl": "Agnostyczne źródło o przeglądarkach, skupiające się na Open Web i dzieleniu się wiedzą.",
-            "du": "Kritische webbrowser bronnen, gericht op heet open internet en het delen van informatie.",
-            "jp": "Open Webや知識の共有という考えの基に提供される、ウェブブラウザ全般の情報"
-        }
-    },
-
-    {
-        "name": "Status Code",
-        "permalink": "http://statuscode.org/",
-        "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
-        "description": {
-            "en": "A Weekly Programming Newsletter for Developers and Programmers.",
-            "es": "Un resumen de novedades semanales para desarrolladores y programadores.",
-            "pt": "Uma Newsletter semanal de programação para desenvolvedores.",
-            "de": "Ein wöchentlicher Programmiernewsletter für Entwickler und Programmierer.",
-            "fr": "Une lettre d'information hebdomadaire pour les développeurs et programmeurs.",
-            "pl": "Tygodniowy newsletter o programowaniu dla deweloperów i programistów.",
-            "du": "Een wekelijkse nieuwsbrief over programeren voor ontwikkelaars en programmeurs.",
-            "jp": "ディベロッパーやプログラマーに向けて配信されるニュースレターを週に一度配信"
-        }
-    },
-
-    {
         "name": "Responsive Design Newsletter",
         "permalink": "http://responsivedesignweekly.com/",
         "img": "https://pbs.twimg.com/profile_images/2305896960/k6ksev6zphq2cwcnk5wr_200x200.png",
@@ -108,22 +76,6 @@
             "pl": "Przegląd artykułów o płynnym designie, narzędzia, wskazówki, tutoriale i inspirujące linki.",
             "du": "Collectie van 'responsive design' artikelen, gereedschappen, tips, handleidingen en inspirerende links.",
             "jp": "レスポンシブ・デザインに関する記事やツール、役立つ情報、チュートリアル、次へのヒントとなるリンク集"
-        }
-    },
-
-    {
-        "name": "Daily Nerd",
-        "permalink": "http://dailynerd.nl/",
-        "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
-        "description": {
-            "en": "A selection of links, mostly about front-end development.",
-            "es": "Una selección de vínculos, mayormente sobre desarrollo de front-end.",
-            "pt": "Uma seleção de links, especialmente sobre desenvolvimento front-end.",
-            "de": "Eine Linksammlung, hauptsächlich über Front-End Entwicklung.",
-            "fr": "Une sélection de liens, principalement sur le développement front-end.",
-            "pl": "Wybór linków, głównie o front-end development.",
-            "du": "Een selectie van links, voornamelijk over front-end ontwikkelingen.",
-            "jp": "主にフロントエンド開発に役立つリンク集"
         }
     },
 
@@ -157,5 +109,70 @@
             "du": "Wekelijkse front-end nieuws en updates van de Lullabot team.",
             "jp": "Lullabotが、フロントエンドに関するニュースを週に一度配信"
         }
+    },
+
+    {
+        "name": "A Drip of JavaScript",
+        "permalink": "http://adripofjavascript.com/",
+        "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "description": {
+            "en": "One quick JavaScript tip, delivered to your inbox every other week.",
+            "es": "One quick JavaScript tip, delivered to your inbox every other week.",
+            "pt": "One quick JavaScript tip, delivered to your inbox every other week.",
+            "de": "One quick JavaScript tip, delivered to your inbox every other week.",
+            "fr": "One quick JavaScript tip, delivered to your inbox every other week.",
+            "pl": "One quick JavaScript tip, delivered to your inbox every other week.",
+            "du": "One quick JavaScript tip, delivered to your inbox every other week.",
+            "jp": "One quick JavaScript tip, delivered to your inbox every other week."
+        }
+    },
+
+    {
+        "name": "Mobile Web Weekly",
+        "permalink": "http://mobilewebweekly.co/",
+        "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "description": {
+            "en": "Releases, articles, and links that affect developers working on the mobile Web.",
+            "es": "Releases, articles, and links that affect developers working on the mobile Web.",
+            "pt": "Releases, articles, and links that affect developers working on the mobile Web.",
+            "de": "Releases, articles, and links that affect developers working on the mobile Web.",
+            "fr": "Releases, articles, and links that affect developers working on the mobile Web.",
+            "pl": "Releases, articles, and links that affect developers working on the mobile Web.",
+            "du": "Releases, articles, and links that affect developers working on the mobile Web.",
+            "jp": "Releases, articles, and links that affect developers working on the mobile Web."
+        }
+    },
+
+    {
+        "name": "Web Development Reading List",
+        "permalink": "https://wdrl.info/",
+        "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "description": {
+            "en": "A handcrafted, carefully selected list of web development related resources.",
+            "es": "A handcrafted, carefully selected list of web development related resources.",
+            "pt": "A handcrafted, carefully selected list of web development related resources.",
+            "de": "A handcrafted, carefully selected list of web development related resources.",
+            "fr": "A handcrafted, carefully selected list of web development related resources.",
+            "pl": "A handcrafted, carefully selected list of web development related resources.",
+            "du": "A handcrafted, carefully selected list of web development related resources.",
+            "jp": "A handcrafted, carefully selected list of web development related resources."
+        }
+    },
+
+    {
+        "name": "Web Operations Weekly",
+        "permalink": "http://webopsweekly.com/",
+        "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "description": {
+            "en": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
+            "es": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
+            "pt": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
+            "de": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
+            "fr": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
+            "pl": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
+            "du": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
+            "jp": "A weekly newsletter on Web operations, infrastructure, performance and tooling."
+        }
     }
+
 ]
