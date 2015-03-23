@@ -140,6 +140,26 @@
     },
 
     {
+        "name": "Hakim El Hattab",
+        "site": "http://hakim.se/",
+        "twitter": {
+            "user": "hakimel",
+            "img": "https://pbs.twimg.com/profile_images/515506205406408704/rpmu0mf2_200x200.jpeg"
+        },
+        "tags": ["HTML", "CSS", "JavaScript"]
+    },
+
+    {
+        "name": "Hugo Giraudel",
+        "site": "http://hugogiraudel.com/",
+        "twitter": {
+            "user": "HugoGiraudel",
+            "img": "https://pbs.twimg.com/profile_images/378800000638607178/d6b74325fc8156ccc6a3926156e5e1b6_200x200.jpeg"
+        },
+        "tags": ["CSS"]
+    },
+
+    {
         "name": "Ilya Grigorik",
         "site": "http://www.igvita.com/",
         "twitter": {
@@ -150,11 +170,31 @@
     },
 
     {
+        "name": "Jake Archibald",
+        "site": "http://jakearchibald.com/",
+        "twitter": {
+            "user": "jaffathecake",
+            "img": "https://pbs.twimg.com/profile_images/1695239906/me_200x200.jpg"
+        },
+        "tags": ["HTML", "CSS", "JavaScript"]
+    },
+
+    {
         "name": "John Resig",
         "site": "http://ejohn.org/",
         "twitter": {
             "user": "jeresig",
             "img": "https://pbs.twimg.com/profile_images/453551474711097345/tXmNE9Cj_200x200.jpeg"
+        },
+        "tags": ["JavaScript"]
+    },
+
+    {
+        "name": "Kyle Simpson",
+        "site": "http://getify.me/",
+        "twitter": {
+            "user": "getify",
+            "img": "https://pbs.twimg.com/profile_images/477301374799986690/4N1I7U7L_200x200.png"
         },
         "tags": ["JavaScript"]
     },
@@ -180,6 +220,16 @@
     },
 
     {
+        "name": "Mathias Bynens",
+        "site": "https://mathiasbynens.be/",
+        "twitter": {
+            "user": "mathias",
+            "img": "https://pbs.twimg.com/profile_images/1255767431/kung-fu_200x200.jpg"
+        },
+        "tags": ["HTML", "CSS", "JavaScript"]
+    },
+
+    {
         "name": "Nicholas C. Zakas",
         "site": "http://www.nczonline.net/",
         "twitter": {
@@ -187,6 +237,16 @@
             "img": "https://pbs.twimg.com/profile_images/3571535163/5c8b3a253c28fa35c943108282c20c50_200x200.jpeg"
         },
         "tags": ["JavaScript"]
+    },
+
+    {
+        "name": "Nicolas Gallagher",
+        "site": "http://nicolasgallagher.com/",
+        "twitter": {
+            "user": "necolas",
+            "img": "https://pbs.twimg.com/profile_images/529444560179449857/eKdCJhvp_200x200.jpeg"
+        },
+        "tags": ["HTML", "CSS"]
     },
 
     {
@@ -220,6 +280,26 @@
     },
 
     {
+        "name": "Sara Soueidan",
+        "site": "http://sarasoueidan.com/",
+        "twitter": {
+            "user": "SaraSoueidan",
+            "img": "https://pbs.twimg.com/profile_images/558566575465177088/0Y6iPGJQ_200x200.jpeg"
+        },
+        "tags": ["CSS"]
+    },
+
+    {
+        "name": "Sindre Sorhus",
+        "site": "http://sindresorhus.com",
+        "twitter": {
+            "user": "sindresorhus",
+            "img": "https://pbs.twimg.com/profile_images/552018407181152256/PGsun9v1_200x200.png"
+        },
+        "tags": ["JavaScript"]
+    },
+
+    {
         "name": "Steve Souders",
         "site": "http://stevesouders.com/",
         "twitter": {
@@ -237,5 +317,15 @@
             "img": "https://pbs.twimg.com/profile_images/528509543119343616/bDhQei1L_200x200.jpeg"
         },
         "tags": ["JavaScript"]
+    },
+
+    {
+        "name": "Zeno Rocha",
+        "site": "http://zenorocha.com/",
+        "twitter": {
+            "user": "zenorocha",
+            "img": "https://pbs.twimg.com/profile_images/472461686071246848/NCdcpl65_200x200.jpeg"
+        },
+        "tags": ["HTML", "CSS", "JavaScript"]
     }
 ]
