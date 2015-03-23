@@ -66,7 +66,7 @@
     {
         "name": "The Web Ahead",
         "permalink": "http://5by5.tv/webahead",
-        "img": "https://pbs.twimg.com/profile_images/1644146721/squarelogo_200x200.jpg",
+        "img": "https://pbs.twimg.com/profile_images/562360218202279936/T-zphgwI_200x200.jpeg",
         "description": {
             "en": "A weekly podcast about changing technologies and the future of the web.",
             "es": "Un podcast semanal sobre el cambio de las tecnologías y el futuro de internet.",
@@ -80,18 +80,18 @@
     },
 
     {
-        "name": "Google Developers",
-        "permalink": "http://www.youtube.com/watch?v=L3ugr9BJqIs",
-        "img": "https://pbs.twimg.com/profile_images/440636713354817536/I_Z3SDmE_200x200.png",
+        "name": "Five Minutes of JS",
+        "permalink": "https://fivejs.codeschool.com/",
+        "img": "https://pbs.twimg.com/profile_images/378800000862825347/05g33ckG_200x200.png",
         "description": {
-            "en": "Talks, screencasts, interviews, and more relevant to Google's developer products.",
-            "es": "Charlas, vídeo tutoriales, entrevistas, y más para desarrolladores de productos de Google.",
-            "pt": "Palestras, screencasts, entrevistas, e demais produtos relevantes do Google developer.",
-            "de": "Gespräche, Screencasts, Interviews und mehr bezogen auf Google's Entwicklerprodukte",
-            "fr": "Des discussions, des tutoriels vidéos, des interviews, plus particulièrement centrés sur les produits développés par Google.",
-            "pl": "Dyskusje, screencasty, wywiady i bardziej istotne rzeczy dla produktów developer od Google.",
-            "du": "Discussies, schermopnames, interviews en meer relevante informatie over  Google's producten voor ontwikkelaars.",
-            "jp": "開発者向けにGoogleが提供する製品情報を、討論やスクリーンキャスト、インタビューなどを交えて提供するポッドキャスト"
+            "en": "The latest news in the JavaScript community.",
+            "es": "The latest news in the JavaScript community.",
+            "pt": "The latest news in the JavaScript community.",
+            "de": "The latest news in the JavaScript community.",
+            "fr": "The latest news in the JavaScript community.",
+            "pl": "The latest news in the JavaScript community.",
+            "du": "The latest news in the JavaScript community.",
+            "jp": "The latest news in the JavaScript community."
         }
     }
 ]
