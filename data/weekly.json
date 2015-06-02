@@ -173,6 +173,22 @@
             "du": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
             "jp": "A weekly newsletter on Web operations, infrastructure, performance and tooling."
         }
+    },
+    
+    {
+        "name": "Fresh Brewed Frontend",
+        "permalink": "https://freshbrewed.co/frontend/",
+        "img": "https://pbs.twimg.com/profile_images/3658942973/ad28655102861ba0778fa2467656c88f_200x200.jpeg",
+        "description": {
+            "en": "The latest frontend technology articles, tutorials, blog posts and videos worth clicking. Curated for Frontend Developers by Frontend Developers.",
+            "es": "The latest frontend technology articles, tutorials, blog posts and videos worth clicking. Curated for Frontend Developers by Frontend Developers.",
+            "pt": "The latest frontend technology articles, tutorials, blog posts and videos worth clicking. Curated for Frontend Developers by Frontend Developers.",
+            "de": "The latest frontend technology articles, tutorials, blog posts and videos worth clicking. Curated for Frontend Developers by Frontend Developers.",
+            "fr": "The latest frontend technology articles, tutorials, blog posts and videos worth clicking. Curated for Frontend Developers by Frontend Developers.",
+            "pl": "The latest frontend technology articles, tutorials, blog posts and videos worth clicking. Curated for Frontend Developers by Frontend Developers.",
+            "du": "The latest frontend technology articles, tutorials, blog posts and videos worth clicking. Curated for Frontend Developers by Frontend Developers.",
+            "jp": "The latest frontend technology articles, tutorials, blog posts and videos worth clicking. Curated for Frontend Developers by Frontend Developers."
+        }
     }
 
 ]
