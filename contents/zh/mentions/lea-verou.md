@@ -4,7 +4,8 @@ name: Lea Verou
 twitter: leaverou
 ---
 
-1. I have several feeds I read almost daily
-2. I follow lots of people involved in web standards or browser development or are just very good developers
-3. I actually read specifications from time to time, some of them are easy to understand and they are first-hand sources. W3C mailing lists also help: You learn about web technologies at the moment of their creation and can even influence them!
-4. Conferences, both for the discussions and the sessions
+1. 有几个订阅源(feeds) 我天天都读
+2. 我关注了很多人, 包括 Web 标准的制定者, 以及开发浏览器的, 还有厉害的其他类别的开发者.
+3. 我偶尔会阅读标准, 有些很好理解而且是一手资讯, W3C邮件列表(W3C mailing lists) 也很有帮助: 
+你在新技术出现的那一刻就能开始学习他们, 甚至你可以影响到这些新技术的发展!
+4. 参加会议
