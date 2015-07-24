@@ -8,6 +8,7 @@ build:
 	 grunt build --lang=he && \
 	 grunt build --lang=jp && \
 	 grunt build --lang=pl && \
-	 grunt build --lang=pt
+	 grunt build --lang=pt && \
+	 grunt build --lang=zh
 
 .PHONY: build

@@ -11,7 +11,8 @@
             "fr": "Un podcast sur le design web front-end, le développement et l'UX (User eXperience).",
             "pl": "Podkast o front-end, web design, development i UX.",
             "du": "Een praatprogramma over front end, webdesign, ontwikkeling en gebruikerservaringen.",
-            "jp": "フロントエンド・ウェブ・デザイン／開発／UXに関するポッドキャスト"
+            "jp": "フロントエンド・ウェブ・デザイン／開発／UXに関するポッドキャスト",
+            "zh": "A podcast about front end web design, development and UX."
         }
     },
 
@@ -27,7 +28,8 @@
             "fr": "Le podcast de Hanselminutes est un \"bold d'air\" pour les développeurs.",
             "pl": "Hanselminutes Podcast jest \"Świerzym powietrzem\" dla developerów.",
             "du": "Hanselminutes praatpragramma is \"Frisse lucht\" voor ontwikkelaars.",
-            "jp": "\"Fresh Air\"（アメリカの有名なラジオ・トーク・ショー）のディベロッパー版、と言えるポッドキャスト"
+            "jp": "\"Fresh Air\"（アメリカの有名なラジオ・トーク・ショー）のディベロッパー版、と言えるポッドキャスト",
+            "zh": "Hanselminutes Podcast is \"Fresh Air\" for developers."
         }
     },
 
@@ -43,7 +45,8 @@
             "fr": "Le Big Web Show, plusieurs fois récompensés, présente des invités spéciaux et des sujets. Il aborde tout ce qui compte dans le monde du web.",
             "pl": "Zdobywący nagrody 'Big Web Show' przedstawia specialnych gości i tematy. Wszystko o web, co ma znaczenie.",
             "du": "The award winning Big Web Show features special guests and topics. It's everything web that matters.",
-            "jp": "受賞歴もあるBig Web Showでは、特別ゲストやトピックを通して、ウェブについて欠かせない話題が提供されます"
+            "jp": "受賞歴もあるBig Web Showでは、特別ゲストやトピックを通して、ウェブについて欠かせない話題が提供されます",
+            "zh": "The award winning Big Web Show features special guests and topics. It's everything web that matters."
         }
     },
 
@@ -59,7 +62,8 @@
             "fr": "Un podcast hebdomadaire à propos du superbe langage JavaScript.",
             "pl": "Tygodniowy podkast omawiający wspaniały język JavaScript.",
             "du": "Een wekelijks praatprogramma dat de prachtige programmeertaal JavaScript bespreekt.",
-            "jp": "優秀な言語としてのJavaScriptを話し合う、週刊ポッドキャスト"
+            "jp": "優秀な言語としてのJavaScriptを話し合う、週刊ポッドキャスト",
+            "zh": "A weekly podcast discussing the superb language JavaScript."
         }
     },
 
@@ -75,7 +79,8 @@
             "fr": "Un podcast hebdomadaire sur les changements technologiques et le futur du web.",
             "pl": "Tygodniowy podkast o zmieniających się technologiach i przyszłości sieci.",
             "du": "Een wekelijks praatprogramma over veranderende technieken en de toekomst van het web.",
-            "jp": "変わりゆく技術とウェブの未来を話し合う、週刊ポッドキャスト"
+            "jp": "変わりゆく技術とウェブの未来を話し合う、週刊ポッドキャスト",
+            "zh": "A weekly podcast about changing technologies and the future of the web."
         }
     },
 
@@ -91,7 +96,8 @@
             "fr": "The latest news in the JavaScript community.",
             "pl": "The latest news in the JavaScript community.",
             "du": "The latest news in the JavaScript community.",
-            "jp": "The latest news in the JavaScript community."
+            "jp": "The latest news in the JavaScript community.",
+            "zh": "The latest news in the JavaScript community."
         }
     },
 
@@ -107,7 +113,8 @@
             "fr": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep.",
             "pl": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep.",
             "du": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep.",
-            "jp": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep."
+            "jp": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep.",
+            "zh": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep."
         }
     }
 ]
