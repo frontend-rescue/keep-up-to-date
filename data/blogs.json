@@ -20,7 +20,7 @@
     {
         "name": "The Morning Brew",
         "permalink": "http://blog.cwa.me.uk/",
-        "img": "http://blog.cwa.me.uk/wp-content/themes/Hackedcoffeespot2/img/cup4.jpg",
+        "img": "https://uptodate.frontendrescue.org/src/assets/no-image.png",
         "description": {
             "en": "A Daily .NET Software Development Link Blog.",
             "he": "בלוג יומי על דוט נט ",
