@@ -19,7 +19,7 @@
     {
         "name": "The Hanselminutes",
         "permalink": "http://hanselminutes.com/",
-        "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "img": "https://uptodate.frontendrescue.org/src/assets/no-image.png",
         "description": {
             "en": "Hanselminutes Podcast is \"Fresh Air\" for developers.",
             "es": "Hanselminutes Podcast es \"Aire fresco\" para desarrolladores.",
@@ -104,7 +104,7 @@
     {
         "name": "Responsive Web Design Podcast",
         "permalink": "http://responsivewebdesign.com/podcast/",
-        "img": "http://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "img": "https://uptodate.frontendrescue.org/src/assets/no-image.png",
         "description": {
             "en": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep.",
             "es": "A Responsive Web Design Podcast, co-hosted by @karenmcgrane and @beep.",
