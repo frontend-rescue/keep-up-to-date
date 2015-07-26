@@ -1,4 +1,30 @@
 script.
+    if (navigator.serviceWorker) {
+      navigator.serviceWorker
+        .register('/sw.js', { scope: '/' })
+        .then(function(registration) {
+          var isUpdate = false;
+          if (registration.active) { isUpdate = true; }
+          registration.onupdatefound = function(eve) {
+            console.log('A new Service Worker version has been found...');
+          };
+          registration.installing.onstatechange = function(eve) {
+            if (this.state === 'installed') {
+              console.log('Service Worker Installed.');
+              if (isUpdate) {
+                console.log('App updated. Restart for the new version.');
+              } else {
+                console.log('App ready for offline use.');
+              }
+            } else {
+              console.log('New Service Worker state: ', this.state);
+            }
+          };
+          console.log('Registration succeeded. Scope is: ' + registration.scope);
+        }).catch(function(error) {
+          console.log('Registration failed with: ' + error);
+        });
+    };
     !function(a){"use strict";function b(b){b=b||a.document.querySelectorAll("[data-async]");var e,f,c=0,d=b.length;for(c;d>c;c+=1)f=b[c],e="LINK"!==f.tagName?"src":"href",f[e]=f.getAttribute("data-async"),f.removeAttribute("data-async");return b}"function"==typeof a.define&&void 0!==a.define.amd?a.define("asyncall",[],function(){return b}):"undefined"!=typeof module&&void 0!==module.exports?module.exports=b:a.asyncall=b}(this);
     window.onload = function () {
         asyncall();
