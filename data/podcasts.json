@@ -16,5 +16,17 @@
         "permalink": "http://tableless.com.br/categoria/podcasts/drops-podcasts/",
         "img": "//pbs.twimg.com/profile_images/496830024/Screen_shot_2009-10-29_at_13.16.14_bigger.png",
         "description": "O podcast da Tableless."
+    },
+    {
+        "name": "DevNaEstrada",
+        "permalink": "http://devnaestrada.com.br/",
+        "img": "//pbs.twimg.com/profile_images/631290891475546112/TBYT3x1U_bigger.png",
+        "description": "Um podcast semanal que discute tudo sobre desenvolvimento web com uma pitada de humor."
+    },
+    {
+        "name": "Tecnologicamente Arretado",
+        "permalink": "http://tecnologicamentearretado.com.br/",
+        "img": "//pbs.twimg.com/profile_images/609849387070697473/tDWdAX2h_bigger.png",
+        "description": "Um podcast batráquio com grandes amigos falando um monte de coisas relacionadas à produção de software."
     }
 ]
