@@ -4,7 +4,7 @@
         "site": "http://maujor.com/",
         "twitter": {
             "user": "maujor",
-            "img": "http://twitter.com/api/users/profile_image/maujor?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/479055327103447040/SBHBvaGT_bigger.png"
         },
         "tags": []
     },
@@ -13,7 +13,7 @@
         "site": "http://about.me/diegoeis",
         "twitter": {
             "user": "diegoeis",
-            "img": "http://twitter.com/api/users/profile_image/diegoeis?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/570009494805946368/dfEcOkau_bigger.jpeg"
         },
         "tags": []
     },
@@ -22,7 +22,7 @@
         "site": "http://almirfilho.com/",
         "twitter": {
             "user": "almirfilho",
-            "img": "http://twitter.com/api/users/profile_image/almirfilho?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/2217973502/IMG_0986_bigger.JPG"
         },
         "tags": []
     },
@@ -31,7 +31,7 @@
         "site": "http://caiogondim.com/",
         "twitter": {
             "user": "caio_gondim",
-            "img": "http://twitter.com/api/users/profile_image/caio_gondim?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/3088613325/4492fa146076e49ce402ee8223a4c728_bigger.png"
         },
         "tags": []
     },
@@ -40,25 +40,25 @@
         "site": "http://danielfilho.github.io/",
         "twitter": {
             "user": "danielfilho",
-            "img": "http://twitter.com/api/users/profile_image/danielfilho?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/589908519765336066/7cyTqNxa_bigger.jpg"
         },
         "tags": []
     },
     {
         "name": "Davidson Fellipe",
-        "site": "https://twitter.com/davidsonFellipe",
+        "site": "//twitter.com/davidsonFellipe",
         "twitter": {
             "user": "davidsonFellipe",
-            "img": "http://twitter.com/api/users/profile_image/davidsonFellipe?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/609170327252377600/Rhdodir3_bigger.jpg"
         },
         "tags": []
     },
     {
         "name": "Suissa",
-        "site": "https://twitter.com/osuissa",
+        "site": "//twitter.com/osuissa",
         "twitter": {
             "user": "osuissa",
-            "img": "http://twitter.com/api/users/profile_image/osuissa?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/632957448177995776/A9hpKz7f_bigger.jpg"
         },
         "tags": []
     },
@@ -67,7 +67,7 @@
         "site": "http://zenorocha.com/",
         "twitter": {
             "user": "zenorocha",
-            "img": "http://twitter.com/api/users/profile_image/zenorocha?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/472461686071246848/NCdcpl65_bigger.jpeg"
         },
         "tags": []
     },
@@ -76,7 +76,7 @@
         "site": "http://bernarddeluna.com/",
         "twitter": {
             "user": "bernarddeluna",
-            "img": "http://twitter.com/api/users/profile_image/bernarddeluna?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/3116572592/fb0023861300f52bc9c65d35761c2dfc_bigger.jpeg"
         },
         "tags": []
     },
@@ -85,7 +85,7 @@
         "site": "http://www.pinceladasdaweb.com.br/",
         "twitter": {
             "user": "pinceladasdaweb",
-            "img": "http://twitter.com/api/users/profile_image/pinceladasdaweb?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/378800000199260052/ecd9bbc0842ddf9bfdef157c4ff1e669_bigger.png"
         },
         "tags": []
     },
@@ -94,7 +94,7 @@
         "site": "http://www.nubiasouza.com.br/",
         "twitter": {
             "user": "nubiasouza",
-            "img": "http://twitter.com/api/users/profile_image/nubiasouza?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/2570919821/bm17ei9asknvrao3ex5q_bigger.jpeg"
         },
         "tags": []
     },
@@ -103,7 +103,7 @@
         "site": "http://blog.millermedeiros.com",
         "twitter": {
             "user": "millermedeiros",
-            "img": "http://twitter.com/api/users/profile_image/millermedeiros?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/458984047490777088/gQc1W7Sn_bigger.jpeg"
         },
         "tags": []
     },
@@ -112,7 +112,7 @@
         "site": "http://www.talitapagani.com/",
         "twitter": {
             "user": "talitapagani",
-            "img": "http://twitter.com/api/users/profile_image/talitapagani?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/635439961123237889/08KkTvZY_bigger.jpg"
         },
         "tags": []
     },
@@ -121,25 +121,25 @@
         "site": "http://felipenmoura.org/",
         "twitter": {
             "user": "felipenmoura",
-            "img": "http://twitter.com/api/users/profile_image/felipenmoura?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/590158075211948033/AS9Joc-W_bigger.png"
         },
         "tags": []
     },
     {
         "name": "Horácio Soares",
-        "site": "https://twitter.com/horaciosoares",
+        "site": "//twitter.com/horaciosoares",
         "twitter": {
             "user": "horaciosoares",
-            "img": "http://twitter.com/api/users/profile_image/horaciosoares?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/3209419072/8343944d8a690d8a2acb24f7b74b075c_bigger.jpeg"
         },
         "tags": []
     },
     {
         "name": "Elvis Detona",
-        "site": "https://twitter.com/elvisdetona",
+        "site": "//twitter.com/elvisdetona",
         "twitter": {
             "user": "elvisdetona",
-            "img": "http://twitter.com/api/users/profile_image/elvisdetona?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/378800000479505181/0562ed92e7a362044f348a17708c631c_bigger.jpeg"
         },
         "tags": []
     },
@@ -148,7 +148,7 @@
         "site": "http://jaydson.org/",
         "twitter": {
             "user": "jaydson",
-            "img": "http://twitter.com/api/users/profile_image/jaydson?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/453720347620032512/UM2nE21c_bigger.jpeg"
         },
         "tags": []
     },
@@ -157,7 +157,7 @@
         "site": "http://felquis.com/",
         "twitter": {
             "user": "felquis",
-            "img": "http://twitter.com/api/users/profile_image/felquis?size=bigger"
+            "img": "//pbs.twimg.com/profile_images/644604079096889344/zIcg-zlU_bigger.jpg"
         },
         "tags": []
     }

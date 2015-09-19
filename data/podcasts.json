@@ -2,19 +2,19 @@
     {
         "name": "Zone of Front-enders",
         "permalink": "http://zofe.com.br/",
-        "img": "http://twitter.com/api/users/profile_image/zofepod?size=bigger",
+        "img": "//pbs.twimg.com/profile_images/2698377563/d965b7ff6513ae55605555799c5e18ad_bigger.png",
         "description": "Desenvolviment web, front-end e afins. Apresentado por @danielfilho e @zenorocha."
     },
     {
         "name": "DevCast",
         "permalink": "http://devcastbrasil.com/",
-        "img": "http://twitter.com/api/users/profile_image/DevCastBrasil?size=bigger",
+        "img": "//pbs.twimg.com/profile_images/542092585540407297/kcXMQUyP_bigger.png",
         "description": "Um podcast com screencast ao vivo sobre desenvolvimento web toda semana."
     },
     {
         "name": "Tableless Drops",
         "permalink": "http://tableless.com.br/categoria/podcasts/drops-podcasts/",
-        "img": "http://twitter.com/api/users/profile_image/tableless?size=bigger",
+        "img": "//pbs.twimg.com/profile_images/496830024/Screen_shot_2009-10-29_at_13.16.14_bigger.png",
         "description": "O podcast da Tableless."
     }
 ]

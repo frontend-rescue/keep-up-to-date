@@ -2,25 +2,25 @@
     {
         "name": "Brazil JS",
         "permalink": "http://braziljs.com.br/",
-        "img": "http://twitter.com/api/users/profile_image/braziljs?size=bigger",
+        "img": "//pbs.twimg.com/profile_images/588555196801937408/gOoxXgtX_bigger.png",
         "description": "A maior conferência de javascript do universo."
     },
     {
         "name": "Front In's",
         "permalink": "http://braziljs.org/eventos/",
-        "img": "http://twitter.com/api/users/profile_image/braziljs?size=bigger",
+        "img": "//pbs.twimg.com/profile_images/588555196801937408/gOoxXgtX_bigger.png",
         "description": "Os melhores eventos de front-end do brasil."
     },
     {
         "name": "FEEC Brazil",
         "permalink": "http://www.feecbr.com.br/pt/",
-        "img": "http://twitter.com/api/users/profile_image/feecbr?size=bigger",
+        "img": "//pbs.twimg.com/profile_images/2239982710/LogoTwitter_bigger.jpg",
         "description": "Um evento para os melhores profissionais de internet! Palestras e Empresas Nacionais e internacionais."
     },
     {
         "name": "Encontro Locaweb",
         "permalink": "http://www.encontrolocaweb.com.br/",
-        "img": "http://twitter.com/api/users/profile_image/locaweb‎?size=bigger",
+        "img": "//pbs.twimg.com/profile_images/641304845295702016/RwuVT_d5_bigger.png",
         "description": "Encontro Locaweb de profissionais de internet."
     }
 ]
