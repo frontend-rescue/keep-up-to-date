@@ -1,4 +1,4 @@
-script
+script(type='text/javascript').
     !function(a){"use strict";function b(b){b=b||a.document.querySelectorAll("[data-async]");var e,f,c=0,d=b.length;for(c;d>c;c+=1)f=b[c],e="LINK"!==f.tagName?"src":"href",f[e]=f.getAttribute("data-async"),f.removeAttribute("data-async");return b}"function"==typeof a.define&&void 0!==a.define.amd?a.define("asyncall",[],function(){return b}):"undefined"!=typeof module&&void 0!==module.exports?module.exports=b:a.asyncall=b}(this);
     window.onload = function () {
         asyncall();

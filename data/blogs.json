@@ -2,37 +2,37 @@
     {
         "name": "Tableless",
         "permalink": "http://tableless.com.br/",
-        "img": "http://twitter.com/api/users/profile_image/tableless?size=bigger",
+        "img": "//pbs.twimg.com/profile_images/496830024/Screen_shot_2009-10-29_at_13.16.14_bigger.png",
         "description": "Desenvolvimento inteligente com padrões web."
     },
     {
         "name": "W3C Brasil",
         "permalink": "http://blog.w3c.br/",
-        "img": "http://twitter.com/api/users/profile_image/w3cbrasil?size=bigger",
+        "img": "//pbs.twimg.com/profile_images/582895587839909888/CQ7XomSh_bigger.jpg",
         "description": "Web para todos, em qualquer dispositivo, em qualquer lugar, segura e confiável."
     },
     {
         "name": "Front-end Brasil",
         "permalink": "http://www.frontendbrasil.com.br/",
-        "img": "http://twitter.com/api/users/profile_image/frontend_brasil?size=bigger",
+        "img": "//pbs.twimg.com/profile_images/1435543101/html5-logo_bigger.jpg",
         "description": "Dicas, tutoriais e artigos sobre front-end."
     },
     {
         "name": "Blog do Maujor",
         "permalink": "http://www.maujor.com/blog/",
-        "img": "http://twitter.com/api/users/profile_image/maujor?size=bigger",
+        "img": "//pbs.twimg.com/profile_images/479055327103447040/SBHBvaGT_bigger.png",
         "description": "Tutoriais e pensamentos, CSS, web standards, acessibilidade e tableless."
     },
     {
         "name": "Pinceladas da Web",
         "permalink": "http://www.pinceladasdaweb.com.br/blog/",
-        "img": "http://twitter.com/api/users/profile_image/pinceladasdaweb?size=bigger",
+        "img": "//pbs.twimg.com/profile_images/378800000199260052/ecd9bbc0842ddf9bfdef157c4ff1e669_bigger.png",
         "description": "HTML Hard Coding, HTML5, Bulletproof CSS, SEO, WebStandards, JavaScript e jQuery."
     },
     {
         "name": "Loopinfinito",
         "permalink": "http://loopinfinito.com.br/",
-        "img": "http://twitter.com/api/users/profile_image/loopinfinito?size=bigger",
+        "img": "//pbs.twimg.com/profile_images/1903991394/logo_bigger.png",
         "description": "Web na crista da onda."
     },
     {
