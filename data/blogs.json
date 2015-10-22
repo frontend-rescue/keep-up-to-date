@@ -11,7 +11,7 @@
             "de": "Ein JavaScript Blog.",
             "fr": "Un blog sur le JavaScript.",
             "pl": "Blog o JavaScript.",
-            "du": "Een JavaScript Blog.",
+            "nl": "Een JavaScript Blog.",
             "jp": "JavaScriptに関するブログ",
             "zh": "A JavaScript Blog."
         }
@@ -29,7 +29,7 @@
             "de": "Ein täglicher .NET Software Development Link Blog.",
             "fr": "Un blog avec des liens journaliers sur le développement en .NET.",
             "pl": "Codzienna dawka .NET software development blog.",
-            "du": "Een blog met elke dag een verzameling links over .NET Software ontwikkeling.",
+            "nl": "Een blog met elke dag een verzameling links over .NET Software ontwikkeling.",
             "jp": ".NETソフトウェア開発に関するブログのリンク集",
             "zh": "A Daily .NET Software Development Link Blog."
         }
@@ -47,7 +47,7 @@
             "de": "Der Treehouse Blog bietet wertvolle Inhalte zu Webentwicklung, Webdesign und Start-Up Tipps.",
             "fr": "Le blog Treehouse fournit un contenu intéressant sur le développement web, le design web et des astuces pour les startups.",
             "pl": "Treehouse Blog zawiera wiele wartościowych informacji na temat web development, designu i wskazówki dotyczące startupów.",
-            "du": "Het Treehouse blog geeft waardevolle informatie over web ontwikkeling, webdesign en het starten van je eigen bedrijf.",
+            "nl": "Het Treehouse blog geeft waardevolle informatie over web ontwikkeling, webdesign en het starten van je eigen bedrijf.",
             "jp": "ウェブ開発やウェブデザイン、スタートアップに関する役立つ情報が見つかるブログ",
             "zh": "The Treehouse blog provides valuable content on web development, web design, and startup tips."
         }
@@ -65,7 +65,7 @@
             "de": "Eine HackerNews-ähnliche Seite zu den Themen JavaScript und Front-End News.",
             "fr": "Un site similaire à HackerNews dédié aux nouveautés sur le JavaScript et le développement Front-End.",
             "pl": "Podobna do HackerNews strona poświęcona JavaScript i nowości ze świata Front-End.",
-            "du": "Een website die lijkt op HackerNews, maar volledig gewijd aan JavaScript en Front-end nieuws.",
+            "nl": "Een website die lijkt op HackerNews, maar volledig gewijd aan JavaScript en Front-end nieuws.",
             "jp": "HackerNews風にJavaScripotやフロントエンドの情報を得られるサイト",
             "zh": "A HackerNews-like site dedicated to JavaScript and Front-end News."
         }
@@ -83,7 +83,7 @@
             "de": ".net ist das weltweit meistverkaufte Magazin für Webdesigner und -entwickler.",
             "fr": ".net est le magazine le plus vendu dans le monde pour les designers et les développeurs web.",
             "pl": ".net jest numer 1 na świecie najlepiej sprzedającym się magazynem dla web designerów i deweloperów.",
-            "du": ".net is best verkochte tijdschrift ter wereld voor webdesigners en ontwikkelaars.",
+            "nl": ".net is best verkochte tijdschrift ter wereld voor webdesigners en ontwikkelaars.",
             "jp": "世界で最も多く読まれている、ウェブデザイナー・ディベロッパー向けの雑誌",
             "zh": ".net is the world’s best-selling magazine for web designers and developers."
         }
@@ -101,7 +101,7 @@
             "de": "Eine offene Community aus Entwicklern, die Ressourcen für ein besseres Netz bereitstellt.",
             "fr": "Une communauté ouverte de développeurs pour construire des ressources pour un web meilleur.",
             "pl": "Społeczność open-source dla deweloperów budujących dla lepszego świata web.",
-            "du": "Een openbare groep van ontwikkelaars die een weg plaveien naar een beter web.",
+            "nl": "Een openbare groep van ontwikkelaars die een weg plaveien naar een beter web.",
             "jp": "より良いウェブの実現を目指し、ディベロッパーが集まるオープンなコミュニティ",
             "zh": "An open community of developers building resources for a better web."
         }
@@ -119,7 +119,7 @@
             "de": "Artikel, Anleitungen, Fallstudien & Demos.",
             "fr": "Articles, tutoriels, cas d'études et démos.",
             "pl": "Artykuły, tutoriale, praktyki i dema.",
-            "du": "Berichten, handleidingen, casussen en demonstraties.",
+            "nl": "Berichten, handleidingen, casussen en demonstraties.",
             "jp": "HTML5に関する投稿、チュートリアル、ケース・スタディ、デモなど",
             "zh": "Posts, tutorials, case study & demos."
         }
@@ -137,7 +137,7 @@
             "de": "Ein Blog der dir hilft, mehr über HTML5 zu lernen.",
             "fr": "Un blog pour vous aider à en savoir plus à propos de HTML5.",
             "pl": "Blog który pomoże Ci uczyć się więcej o HTML5.",
-            "du": "Een blog dat je helpt om meer te leren over HTML5.",
+            "nl": "Een blog dat je helpt om meer te leren over HTML5.",
             "jp": "HTML5をより深く学びたい人向けのサイト",
             "zh": "A blog to help you learn more about HTML5."
         }
@@ -155,7 +155,7 @@
             "de": "Tutorials, Artikel, Tipps und eine Community für Webentwickler.",
             "fr": "Tutoriels, articles, astuces et communauté pour les développeurs web.",
             "pl": "Tutoriale, artykuły, porady i społeczność dla deweloperów.",
-            "du": "Handleidingen, artikelen, tips en een ontmoetingsplaats voor web ontwikkelaars.",
+            "nl": "Handleidingen, artikelen, tips en een ontmoetingsplaats voor web ontwikkelaars.",
             "jp": "ウェブ・ディベロッパー向けのチュートリアルや記事、役立つ情報、コミュニティ",
             "zh": "Tutorials, articles, tips, and community for web developers."
         }
@@ -173,7 +173,7 @@
             "de": "Die primäre Quelle für Informationen zu Browserkompatibilität im Internet.",
             "fr": "Source de premier ordre sur le sujet de la compatibilité des navigateurs.",
             "pl": "To jest główne źródło dotyczące zgodności z przeglądarkami w Internecie.",
-            "du": "De primaire bron voor informatie over de ondersteuning van standaarden in browerser.",
+            "nl": "De primaire bron voor informatie over de ondersteuning van standaarden in browerser.",
             "jp": "ネット上で最も信頼されている、ブラウザ互換性情報が得られるサイト",
             "zh": "It is the prime source for browser compatibility information on the Internet."
         }
@@ -191,7 +191,7 @@
             "de": "Eine Webdesign Community.",
             "fr": "Une communauté sur le design web.",
             "pl": "Społeczność dotycząca web designu.",
-            "du": "Een ontmoetingsplek voor webdesigners.",
+            "nl": "Een ontmoetingsplek voor webdesigners.",
             "jp": "ウェブ・デザインに関するコミュニティ",
             "zh": "A web design community."
         }
@@ -209,7 +209,7 @@
             "de": "Ein Blog, der sich auf das Schreiben und Anpassen von CSS für große Apps und Websites spezialisiert hat.",
             "fr": "Un blog spécialisé sur l'écriture et le dimensionnement des CSS pour des applications et des sites web de grande ampleur.",
             "pl": "Blog specializujący się w pisaniu i skalowaniu CSS dla dużych aplikacji i stron internetowych.",
-            "du": "Een gespecialiseerd blog over het schrijven van schaalbare CSS voor grote applicates en websites.",
+            "nl": "Een gespecialiseerd blog over het schrijven van schaalbare CSS voor grote applicates en websites.",
             "jp": "大規模なウェブ・アプリケーションやウェブサイトに求められるCSSの書き方に特化したサイト",
             "zh": "A specialised blog in writing and scaling CSS for large apps and websites."
         }
@@ -227,7 +227,7 @@
             "de": "Ein Online-Magazin für professionelle Webdesigner und Entwickler.",
             "fr": "Un magazine en ligne pour les développeurs et designers web professionnels.",
             "pl": "Magazyn online dla profesjonalych web designerów i deweloperów.",
-            "du": "Een internettijdschrift voor professionele webdesigners en ontwikkelaars.",
+            "nl": "Een internettijdschrift voor professionele webdesigners en ontwikkelaars.",
             "jp": "ウェブ・デザインやウェブ開発に携わるプロフェッショナル向けのオンライン・マガジン",
             "zh": "An online magazine for professional Web designers and developers."
         }
@@ -245,7 +245,7 @@
             "de": "Geeks veröffentlichen eine tägliche Dosis Webdesign und Entwicklung.",
             "fr": "Des Geeks publiant une dose quotidienne d'informations sur le design et le développement web.",
             "pl": "Geeks publikują codzienną dawkę web designu i development.",
-            "du": "Geeks publiceren een dagelijkse dosis webdesign en ontwikkeling.",
+            "nl": "Geeks publiceren een dagelijkse dosis webdesign en ontwikkeling.",
             "jp": "ギーク達が配信するウェブ・デザインやウェブ開発の話",
             "zh": "Geeks publish a daily dose of web design and development."
         }
@@ -263,7 +263,7 @@
             "de": "Design, Entwicklung und Web-Inhalte, mit Fokus auf Standards und beste Verfahren.",
             "fr": "Design, développement et contenu web, centré sur les standards et les bonnes pratiques.",
             "pl": "Design, development i web kontent, skupiający się na standartach i najlepszych praktykach.",
-            "du": "Designen, ontwikkelen en schrijven voor het web, gericht op standaarden en praktijkervaringen.",
+            "nl": "Designen, ontwikkelen en schrijven voor het web, gericht op standaarden en praktijkervaringen.",
             "jp": "求められる基準やベスト・プラクティスに焦点をあてた、デザインや開発、ウェブ・コンテントの話",
             "zh": "Design, development, and web content, focused on standards and best practices."
         }
@@ -281,7 +281,7 @@
             "de": "JavaScript News und Links.",
             "fr": "Des nouveautés et des liens à propos de JavaScript.",
             "pl": "Nowości i linki JavaScript.",
-            "du": "JavaScript nieuws en links.",
+            "nl": "JavaScript nieuws en links.",
             "jp": "JavaScriptのニュースやリンク集",
             "zh": "JavaScript news and links."
         }
@@ -299,7 +299,7 @@
             "de": "Hauptsächlich Web-fokussiert; insbesondere JS-fokussiert.",
             "fr": "Centré principalement sur le web et plus particulièrement sur le JavaScript.",
             "pl": "Głównie skupiający się na web; w większości JavaScript.",
-            "du": "Grotendeels gericht op het web; in het bijzonder op JavaScript.",
+            "nl": "Grotendeels gericht op het web; in het bijzonder op JavaScript.",
             "jp": "サイト所有者が選別した、JavaScriptに焦点を当てたウェブに関するリンク多数",
             "zh": "Mainly web-focused; in particular, most are JS-focused."
         }
@@ -317,7 +317,7 @@
             "de": "Eine Online Media Firma, die topaktuelle Inhalte für Web-Profis bietet.",
             "fr": "Une société de communication en ligne fournissant du contenu sur les dernières techniques pour les professionnels du web.",
             "pl": "Firma online dająca nowatorską treść dla profesjonalistów z dziedziny web.",
-            "du": "Een mediabedrijf dat de allernieuwste informatie biedt voor vakmensen op het web.",
+            "nl": "Een mediabedrijf dat de allernieuwste informatie biedt voor vakmensen op het web.",
             "jp": "ウェブのプロフェッショナルに向けて、ウェブ・コンテントの最前線を追ったサイト",
             "zh": "An online media company providing cutting-edge content for web professionals."
         }
