@@ -1,8 +1,8 @@
 ---
-title: Navigation
+title: Navigatie
 ---
 
-## Gebruik dit simpele stappenplan
+## Volg deze eenvoudige stappen
 1.  [Volg slimme mensen](#follow-cool-people)
 2.  [Vind de beste bronnen](#find-the-best-sources)
 3.  [Bezoek conferenties](#attend-conferences)

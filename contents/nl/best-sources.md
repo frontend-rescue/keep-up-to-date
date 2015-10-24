@@ -1,10 +1,10 @@
 ---
 title: Vind de beste
 subtitle: bronnen
-weekly: Wekelijks Nieuws
+weekly: Wekelijks nieuws
 blogs: Blogs
 podcasts: Podcasts
-footer: Bekijk de rest
+footer: Bekijk alles
 ---
 
 Op het web is veel nuttige informatie te vinden over ontwikkelingen op het front-end gebied. Alleen is het moeilijk om alle goede bronnen te vinden en te lezen. Het is zoeken naar een speld in een hooiberg!

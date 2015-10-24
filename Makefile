@@ -2,7 +2,7 @@
 build:
 	grunt build && \
 	 grunt build --lang=de && \
-	 grunt build --lang=du && \
+	 grunt build --lang=nl && \
 	 grunt build --lang=es && \
 	 grunt build --lang=fr && \
 	 grunt build --lang=he && \

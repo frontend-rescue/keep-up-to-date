@@ -10,7 +10,7 @@
             "de": "Bietet täglich Inhalte über W3C, HTML, CSS, JavaScript, Web APIs, Web-Browser.",
             "fr": "Fournit du contenu quotidien sur le W3C, HTML, CSS, JavaScript, les API Web et les navigateurs web.",
             "pl": "Dostarcza dzienną dawkę informacji o W3C, HTML, CSS, JavaScript, API i przeglądarkach internetowych.",
-            "du": "Biedt dagelijks informatie over W3C, HTML, CSS, JavaScript, Web APIs en web browsers.",
+            "nl": "Biedt dagelijks informatie over W3C, HTML, CSS, JavaScript, Web APIs en web browsers.",
             "jp": "W3C、HTML、CSS、JavaScript、Web API、ウェブ・ブラウザに関する話題を毎日配信",
             "zh": "Provides daily content about W3C, HTML, CSS, JavaScript, the Web APIs, web browsers."
         }
@@ -27,7 +27,7 @@
             "de": "Einfach großartige Links zu den besten News und Artikeln, die das Web über die Woche gesehen hat.",
             "fr": "Liens les plus intéressants sur les meilleures nouvelles et articles au cours de la semaine.",
             "pl": "Linki do najlepszych newsów i artykułów które pojawiły się w sieci w ciągu tygodnia.",
-            "du": "Te gekke links naar de beste ontwikkelingen en artikelen die wekelijks op het interweb belanden.",
+            "nl": "Te gekke links naar de beste ontwikkelingen en artikelen die wekelijks op het interweb belanden.",
             "jp": "目先一週間でネットで話題となるであろう、選りすぐりのニュースや記事へのリンク",
             "zh": "Pure awesome links to the best news and articles to hit the interweb during the week."
         }
@@ -44,7 +44,7 @@
             "de": "Zusammenstellung von CSS Artikeln, Anleitungen, Experimenten und Tools.",
             "fr": "Résumés d'articles sur les css, tutoriels, expérimentations et outils.",
             "pl": "Przegląd artykułów o CSS - tutoriali, eksperymentów i narzędzi.",
-            "du": "Collectie van css artikelen, handleidingen, experimenten en gereedschappen.",
+            "nl": "Collectie van css artikelen, handleidingen, experimenten en gereedschappen.",
             "jp": "CSSに関する記事やチュートリアル、実験、ツールのまとめ",
             "zh": "Roundup of css articles, tutorials, experiments and tools."
         }
@@ -61,7 +61,7 @@
             "de": "Zusammenstellung von Neuigkeiten und Links zu HTML5 und Browsertechnologien.",
             "fr": "Tour d'horizon des derniers liens et nouveautés HTML5 et navigateurs web.",
             "pl": "Przegląd nowości i linków o HTML5 i technologiach przeglądarek.",
-            "du": "Collectie van nieuws en links over HTML5 and browserontwikkelingen.",
+            "nl": "Collectie van nieuws en links over HTML5 and browserontwikkelingen.",
             "jp": "HYTML5やブラウザ技術に関するニュースやリンク集",
             "zh": "Round-up of HTML5 and browser technology news and links."
         }
@@ -78,7 +78,7 @@
             "de": "Zusammenstellung von Artikeln, Tools, Tipps, Anleitungen und Inspirationen zu Responsive Design.",
             "fr": "Tour d'horizon d'articles sur le \"responsive design\", des outils, des astuces, des tutoriels et d'autres liens intéressants.",
             "pl": "Przegląd artykułów o płynnym designie, narzędzia, wskazówki, tutoriale i inspirujące linki.",
-            "du": "Collectie van 'responsive design' artikelen, gereedschappen, tips, handleidingen en inspirerende links.",
+            "nl": "Collectie van 'responsive design' artikelen, gereedschappen, tips, handleidingen en inspirerende links.",
             "jp": "レスポンシブ・デザインに関する記事やツール、役立つ情報、チュートリアル、次へのヒントとなるリンク集",
             "zh": "Round-up of responsive design articles, tools, tips, tutorials and inspirational links."
         }
@@ -95,7 +95,7 @@
             "de": "Eine kostenlose, wöchentliche Zusammenstellung per E-Mail zu JavaScript Neuigkeiten und Artikeln.",
             "fr": "Une compilation hebdomadaire par mail de nouvelles et d'articles sur JavaScript.",
             "pl": "Bezpłatny, tygodniowy email z przeglądem nowości i artykułów o JavaScript.",
-            "du": "Een gratis, wekelijkse e-mail, met een collectie van JavaScript nieuws en artikelen.",
+            "nl": "Een gratis, wekelijkse e-mail, met een collectie van JavaScript nieuws en artikelen.",
             "jp": "JavaScriptに関するニュースや記事を週に一度配信",
             "zh": "A free, once–weekly e-mail round-up of JavaScript news and articles."
         }
@@ -112,7 +112,7 @@
             "de": "Wochen Front-End- News und Updates aus dem Lullabot Team.",
             "fr": "De nouvelles hebdomadaire front-end et les mises à jour de l'équipe de Lullabot.",
             "pl": "Weekly News czołowy i aktualizacje z zespołu Lullabot.",
-            "du": "Wekelijkse front-end nieuws en updates van de Lullabot team.",
+            "nl": "Wekelijkse front-end nieuws en updates van de Lullabot team.",
             "jp": "Lullabotが、フロントエンドに関するニュースを週に一度配信",
             "zh": "Weekly front-end news and updates from the Lullabot team."
         }
@@ -129,7 +129,7 @@
             "de": "One quick JavaScript tip, delivered to your inbox every other week.",
             "fr": "One quick JavaScript tip, delivered to your inbox every other week.",
             "pl": "One quick JavaScript tip, delivered to your inbox every other week.",
-            "du": "One quick JavaScript tip, delivered to your inbox every other week.",
+            "nl": "One quick JavaScript tip, delivered to your inbox every other week.",
             "jp": "One quick JavaScript tip, delivered to your inbox every other week.",
             "zh": "One quick JavaScript tip, delivered to your inbox every other week."
         }
@@ -146,7 +146,7 @@
             "de": "Releases, articles, and links that affect developers working on the mobile Web.",
             "fr": "Releases, articles, and links that affect developers working on the mobile Web.",
             "pl": "Releases, articles, and links that affect developers working on the mobile Web.",
-            "du": "Releases, articles, and links that affect developers working on the mobile Web.",
+            "nl": "Releases, articles, and links that affect developers working on the mobile Web.",
             "jp": "Releases, articles, and links that affect developers working on the mobile Web.",
             "zh": "Releases, articles, and links that affect developers working on the mobile Web."
         }
@@ -163,7 +163,7 @@
             "de": "A handcrafted, carefully selected list of web development related resources.",
             "fr": "A handcrafted, carefully selected list of web development related resources.",
             "pl": "A handcrafted, carefully selected list of web development related resources.",
-            "du": "A handcrafted, carefully selected list of web development related resources.",
+            "nl": "A handcrafted, carefully selected list of web development related resources.",
             "jp": "A handcrafted, carefully selected list of web development related resources.",
             "zh": "A handcrafted, carefully selected list of web development related resources."
         }
@@ -180,7 +180,7 @@
             "de": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
             "fr": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
             "pl": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
-            "du": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
+            "nl": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
             "jp": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
             "zh": "A weekly newsletter on Web operations, infrastructure, performance and tooling."
         }
