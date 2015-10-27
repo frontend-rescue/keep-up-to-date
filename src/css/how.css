@@ -576,6 +576,16 @@ html[dir="rtl"] .full-list a {
   margin-right: 5px;
 }
 
+/*
+ * Last update
+ */
+.last-update {
+  color: #aaa;
+  font-size: 0.8em;
+  padding-bottom: 1em;
+  text-align: center;
+}
+
 /* Medium Screens*/
 @media all and (min-width:40em) {
   p {
