@@ -29,15 +29,16 @@
     "url": "https://github.com/frontend-rescue/keep-up-to-date"
   },
   "devDependencies": {
-    "wintersmith": "^2.1.0",
+    "chokidar": "^1.0.0-rc5",
+    "colors": "^1.0.3",
     "grunt": "^0.4.5",
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-copy": "^0.7.0",
     "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-htmlmin": "^0.4.0",
     "grunt-wintersmith-compile": "^0.1.1",
-    "chokidar": "^1.0.0-rc5",
-    "colors": "^1.0.3",
-    "grunt-contrib-htmlmin": "^0.4.0"
+    "moment": "^2.10.6",
+    "wintersmith": "^2.1.0"
   },
   "license": "MIT"
 }

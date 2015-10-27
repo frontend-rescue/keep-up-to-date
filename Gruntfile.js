@@ -1,6 +1,7 @@
 'use strict';
 
 var languages = require('./languages.json');
+var moment = require('moment');
 
 module.exports = function(grunt) {
   var lang = grunt.option('lang') || 'en',
@@ -9,6 +10,9 @@ module.exports = function(grunt) {
   config.locals.languages = languages;
   config.locals.lang = lang;
   config.contents = './contents/' + lang;
+
+  moment.locale(lang);  
+  config.locals.lastupdate = moment().format('LL');
 
   grunt.file.write('config-' + lang + '.json', JSON.stringify(config));
 
