@@ -184,6 +184,23 @@
             "jp": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
             "zh": "A weekly newsletter on Web operations, infrastructure, performance and tooling."
         }
+    },
+
+    {
+        "name": "Web Tools Weekly",
+        "permalink": "http://webtoolsweekly.com/",
+        "img": "https://s-media-cache-ak0.pinimg.com/136x136/cd/55/a8/cd55a81843ee7429a94b6241d7c288ec.jpg",
+        "description": {
+            "en": "Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.",
+            "es": "Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.",
+            "pt": "Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.",
+            "de": "Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.",
+            "fr": "Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.",
+            "pl": "Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.",
+            "nl": "Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.",
+            "jp": "Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.",
+            "zh": "Web Tools Weekly is a front-end development and web design newsletter with a focus on tools."
+        }
     }
 
 ]
