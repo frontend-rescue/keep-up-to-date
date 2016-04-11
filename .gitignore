@@ -4,3 +4,4 @@ build
 temp
 /nbproject/private/
 npm-debug.log
+.idea
