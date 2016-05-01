@@ -87,7 +87,7 @@
     {
         "name": "JavaScript Weekly",
         "permalink": "http://javascriptweekly.com/",
-        "img": "https://pbs.twimg.com/profile_images/612958776312905729/1D6mR9eF_200x200.png",
+        "img": "https://uptodate.frontendrescue.org/src/assets/no-image.png",
         "description": {
             "en": "A free, once–weekly e-mail round-up of JavaScript news and articles.",
             "es": "Un correo electrónico gratuito y semanal con un resumen de novedades y artículos de JavaScript.",
@@ -104,7 +104,7 @@
     {
         "name": "Front-end Rapport",
         "permalink": "http://tinyletter.com/front-end-rapport",
-        "img": "https://pbs.twimg.com/profile_images/482644147258400769/ZTjCXw38_200x200.png",
+        "img": "https://uptodate.frontendrescue.org/src/assets/no-image.png",
         "description": {
             "en": "Weekly front-end news and updates from the Lullabot team.",
             "es": "Noticias front-end Semanal y actualizaciones del equipo Lullabot.",
