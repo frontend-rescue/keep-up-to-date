@@ -154,7 +154,7 @@
         "site": "http://hugogiraudel.com/",
         "twitter": {
             "user": "HugoGiraudel",
-            "img": "https://pbs.twimg.com/profile_images/623142327129886721/EqNtZpcS_200x200.jpg"
+            "img": "https://pbs.twimg.com/profile_images/693769004373168128/fgmYomJy_400x400.jpg"
         },
         "tags": ["CSS"]
     },
@@ -284,7 +284,7 @@
         "site": "http://sarasoueidan.com/",
         "twitter": {
             "user": "SaraSoueidan",
-            "img": "https://pbs.twimg.com/profile_images/600763618376880128/C7hFlsal_200x200.png"
+            "img": "https://pbs.twimg.com/profile_images/688344960924430337/CA_VnbLh.jpg"
         },
         "tags": ["CSS"]
     },
@@ -294,7 +294,7 @@
         "site": "http://sindresorhus.com",
         "twitter": {
             "user": "sindresorhus",
-            "img": "https://pbs.twimg.com/profile_images/630442696608354304/v_NKeZ5W_200x200.png"
+            "img": "http://gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9.png?s=300"
         },
         "tags": ["JavaScript"]
     },
@@ -327,5 +327,15 @@
             "img": "https://pbs.twimg.com/profile_images/472461686071246848/NCdcpl65_200x200.jpeg"
         },
         "tags": ["HTML", "CSS", "JavaScript"]
+    },
+
+    {
+        "name": "Todd Motto",
+        "site": "http://toddmotto.com",
+        "twitter": {
+            "user": "toddmotto",
+            "img": "https://www.mozio.com/images/marketing/people/todd_motto.jpg"
+        },
+        "tags": ["JavaScript", "Angular", "React"]
     }
 ]
