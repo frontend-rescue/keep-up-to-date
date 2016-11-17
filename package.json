@@ -32,6 +32,7 @@
     "chokidar": "^1.0.0-rc5",
     "colors": "^1.0.3",
     "grunt": "^0.4.5",
+    "grunt-cli": "^1.2.0",
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-copy": "^0.7.0",
     "grunt-contrib-cssmin": "^0.10.0",
