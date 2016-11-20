@@ -304,6 +304,19 @@
             "zh": "Mainly web-focused; in particular, most are JS-focused."
         }
     },
+    
+    {
+        "name": "Code & cuisine",
+        "permalink": "http://epokk.github.io",
+        "img": "http://twitter.com/api/users/profile_image/_PandaJS?size=bigger",
+        "description": {
+            "en": "JavaScript news and links.",
+            "es": "Novedades y links sobre JavaScript.",
+            "pt": "Notícias e links de JavaScript.",
+            "de": "JavaScript News und Links.",
+            "fr": "Centre principalement sur le developpement front end et la cuisine."
+        }
+    },
 
     {
         "name": "SitePoint",
