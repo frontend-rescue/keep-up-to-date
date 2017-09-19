@@ -68,6 +68,23 @@
     },
 
     {
+        "name": "Friday Front-end",
+        "permalink": "https://zendev.com/friday-frontend.html",
+        "img": "https://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "description": {
+            "en": "15 great Front-end articles, tutorials, and announcements every Friday.",
+            "es": "15 grandes artículos front-end, tutoriales y anuncios todos los viernes.",
+            "pt": "15 ótimos artigos, tutoriais e anúncios publicitários todas as sextas-feiras.",
+            "de": "15 große Front-End-Artikel, Tutorials und Ankündigungen jeden Freitag.",
+            "fr": "15 superbes articles, tutoriels et annonces tous les vendredi.",
+            "pl": "15 wspaniałych artykułów, poradników i ogłoszeń z przodu, w każdy piątek.",
+            "nl": "15 goede front-end artikelen, tutorials en aankondigingen elke vrijdag.",
+            "jp": "毎週金曜日の15の素晴らしいフロントエンドの記事、チュートリアル、およびアナウンス。",
+            "zh": "15 great Front-end articles, tutorials, and announcements every Friday."
+        }
+    },
+
+    {
         "name": "Responsive Design Newsletter",
         "permalink": "http://responsivedesignweekly.com/",
         "img": "https://pbs.twimg.com/profile_images/2305896960/k6ksev6zphq2cwcnk5wr_200x200.png",
@@ -149,6 +166,23 @@
             "nl": "Releases, articles, and links that affect developers working on the mobile Web.",
             "jp": "Releases, articles, and links that affect developers working on the mobile Web.",
             "zh": "Releases, articles, and links that affect developers working on the mobile Web."
+        }
+    },
+
+    {
+        "name": "Web Animation Weekly",
+        "permalink": "http://webanimationweekly.com/",
+        "img": "https://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "description": {
+            "en": "A hand-picked selection of articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design!",
+            "es": "¡Una selección escogida a mano de artículos, de videos, de revisiones del libro, y de otros goodies que pertenecen a los mundos maravillosos de la animación de la tela y del diseño del movimiento!",
+            "pt": "Uma seleção escolhida à mão de artigos, vídeos, resenhas de livros e outros brindes pertencentes aos maravilhosos mundos de animação web e design de movimento!",
+            "de": "Eine handverlesene Auswahl von Artikeln, Videos, Buchbesprechungen und anderen Leckereien, die die wunderbaren Welten der Webanimation und des Motiondesigns betreffen!",
+            "fr": "Une sélection sélectionnée à la main d'articles, de vidéos, de revues de livres et d'autres articles concernant les merveilleux mondes de l'animation Web et de la conception de mouvement!",
+            "pl": "Wybrane ręcznie artykuły, filmy, recenzje książek i inne gadżety dotyczące wspaniałych światów animacji internetowej i projektowania ruchu!",
+            "nl": "Een handgekochte selectie artikelen, video's, boekrecensies en andere goodies met betrekking tot de prachtige werelden van web animatie en motion design!",
+            "jp": "Webアニメーションやモーションデザインの素晴らしい世界に関連する記事、ビデオ、ブックレビュー、その他のグッズを手作業で選ぶ！",
+            "zh": "A hand-picked selection of articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design!"
         }
     },
 
