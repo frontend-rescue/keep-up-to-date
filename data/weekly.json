@@ -2,7 +2,7 @@
     {
         "name": "Open Web Platform Daily Digest",
         "permalink": "http://webplatformdaily.org/",
-        "img": "https://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "img": "https://uptodate.pazguille.me/src/assets/no-image.png",
         "description": {
             "en": "Provides daily content about W3C, HTML, CSS, JavaScript, the Web APIs, web browsers.",
             "es": "Contenido diario sobre W3C, HTML, CSS, JavaScript, las APIs de internet, y navegadores de internet.",
@@ -53,7 +53,7 @@
     {
         "name": "FrontEnd Focus",
         "permalink": "http://frontendfocus.co/",
-        "img": "https://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "img": "https://uptodate.pazguille.me/src/assets/no-image.png",
         "description": {
             "en": "Round-up of HTML5 and browser technology news and links.",
             "es": "Resumén de HTML5 y novedades y links de teconologías del navegador.",
@@ -87,7 +87,7 @@
     {
         "name": "JavaScript Weekly",
         "permalink": "http://javascriptweekly.com/",
-        "img": "https://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "img": "https://uptodate.pazguille.me/src/assets/no-image.png",
         "description": {
             "en": "A free, once–weekly e-mail round-up of JavaScript news and articles.",
             "es": "Un correo electrónico gratuito y semanal con un resumen de novedades y artículos de JavaScript.",
@@ -104,7 +104,7 @@
     {
         "name": "Front-end Rapport",
         "permalink": "http://tinyletter.com/front-end-rapport",
-        "img": "https://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "img": "https://uptodate.pazguille.me/src/assets/no-image.png",
         "description": {
             "en": "Weekly front-end news and updates from the Lullabot team.",
             "es": "Noticias front-end Semanal y actualizaciones del equipo Lullabot.",
@@ -121,7 +121,7 @@
     {
         "name": "A Drip of JavaScript",
         "permalink": "http://adripofjavascript.com/",
-        "img": "https://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "img": "https://uptodate.pazguille.me/src/assets/no-image.png",
         "description": {
             "en": "One quick JavaScript tip, delivered to your inbox every other week.",
             "es": "One quick JavaScript tip, delivered to your inbox every other week.",
@@ -138,7 +138,7 @@
     {
         "name": "Mobile Web Weekly",
         "permalink": "http://mobilewebweekly.co/",
-        "img": "https://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "img": "https://uptodate.pazguille.me/src/assets/no-image.png",
         "description": {
             "en": "Releases, articles, and links that affect developers working on the mobile Web.",
             "es": "Releases, articles, and links that affect developers working on the mobile Web.",
@@ -155,7 +155,7 @@
     {
         "name": "Web Development Reading List",
         "permalink": "https://wdrl.info/",
-        "img": "https://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "img": "https://uptodate.pazguille.me/src/assets/no-image.png",
         "description": {
             "en": "A handcrafted, carefully selected list of web development related resources.",
             "es": "A handcrafted, carefully selected list of web development related resources.",
@@ -172,7 +172,7 @@
     {
         "name": "Web Operations Weekly",
         "permalink": "http://webopsweekly.com/",
-        "img": "https://uptodate.frontendrescue.org/src/assets/no-image.png",
+        "img": "https://uptodate.pazguille.me/src/assets/no-image.png",
         "description": {
             "en": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
             "es": "A weekly newsletter on Web operations, infrastructure, performance and tooling.",
