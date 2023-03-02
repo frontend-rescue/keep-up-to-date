@@ -321,5 +321,23 @@
             "jp": "ウェブのプロフェッショナルに向けて、ウェブ・コンテントの最前線を追ったサイト",
             "zh": "An online media company providing cutting-edge content for web professionals."
         }
+    },
+
+    {
+        "name": "Super JavaScript",
+        "permalink": "https://superjavascript.com/",
+        "img": "https://superjavascript.com/images/logo200by200.png",
+        "description": {
+            "en": "SuperJavascript is a site dedicated to providing simple, well explained tutorials on all things Javascript.",
+            "he": "SuperJavascript הוא אתר המוקדש לספק פשוט, הסביר היטב הדרכות על כל דבר Javascript.",
+            "es": "SuperJavascript es un sitio dedicado a proporcionar tutoriales sencillos y bien explicados sobre todo lo que tiene Javascript.",
+            "pt": "SuperJavascript é um site dedicado a fornecer tutoriais simples e bem explicados sobre todas as coisas Javascript.",
+            "de": "SuperJavascript ist eine Website, die einfache und gut erläuterte Tutorials für alles bietet, was Javascript bedeutet.",
+            "fr": "SuperJavascript est un site dédié à la fourniture de tutoriels simples et bien expliqués sur tout ce qui est en Javascript.",
+            "pl": "SuperJavascript jest stroną poświęconą dostarczaniu prostych, dobrze wyjaśnionych samouczków dotyczących wszystkich funkcji Javascript.",
+            "nl": "SuperJavascript is een site die is bedoeld om eenvoudige, goed uitgelegd tutorials over alles wat Javascript is te bieden.",
+            "jp": "SuperJavascriptは、すべてのJavascriptに関する簡単でわかりやすいチュートリアルを提供することを目的としたサイトです。",
+            "zh": "SuperJavascript是一个致力于提供有关所有Javascript的简单，解释良好的教程的网站。"
+        }
     }
 ]
